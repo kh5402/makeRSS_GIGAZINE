@@ -4,7 +4,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -14,7 +18,11 @@
     
     
     
+    
+    
     <description>GIGAZINEから特定のキーワードを含む記事を提供します。</description>
+    
+    
     
     
     
@@ -24,7 +32,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -34,7 +46,11 @@
       
       
       
+      
+      
       <link>https://gigazine.net/news/20231017&amp;#45;gpt&amp;#45;llama&amp;#45;safety&amp;#45;jail&amp;#45;break/</link>
+      
+      
       
       
       
@@ -44,9 +60,13 @@
       
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 06:00:00 +0900</pubDate>
       
       
+      
+    
     
     
     </item>
@@ -54,7 +74,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -64,7 +88,11 @@
       
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;pixel&amp;#45;8&amp;#45;pro&amp;#45;camera&amp;#45;ai/</link>
+      
+      
       
       
       
@@ -74,9 +102,13 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 19:00:00 +0900</pubDate>
       
       
+      
+    
     
     
     </item>
@@ -84,7 +116,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -94,7 +130,11 @@
       
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;ai&amp;#45;images&amp;#45;detectors&amp;#45;discredit&amp;#45;real&amp;#45;war/</link>
+      
+      
       
       
       
@@ -104,9 +144,13 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 14:00:00 +0900</pubDate>
       
       
+      
+    
     
     
     </item>
@@ -114,7 +158,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -124,7 +172,11 @@
       
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;content&amp;#45;credentials&amp;#45;ai&amp;#45;images/</link>
+      
+      
       
       
       
@@ -134,37 +186,57 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 13:00:00 +0900</pubDate>
       
       
+      
+    
     
     
     </item>
     
     
+    
   
     
+    
     <item>
+      
+      
       
       
       <title>Netscape創業者が「AIの進歩を阻むのは一種の殺人」と提唱、テクノロジーが導く未来を批判的に楽観視する「テクノオプティミスト宣言」とは？</title>
       
       
+      
+      
       <link>https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/</link>
+      
+      
       
       
       <description>&lt;![CDATA[初期のウェブを席巻したブラウザ・Netscape Navigatorの開発者で、ベンチャーキャピタル・Andreessen Horowitz(a16z)の創業者でもあるマーク・アンドリーセン氏が、a16zの公式サイトで「テクノオプティミスト宣言」を発表しました。「私たちは騙されています」から始まる散文詩のような声明文には、AIなどの技術の発展こそが人類の暮らしをよりよくするとの展望がつづられており、複数のメディアが賛否両論とともにこの宣言の発表を報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 19:00:00 +0900</pubDate>
       
+      
+    
     
     </item>
     
+    
+  
   
   </channel>
   
   
+  
+
 
 
 </rss>
