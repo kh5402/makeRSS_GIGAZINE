@@ -2,97 +2,169 @@
 <rss version="2.0">
   
   
+  
+  
   <channel>
+    
+    
     
     
     <title>GIGAZINEの特定のキーワードを含むRSS</title>
     
     
+    
+    
     <description>GIGAZINEから特定のキーワードを含む記事を提供します。</description>
+    
+    
     
     
     <link>https://example.com</link>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>GPTやLlamaなどの大規模言語モデルはファインチューニングで簡単に脱獄可能だという研究結果</title>
       
       
+      
+      
       <link>https://gigazine.net/news/20231017&amp;#45;gpt&amp;#45;llama&amp;#45;safety&amp;#45;jail&amp;#45;break/</link>
+      
+      
       
       
       <description>&lt;![CDATA[大規模言語モデルには、有害なコンテンツを出力しないようなセーフガードが設けられています。プリンストン大学、バージニア工科大学、IBMリサーチ、スタンフォード大学の研究チームがOpenAIのGPT-3.5 TurboとMetaのLlama-2-7b-Chat大規模言語モデルを検証した結果、小規模なファインチューニングでセーフガードを外すことができたと報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231017&amp;#45;gpt&amp;#45;llama&amp;#45;safety&amp;#45;jail&amp;#45;break/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       
       
+      
+      
       <pubDate>Tue, 17 Oct 2023 06:00:00 +0900</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>AIのスゴさを実感できるGoogle Pixel 8 ProとPixel 8の「ベストテイク」と「音声消しゴムマジック」を使ってみた＆Pixel 7からのカメラの進化もチェック</title>
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;pixel&amp;#45;8&amp;#45;pro&amp;#45;camera&amp;#45;ai/</link>
+      
+      
       
       
       <description>&lt;![CDATA[Googleの純正スマートフォン「Google Pixel 8」と「Google Pixel 8 Pro」が2023年10月12日に発売されました。Pixel 8シリーズの最大の目玉と言えるのが、前モデルからアップグレードされたチップセットのTensor G3で、実際にGIGAZINE編集部で購入してベンチマーク測定を行ったところ、その進化がはっきりと数字に表れた結果が得られています。さらに、強化されたAIの真価を実感できる新機能である「ベストテイク」と「音声消しゴムマジック」を実際に使ってみたり、Pixel 7と写真を撮り比べてカメラ性能の向上を確認してみたりしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231016&amp;#45;pixel&amp;#45;8&amp;#45;pro&amp;#45;camera&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 19:00:00 +0900</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>AI生成画像検出システムがイスラエルとパレスチナの戦争の写真を「ニセモノ」と誤判定、専門家はAIで生成したものではないと指摘</title>
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;ai&amp;#45;images&amp;#45;detectors&amp;#45;discredit&amp;#45;real&amp;#45;war/</link>
+      
+      
       
       
       <description>&lt;![CDATA[2023年10月7日に、パレスチナのガザ地区を支配するイスラム原理主義組織のハマスがイスラエルを攻撃したことで発生した大規模紛争では、無関係な偽の写真や動画が数多くSNSに出回っていることが報告されています。これらを見分けるために活用されたAIが、本物の写真を「AIによって生成されたもの」と誤認識したことが判明しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231016&amp;#45;ai&amp;#45;images&amp;#45;detectors&amp;#45;discredit&amp;#45;real&amp;#45;war/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 14:00:00 +0900</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>MicrosoftとAdobeが推進する「AI透かし」はどのように機能するのか</title>
       
       
+      
+      
       <link>https://gigazine.net/news/20231016&amp;#45;content&amp;#45;credentials&amp;#45;ai&amp;#45;images/</link>
+      
+      
       
       
       <description>&lt;![CDATA[自社のAI生成画像にメタデータを追加して将来登場するアプリでAI生成画像を見分けられるようにするとの声明を、MicrosoftやAdobe、Intelなどテック企業各社が発表しています。各社は共通して「CR」と書かれたアイコンを導入する予定としていますが、このアイコンは一体何なのか、どのように機能するのかについて、テクノロジー系ニュースメディアのThe Registerが解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231016&amp;#45;content&amp;#45;credentials&amp;#45;ai&amp;#45;images/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       
       
+      
+      
       <pubDate>Mon, 16 Oct 2023 13:00:00 +0900</pubDate>
+      
+      
+    
+    
+    </item>
+    
+    
+  
+    
+    <item>
+      
+      
+      <title>Netscape創業者が「AIの進歩を阻むのは一種の殺人」と提唱、テクノロジーが導く未来を批判的に楽観視する「テクノオプティミスト宣言」とは？</title>
+      
+      
+      <link>https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/</link>
+      
+      
+      <description>&lt;![CDATA[初期のウェブを席巻したブラウザ・Netscape Navigatorの開発者で、ベンチャーキャピタル・Andreessen Horowitz(a16z)の創業者でもあるマーク・アンドリーセン氏が、a16zの公式サイトで「テクノオプティミスト宣言」を発表しました。「私たちは騙されています」から始まる散文詩のような声明文には、AIなどの技術の発展こそが人類の暮らしをよりよくするとの展望がつづられており、複数のメディアが賛否両論とともにこの宣言の発表を報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      
+      
+      <pubDate>Tue, 17 Oct 2023 19:00:00 +0900</pubDate>
       
     
     </item>
     
   
-    <item>
-      <title>Netscape創業者が「AIの進歩を阻むのは一種の殺人」と提唱、テクノロジーが導く未来を批判的に楽観視する「テクノオプティミスト宣言」とは？</title>
-      <link>https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/</link>
-      <description>&lt;![CDATA[初期のウェブを席巻したブラウザ・Netscape Navigatorの開発者で、ベンチャーキャピタル・Andreessen Horowitz(a16z)の創業者でもあるマーク・アンドリーセン氏が、a16zの公式サイトで「テクノオプティミスト宣言」を発表しました。「私たちは騙されています」から始まる散文詩のような声明文には、AIなどの技術の発展こそが人類の暮らしをよりよくするとの展望がつづられており、複数のメディアが賛否両論とともにこの宣言の発表を報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231017&amp;#45;techno&amp;#45;optimist&amp;#45;manifesto/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
-      <pubDate>Tue, 17 Oct 2023 19:00:00 +0900</pubDate>
-    </item>
   </channel>
   
+  
+
 
 </rss>
