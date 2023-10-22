@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>GIGAZINEの特定のキーワードを含むRSS</title>
+    <description>GIGAZINEから特定のキーワードを含む記事を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>NVIDIAのドライバアップデートでStable Diffusionが2倍高速化</title>
+      <link>https://gigazine.net/news/20231022-nvidia-boosts-stable-diffusion-performance/</link>
+      <description>&lt;![CDATA[2023年10月17日に配信された「Game Ready ドライバー」のアップデートによりいくつかのゲームの起動時パフォーマンスが向上し、さらに画像生成AIのStable Diffusionが最大2倍速くなることが発表されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231022&amp;#45;nvidia&amp;#45;boosts&amp;#45;stable&amp;#45;diffusion&amp;#45;performance/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 22 Oct 2023 23:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>寄生虫に感染することで新型コロナによる入院や死亡率が低下する可能性がある</title>
+      <link>https://gigazine.net/news/20231022-parasitic-worm-infection-sars-cov-2/</link>
+      <description>&lt;![CDATA[人体に寄生する蠕虫(ぜんちゅう)が流行しているアフリカやアジアの一部地域では、新型コロナウイルス感染症(COVID-19)の入院や死亡につながる重症例が少ないことが報告されています。新たに、「寄生虫に感染するとCOVID-19で死亡する割合が低くなるかもしれない」という研究結果を、アメリカ国立アレルギー・感染症研究所(NIAID)の研究チームが発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231022&amp;#45;parasitic&amp;#45;worm&amp;#45;infection&amp;#45;sars&amp;#45;cov&amp;#45;2/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 22 Oct 2023 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>さまざまなチャットAIを簡単にローカル環境で動かせるアプリ「Ollama」の公式Dockerイメージが登場</title>
+      <link>https://gigazine.net/news/20231021-ollama-docker/</link>
+      <description>&lt;![CDATA[「Mistral」「Llama 2」「Vicuna」などオープンソースの大規模言語モデルを簡単にローカルで動作させることが可能なアプリ「Ollama」の公式Dockerイメージが登場したので、早速使い勝手を試してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231021&amp;#45;ollama&amp;#45;docker/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 21 Oct 2023 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleがAIとGoogleマップを用いて赤信号での停止を30％減らすプロジェクト「Green Light」を進めている</title>
+      <link>https://gigazine.net/news/20231020-google-ai-reduce-stops-red-traffic-lights/</link>
+      <description>&lt;![CDATA[都市部を自動車を運転している際、短い距離を走る間に何度も赤信号に引っかかってしまい、「走っている時間より信号待ちをする時間の方が長いのではないか」と思ったことがある人もいるはず。Googleが、AIを利用して信号機の切り替わるタイミングを改善し、赤信号での停止を減らすプロジェクト「Green Light」を進めていると発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231020&amp;#45;google&amp;#45;ai&amp;#45;reduce&amp;#45;stops&amp;#45;red&amp;#45;traffic&amp;#45;lights/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 20 Oct 2023 12:30:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
