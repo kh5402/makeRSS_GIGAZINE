@@ -3,6 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
+import html
 
 def main():
     output_file = "makeRSS_GIGAZINE.xml"
@@ -38,6 +39,9 @@ def main():
     for item in items:
         title = re.search(r"<title>(.*?)<\/title>", item).group(1)
         link = re.search(r"<link>(.*?)<\/link>", item).group(1)
+
+        # HTMLエンティティをデコード
+        link = html.unescape(link)
         
         # 既存のリンクならスキップ
         if link in existing_links:
@@ -54,10 +58,12 @@ def main():
             ET.SubElement(new_item, "pubDate").text = date
 
     xml_str = ET.tostring(root)
-    # 不正なXML文字を取り除く
     xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     
+    # 余分な空白行を削除
+    xml_pretty_str = os.linesep.join([line for line in xml_pretty_str.splitlines() if line.strip()])
+
     with open(output_file, "w") as f:
         f.write(xml_pretty_str)
 
