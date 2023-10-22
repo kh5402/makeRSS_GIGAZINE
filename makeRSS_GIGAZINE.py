@@ -6,7 +6,7 @@ import os
 import html
 
 def main():
-    output_file = "makeRSS_GIGAZINE.xml"
+    output_file = "makeRSS_GIGAZINE_AI.xml"
     feed = {
         "url": "https://gigazine.net/news/rss_2.0/",
         "includeWords": ["AI", "ChatGPT", "DX", "自動化", "RPA", "ノーコード", "ローコード"]
