@@ -226,5 +226,11 @@
       <description>&lt;![CDATA[文章や参考画像を入力するだけで好みの画像を生成できる画像生成AIの開発が急速に進んでいますが、画像生成AIには「人間のアーティストの著作権を侵害しているのではないか」という意見も投じられており、著作権に焦点を当てた訴訟が複数展開されています。そんな中、北カリフォルニア地区の裁判所がStable DiffusionやMidjourneyを相手取った集団訴訟を棄却しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231031&amp;#45;stable&amp;#45;diffusion&amp;#45;midjourney&amp;#45;copyright&amp;#45;lawsuit/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 31 Oct 2023 15:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>タンパク質の立体構造を正確に予測するAI「AlphaFold」の最新版がリリース、従来よりも高精度な分子の予測が可能に</title>
+      <link>https://gigazine.net/news/20231101-deepmind-alphafold-latest-model/</link>
+      <description>&lt;![CDATA[Googleの人工知能関連企業であるGoogle DeepMindは、2018年にアミノ酸の塩基配列情報からタンパク質の立体構造を予測できるAI「AlphaFold」を発表しました。AlphaFoldはその後も改良が重ねられ、2023年10月30日にリリースされたAlphaFoldの最新版では、従来よりも予測の精度が大幅に向上し、タンパク質だけでなく、リガンドなどの生体分子の予測も可能になったとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231101&amp;#45;deepmind&amp;#45;alphafold&amp;#45;latest&amp;#45;model/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 01 Nov 2023 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
