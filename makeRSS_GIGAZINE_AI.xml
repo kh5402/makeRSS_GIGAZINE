@@ -262,5 +262,11 @@
       <description>&lt;![CDATA[ChatGPTなどの生成AIは、人間によるものとしか思えない文章や画像を作ることができます。一方で、文章や画像がAIによるものかどうかを検出するツールを、スタンフォード大学やChatGPTを開発したOpenAIがリリースしていたり、ニューヨークタイムズが複数のAI画像の検出ツールをテストした結果をレポートしていたりと、人力では判断しづらい「AIか人間か」を判別する検出ツールも多数登場しています。しかし、検出ツールに委ねて判断した結果、不正行為のぬれぎぬを着せられて解雇まで至ったケースについて、クリエイター支援サイトのAuthoryを運営するエリック・ハウク氏が報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231105&amp;#45;ai&amp;#45;detector/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 05 Nov 2023 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIで「聖書」を検索し要約できるウェブサービス「Biblos: Exploration Tool」</title>
+      <link>https://gigazine.net/news/20231105-ai-boblos-exploration-tool/</link>
+      <description>&lt;![CDATA[キリスト教やユダヤ教などの教典である聖書には、「創世記」や「マタイによる福音書」「ヨハネの黙示録」など、数多くの書が存在します。そのため、聖書の中からあるトピックや文章だけを抜き出して読み解くことは困難です。「Biblos: Exploration Tool」は、ユーザーが入力したキーワードなどをもとに、AIがその部分を含む聖書の一節を抜き出して、要約してくれるウェブサービスです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231105&amp;#45;ai&amp;#45;boblos&amp;#45;exploration&amp;#45;tool/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 05 Nov 2023 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
