@@ -286,5 +286,11 @@
       <description>&lt;![CDATA[アメリカ・ニュージャージー州にあるウェストフィールド高等学校の男子生徒らが、AIを使用して同級生の女子生徒のヌード写真を作成し、共有していたことがわかりました。この事件で警察は捜査を進めていますが、問題の画像にアクセスできず、偽のヌード写真の頒布が違法行為にあたるかどうかも不明なため、暗中模索の状況であると伝えられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231106&amp;#45;ai&amp;#45;generated&amp;#45;nudes&amp;#45;high&amp;#45;school/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 06 Nov 2023 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「☆→@に変更」などのメールアドレス難読化手法はChatGPTで簡単に突破できてしまう</title>
+      <link>https://gigazine.net/news/20231106-email-obfuscation-chatgpt/</link>
+      <description>&lt;![CDATA[SNSのプロフィール欄などにメールアドレスをそのまま載せると、スクレイピングにより収集されて迷惑メールを送られるなどの被害に遭ってしまうため、「abc123☆mail.com(☆をアットマークに置き換えてください)」というような難読化がよく使われています。しかし、このテクニックはChatGPTで簡単に回避できてしまうと、AIツールの開発者が指摘しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231106&amp;#45;email&amp;#45;obfuscation&amp;#45;chatgpt/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 06 Nov 2023 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
