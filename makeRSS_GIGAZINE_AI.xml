@@ -292,5 +292,11 @@
       <description>&lt;![CDATA[SNSのプロフィール欄などにメールアドレスをそのまま載せると、スクレイピングにより収集されて迷惑メールを送られるなどの被害に遭ってしまうため、「abc123☆mail.com(☆をアットマークに置き換えてください)」というような難読化がよく使われています。しかし、このテクニックはChatGPTで簡単に回避できてしまうと、AIツールの開発者が指摘しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231106&amp;#45;email&amp;#45;obfuscation&amp;#45;chatgpt/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 06 Nov 2023 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIがコーディング不要でChatGPTをカスタムできる「GPTs」発表＆自分のGPTsを公開できる「GPT Store」も展開予定</title>
+      <link>https://gigazine.net/news/20231107-openai-custom-chatgpt-gpts/</link>
+      <description>&lt;![CDATA[OpenAIがChatGPTをカスタムして「ボードゲームのルールを教えてくれるチャットAI」や「文章の書き方を教えてくれるチャットAI」といった自分好みのチャットAIを作成できる機能を発表しました。カスタムチャットAIは「GPTs」と呼ばれており、2023年11月中に自分で作成したGPTsを公開できる「GPT Store」も提供される予定です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231107&amp;#45;openai&amp;#45;custom&amp;#45;chatgpt&amp;#45;gpts/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 07 Nov 2023 10:32:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
