@@ -376,5 +376,11 @@
       <description>&lt;![CDATA[Microsoftは2023年9月のアップデートでWindows 11にAIアシスタント「Microsoft Copilot」を標準搭載しましたが、さらなるユーザー数の拡大を目指し、Windows 10でもMicrosoft Copilotを導入する計画があることをニュースサイト・Windows Centralが報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231109&amp;#45;windows&amp;#45;10&amp;#45;with&amp;#45;new&amp;#45;ai&amp;#45;copilot/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 09 Nov 2023 12:11:00 +0900</pubDate>
     </item>
+    <item>
+      <title>大規模言語モデルをLoRAで低コストかつ効率的に微調整できる「Punica」が登場</title>
+      <link>https://gigazine.net/news/20231109-punica-lora-for-llm/</link>
+      <description>&lt;![CDATA[Low Rank Adapation(LoRA)はAIへの追加学習を少ない計算量で行うためのモデルです。このLoRAを使って、事前トレーニングされた大規模言語モデルに低コストかつ効率的にファインチューニング(微調整)を行えるシステム「Punica」を、ワシントン大学とデューク大学の研究チームが公開しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231109&amp;#45;punica&amp;#45;lora&amp;#45;for&amp;#45;llm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 09 Nov 2023 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
