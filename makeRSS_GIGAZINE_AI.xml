@@ -382,5 +382,11 @@
       <description>&lt;![CDATA[Low Rank Adapation(LoRA)はAIへの追加学習を少ない計算量で行うためのモデルです。このLoRAを使って、事前トレーニングされた大規模言語モデルに低コストかつ効率的にファインチューニング(微調整)を行えるシステム「Punica」を、ワシントン大学とデューク大学の研究チームが公開しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231109&amp;#45;punica&amp;#45;lora&amp;#45;for&amp;#45;llm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 09 Nov 2023 15:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI搭載で手のひらに画面投影可能なクリップ型ウェアラブルデバイス「Ai Pin」をHumaneが正式発表</title>
+      <link>https://gigazine.net/news/20231110-humane-ai-pin-launched/</link>
+      <description>&lt;![CDATA[HumaneがAI搭載のウェアラブルデバイス「Ai Pin」を正式に発表しました。本体価格は699ドル(約10万円)で、月額24ドル(約3600円)のサブスクリプションプランに加入する必要があり、予約は2023年11月16日、出荷は2024年初めとなっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231110&amp;#45;humane&amp;#45;ai&amp;#45;pin&amp;#45;launched/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 10 Nov 2023 11:55:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
