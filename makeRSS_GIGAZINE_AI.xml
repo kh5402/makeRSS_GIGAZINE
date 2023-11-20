@@ -598,5 +598,11 @@
       <description>&lt;![CDATA[Microsoftのサティア・ナデラCEO兼会長が、OpenAIとの協業を続けていくこと、およびOpenAIの元CEOであるサム・アルトマン氏や元社長であるグレッグ・ブロックマン氏をMicrosoftに迎えたことを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231120&amp;#45;microsoft&amp;#45;sam&amp;#45;altman/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 20 Nov 2023 22:02:00 +0900</pubDate>
     </item>
+    <item>
+      <title>カメラに写った動く物体をAIがリアルタイムに認識・解析するオープンソースのNVR「Frigate」</title>
+      <link>https://gigazine.net/news/20231121-frigate/</link>
+      <description>&lt;![CDATA[スマートホーム技術や対応デバイスが進化したことで、自宅に安価で簡単に監視カメラを設置することができるようになりました。「Frigate」はカメラで撮影した映像をAIで認識し、リアルタイムで物体検出を行うためのオープンソースで開発されたNVR(ネットワークビデオレコーダー)です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231121&amp;#45;frigate/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 21 Nov 2023 06:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
