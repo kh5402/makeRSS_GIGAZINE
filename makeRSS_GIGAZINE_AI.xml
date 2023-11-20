@@ -538,5 +538,11 @@
       <description>&lt;![CDATA[OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231119&amp;#45;open&amp;#45;interpreter/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 19 Nov 2023 22:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>サム・アルトマン氏がOpenAIを追放される前にNVIDIAとの競合プロジェクト「Tigris」に向けて中東で資金を集めようとしていたことが報じられる</title>
+      <link>https://gigazine.net/news/20231120-open-ai-sam-altman-tigris/</link>
+      <description>&lt;![CDATA[チャットAI「ChatGPT」などの開発で知られるOpenAIのサム・アルトマンCEOが、現地時間2023年11月17日にOpenAIを退社する直前まで、AI向けチップ開発企業の立ち上げに向けて、中東で資金調達を行っていたことが報じられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231120&amp;#45;open&amp;#45;ai&amp;#45;sam&amp;#45;altman&amp;#45;tigris/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 20 Nov 2023 11:21:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
