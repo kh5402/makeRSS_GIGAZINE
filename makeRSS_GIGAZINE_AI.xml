@@ -628,5 +628,11 @@
       <description>&lt;![CDATA[OpenAIのサム・アルトマン元CEOの退任および退社が発表されたことを受けて、OpenAIの従業員の9割が「サム・アルトマン復帰と取締役全員の辞任」を求める書簡に署名しました。そんな中、Microsoftのサティア・ナデラCEOは海外メディアのCNBCに対して「OpenAIの従業員がMicrosoftに移籍するかOpenAIにとどまるかは自由」と語っています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231121&amp;#45;nadella&amp;#45;says&amp;#45;openai&amp;#45;need&amp;#45;change/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 21 Nov 2023 12:21:00 +0900</pubDate>
     </item>
+    <item>
+      <title>無料お絵描きアプリ「Krita」に画像生成AIを組み込んで落書きから美麗イラストを作成する方法まとめ、Stable DiffusionとControlNetをコマンドなしでサクッと導入可能</title>
+      <link>https://gigazine.net/news/20231121-krita-ai-diffusion/</link>
+      <description>&lt;![CDATA[無料かつ高機能なペイントアプリ「Krita」に画像生成AI「Stable Diffusion」を組み込むプラグインが「krita-ai-diffusion(AI Image Diffusion)」です。Generative AI for Kritaを使えば落書きのような下描き画像から美麗イラストを生成できるとのことなので、インストール手順や使い方をまとめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231121&amp;#45;krita&amp;#45;ai&amp;#45;diffusion/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 21 Nov 2023 19:29:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
