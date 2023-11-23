@@ -712,5 +712,11 @@
       <description>&lt;![CDATA[AIが誤った情報を生成してしまう「幻覚」が2023年のワード・オブ・ザ・イヤーに選出されるなど、AIの普及とともに幻覚の問題も一般的なものとなりました。そんなAIの幻覚と人間の幻覚の関連性や、幻覚の影響を最小限にしつつテクノロジーの恩恵を受ける方法について、専門家がまとめました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231123&amp;#45;humans&amp;#45;ai&amp;#45;hallucinate/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 23 Nov 2023 18:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>大規模言語モデル(LLM)をLoRAで強化する際に役立つ情報を研究者が公開</title>
+      <link>https://gigazine.net/news/20231123-llm-lora/</link>
+      <description>&lt;![CDATA[LoRAは画像生成モデルや大規模言語モデル(LLM)に追加の情報を学習させてモデルを微調整できる仕組みです。LoRAを用いてLLMを強化する際に役立つ情報をAI研究者のセバスチャン・ラシュカ氏が解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231123&amp;#45;llm&amp;#45;lora/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 23 Nov 2023 22:41:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
