@@ -898,5 +898,11 @@
       <description>&lt;![CDATA[ChatGPTなどのチャットAIに「野球の試合結果」「昨日の天気」などの情報を聞くと、「最新情報は学習していないので答えられない」という旨の回答が返ってきます。AI開発企業のPerplexityが開発した大規模言語モデル(LLM)「pplx-7b-online」と「pplx-70b-online」は、インターネット上の情報を収集して最新情報に沿った質問に回答できるとのこと。すでに両モデルを無料で使えるデモサイトも用意されていたので、どんな回答が可能なのか確かめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231130&amp;#45;perplexity&amp;#45;pplx&amp;#45;online&amp;#45;llm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 30 Nov 2023 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Stable Diffusionを開発するStability AIが投資家からの圧力を受けて身売りを検討中という報道</title>
+      <link>https://gigazine.net/news/20231130-stability-ai-acquisition/</link>
+      <description>&lt;![CDATA[画像生成AIのStable Diffusionを開発するイギリスのAIスタートアップ・Stability AIが、財務状況を巡って投資家からの圧力が増す中で売却を検討していると報じられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231130&amp;#45;stability&amp;#45;ai&amp;#45;acquisition/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 30 Nov 2023 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
