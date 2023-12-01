@@ -910,5 +910,11 @@
       <description>&lt;![CDATA[見る方向や絵の形を変えることで、意味や見た目が変わってしまう「だまし絵」を、拡散モデルの画像生成AIで自動生成する技術「Visual Anagrams」をミシガン大学の研究チームが発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231201&amp;#45;visual&amp;#45;anagrams/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 01 Dec 2023 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国アリババがチャットAI「Qwen&amp;#45;72B」とローカルで音声入力に対応する「Qwen&amp;#45;Audio」をオープンソースで公開</title>
+      <link>https://gigazine.net/news/20231201-alibaba-qwen-72b-audio/</link>
+      <description>&lt;![CDATA[中国の大手IT企業であるアリババが、720億のパラメーター数を誇るTransformerベースの大規模言語モデル「Qwen-72B」と、日本語の音声入力にも対応したQwenのマルチモーダルバージョンの「Qwen-Audio」をオープンソース化したことを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231201&amp;#45;alibaba&amp;#45;qwen&amp;#45;72b&amp;#45;audio/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 01 Dec 2023 17:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
