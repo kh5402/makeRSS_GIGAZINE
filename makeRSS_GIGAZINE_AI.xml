@@ -922,5 +922,11 @@
       <description>&lt;![CDATA[Metaが2023年8月に公開したAI「SeamlessM4T」は、音声を入力するだけで文字起こしや別言語への翻訳、別言語への吹き替えが可能です。さらにMetaは2023年11月30日に、SeamlessM4Tの改良版となる「SeamlessM4T v2」を発表しました。この「SeamlessM4T V2」では、SeamlessM4Tのパフォーマンスを向上させているだけでなく、感情やスタイルを維持しながら、別の言語へ吹き替えを行うことも可能です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231201&amp;#45;meta&amp;#45;seamlessm4t&amp;#45;v2/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 01 Dec 2023 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー</title>
+      <link>https://gigazine.net/news/20231202-lm-studio-llm/</link>
+      <description>&lt;![CDATA[文章生成AIの研究開発が急速に進んでおり、無料で使える大規模言語モデル(LLM)も数多く公開されています。しかし、LLMの動作を実際に試すには高性能なハードウェアや複雑な環境構築が必要なことが多いため、最初から諦めている人も多いはず。無料で公開されている「LM Studio」を使えば、一般的な性能のPCでもコマンド不要で気軽にLLMの動作させられるとのことなので、実際にLM Studioを使ってLLMを使う手順を確かめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231202&amp;#45;lm&amp;#45;studio&amp;#45;llm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
