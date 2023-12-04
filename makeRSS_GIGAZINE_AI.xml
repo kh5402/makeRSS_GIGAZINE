@@ -940,5 +940,17 @@
       <description>&lt;![CDATA[2023年11月29日に発表されたばかりのAIチャットサービス「Amazon Q」にプライバシーの問題がある可能性が報じられました。一部の従業員によるとAmazon Qはひどい幻覚(ハルシネーション)に襲われることがあり、Amazon Web Services(AWS)のデータセンターの場所などを漏らすことがあるそうです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231204&amp;#45;amazon&amp;#45;q&amp;#45;severe&amp;#45;hallucinations/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 04 Dec 2023 10:37:00 +0900</pubDate>
     </item>
+    <item>
+      <title>大規模言語モデルの構造を3Dで視覚化してどんな計算が行われているのかを見やすく表示してくれるサイト「LLM Visualization」</title>
+      <link>https://gigazine.net/news/20231204-llm-visualization/</link>
+      <description>&lt;![CDATA[ChatGPTなどのチャットAIは、内部で多数の計算を行って文章を生成しています。「LLM Visualization」は内部でどのようなパラメーターが保存されていてどういった計算が行われているのかを3D形式で見やすく視覚化してくれるサイトとなっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231204&amp;#45;llm&amp;#45;visualization/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Dec 2023 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GPT&amp;#45;4のライバルと目されるGoogleの次世代マルチモーダルAI「Gemini」のリリースを延期するとスンダー・ピチャイCEOが決定か</title>
+      <link>https://gigazine.net/news/20231204-google-gemini-release-delay/</link>
+      <description>&lt;![CDATA[GoogleのAI開発部門であるGoogle DeepMindが開発中といわれている次世代マルチモーダルモデル「Gemini」はOpenAIのGPT-4に匹敵する性能を持っており、2023年中にリリースされると報じられていました。しかし、IT系ニュースメディアのThe Informationによると、Googleのスンダー・ピチャイCEOによってリリースが来年に延期されたとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231204&amp;#45;google&amp;#45;gemini&amp;#45;release&amp;#45;delay/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Dec 2023 11:31:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
