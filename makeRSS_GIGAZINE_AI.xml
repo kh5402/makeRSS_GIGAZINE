@@ -934,5 +934,11 @@
       <description>&lt;![CDATA[Microsoftやウィスコンシン大学マディソン校などの研究チームが開発し、2023年4月17日に公開した「LLaVA」は「視覚」を持つAIで、画像を入力するとその画像に基づいて返答を行うことができます。2023年10月5日に登場したLLaVA-1.5はさらにクオリティが向上しているとのことなので、実際にGoogleのクラウドコンピューティングサービス「Google Cloud Platform(GCP)」上で動作させてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231203&amp;#45;llava&amp;#45;gcp/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 03 Dec 2023 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AmazonのAI「Amazon Q」は重度の幻覚によってAWSデータセンターの場所などの機密データを漏えいしているとの指摘</title>
+      <link>https://gigazine.net/news/20231204-amazon-q-severe-hallucinations/</link>
+      <description>&lt;![CDATA[2023年11月29日に発表されたばかりのAIチャットサービス「Amazon Q」にプライバシーの問題がある可能性が報じられました。一部の従業員によるとAmazon Qはひどい幻覚(ハルシネーション)に襲われることがあり、Amazon Web Services(AWS)のデータセンターの場所などを漏らすことがあるそうです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231204&amp;#45;amazon&amp;#45;q&amp;#45;severe&amp;#45;hallucinations/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Dec 2023 10:37:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
