@@ -1042,5 +1042,17 @@
       <description>&lt;![CDATA[現地時間2023年12月6日に、Googleが独自開発を進める機械学習特化のプロセッサ「Tensor Processing Unit(TPU)」の新モデル「TPU v5p」が発表されました。。GoogleはこのTPU v5pについて「TPU v5pと同時に発表されたマルチモーダルAIのGeminiのトレーニングにも使用されています」と述べています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;google&amp;#45;tpu&amp;#45;v5p/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 07 Dec 2023 10:36:00 +0900</pubDate>
     </item>
+    <item>
+      <title>クラウド上ではなくスマホ上で動くローカルファーストLLM「Gemini Nano」がPixel 8 Proで動作可能に、GboardのSmart Replyとレコーダーの自動要約強化に先行投入</title>
+      <link>https://gigazine.net/news/20231207-google-gemini-on-pixel/</link>
+      <description>&lt;![CDATA[Googleが2023年12月6日に大規模言語モデル「Gemini」を発表しました。さらに、このGeminiをPixel 8 Proに導入し、クラウドではなくデバイス上で動作するローカルAIとして動作させることを明らかにしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;google&amp;#45;gemini&amp;#45;on&amp;#45;pixel/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Dec 2023 11:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Metaが画像生成AI「Imagine」を無料で使えるウェブアプリをリリース、Emuモデルを利用しプロンプトごとに4つの画像を生成可能</title>
+      <link>https://gigazine.net/news/20231207-meta-image-generator-ai-imagine/</link>
+      <description>&lt;![CDATA[Metaが画像生成AI「Imagine」を無料で使えるウェブアプリ「Imagine With Meta AI」を公開しました。Imagine With Meta AIは無料で利用可能で、文章(プロンプト)を入力するだけで画像を4枚生成できるとのこと。すでに海外メディアが作例を公開しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;meta&amp;#45;image&amp;#45;generator&amp;#45;ai&amp;#45;imagine/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Dec 2023 10:58:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
