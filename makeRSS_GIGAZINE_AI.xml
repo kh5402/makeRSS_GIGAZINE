@@ -1060,5 +1060,23 @@
       <description>&lt;![CDATA[AMDが現地時間の2023年12月6日、AI特化チップを備えたモバイルプロセッサ「Ryzen 8040」シリーズを発表しました。コードネーム「Hawk Point」として開発が進められたRyzen 8040シリーズは、「Zen 4」CPUと「RDNA 3」GPUを搭載したAPUで、従来のAMD製モデルと比較して最大1.6倍のAI処理性能を発揮するとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;amd&amp;#45;ryzen&amp;#45;8040&amp;#45;apus&amp;#45;hawk&amp;#45;point/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 07 Dec 2023 11:55:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AMDがAIチップ「Instinct MI300」シリーズでNVIDIAの牙城に切り込む、既にOpenAI・Microsoft・Meta・Oracleが採用を決定</title>
+      <link>https://gigazine.net/news/20231207-amd-instinct-mi300-alternative-nvidia/</link>
+      <description>&lt;![CDATA[AMDがNVIDIA H100の最大1.6倍の性能を誇るGPUである「Instinct MI300X」と、CPUとGPUを組み合わせたAPUである「Instinct MI300A」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;amd&amp;#45;instinct&amp;#45;mi300&amp;#45;alternative&amp;#45;nvidia/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Dec 2023 13:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>文字・音楽・画像を同時に処理する「マルチモーダルAI」の性能がよく分かるGoogleの「Gemini」ハウツー動画11種を解説</title>
+      <link>https://gigazine.net/news/20231207-google-gemini-how-to-movie/</link>
+      <description>&lt;![CDATA[2023年12月6日、Googleが文字・音楽・画像を同時に処理するマルチモーダルAI「Gemini」をリリースしました。リリースに合わせてGeminiの使い方解説動画がアップロードされていたので確認してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;google&amp;#45;gemini&amp;#45;how&amp;#45;to&amp;#45;movie/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Dec 2023 13:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マクドナルドがGoogleとパートナーシップを締結、GoogleのAIを2024年から店舗のオペレーションに応用すると発表</title>
+      <link>https://gigazine.net/news/20231207-mcdonald-google-ai-operation/</link>
+      <description>&lt;![CDATA[2023年12月6日に、ハンバーガーチェーンのマクドナルドがGoogleと戦略的パートナーシップ契約を結んだことを発表しました。パートナーシップの一環としてマクドナルドでは、2024年からオペレーションにGoogle CloudのジェネレーティブAIを導入して、システムのアップデートや業務の最適化を行う予定であることを明らかにしています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231207&amp;#45;mcdonald&amp;#45;google&amp;#45;ai&amp;#45;operation/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Dec 2023 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
