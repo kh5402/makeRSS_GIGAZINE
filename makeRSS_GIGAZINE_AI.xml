@@ -1144,5 +1144,11 @@
       <description>&lt;![CDATA[「llamafile」は大規模言語モデルのモデルやウェイトの情報が1つの実行ファイルにまとまった形式のファイルです。Linux・macOS・Windows・FreeBSD・NetBSD・OpenBSDという6つのOS上でインストール不要で大規模言語モデルを動作させることが可能とのことなので、実際にWindowsおよびLinuxディストリビューションの1つであるDebian上で動かしてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231210&amp;#45;llamafile/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 10 Dec 2023 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AMDのAI特化型チップ「MI300X」はChatGPTにも使われるNVIDIA製チップ「H100」を超えられるのか？</title>
+      <link>https://gigazine.net/news/20231210-amd-mi300-nvidia-h100/</link>
+      <description>&lt;![CDATA[2023年12月6日(水)にAMDがAI特化型チップ「MI300X」および「MI300A」を発表しました。AMDはMI300XがNVIDIA製AI特化型チップ「H100」と比べて優れた性能を発揮するとアピールしていますが、記事作成時点ではAMDが実施したベンチマークの結果しか公開されていません。そんな中、半導体関連コンサルタントのディラン・パテル氏がAMDの公式資料をもとにMI300Xが一体どれほどの性能を備えているのかを分析しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231210&amp;#45;amd&amp;#45;mi300&amp;#45;nvidia&amp;#45;h100/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 10 Dec 2023 21:57:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
