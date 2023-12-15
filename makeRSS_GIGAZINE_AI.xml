@@ -1252,5 +1252,17 @@
       <description>&lt;![CDATA[GoogleのAI開発部門であるGoogle DeepMindが、大規模言語モデル(LLM)を利用して数理科学の未解決の問題を解決したり、新しい知見をもたらしたりすることができるAIシステム「FunSearch」を発表しました。Google DeepMindのデミス・ハサビスCEOは「FunSearchのブレークスルーに興奮しています」と語っています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231215&amp;#45;google&amp;#45;deepmind&amp;#45;llm&amp;#45;funsearch/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 15 Dec 2023 11:15:00 +0900</pubDate>
     </item>
+    <item>
+      <title>IntelがノートPC向けの第14世代SoC「Core Ultra」プロセッサーを正式発表、NPU搭載でAI性能を重視</title>
+      <link>https://gigazine.net/news/20231215-intel-meteor-lake-core-ultra/</link>
+      <description>&lt;![CDATA[Intelが第14世代CoreプラットフォームのノートPC向けプロセッサ「Core Ultra」シリーズを正式発表しました。Core Ultraは初のIntel 4プロセスノードで設計されたコンシューマー向けSoCで、IntelのSoCとして初めてAI処理に特化したニューラルプロセッシングユニット(NPU)を搭載しているのがポイントです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231215&amp;#45;intel&amp;#45;meteor&amp;#45;lake&amp;#45;core&amp;#45;ultra/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Dec 2023 11:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DropboxユーザーのデータをOpenAIと共有する機能がデフォルトで有効になっているとの指摘で大炎上、実際はAI機能利用者のみ</title>
+      <link>https://gigazine.net/news/20231215-dropbox-ai-privacy/</link>
+      <description>&lt;![CDATA[DropboxがAI機能を試験的に導入した2カ月後、ユーザーのデータをOpenAIと共有する設定がデフォルトで有効になっていると指摘されたため、Dropboxが詳細を説明しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231215&amp;#45;dropbox&amp;#45;ai&amp;#45;privacy/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Dec 2023 11:38:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
