@@ -1360,5 +1360,11 @@
       <description>&lt;![CDATA[中国の新興GPUメーカー「Moore Threads」が、2023年12月19日にAIのトレーニングやデータセンター向けGPU「MTT S4000」を発表しました。公式発表によると、MTT S4000のMUSIFYツールはNVIDIAのCUDAとの完全な互換性があるとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231220&amp;#45;moore&amp;#45;threads&amp;#45;mtt&amp;#45;s4000/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 20 Dec 2023 12:13:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GoogleがBardで選挙関連のクエリを制限するなど、選挙関連のAI使用に制限</title>
+      <link>https://gigazine.net/news/20231220-google-limit-election-queries-generative-ai/</link>
+      <description>&lt;![CDATA[2024年にはアメリカ大統領選挙を含む、多くの選挙が世界中で行われます。Googleは自社プラットフォームが選挙で悪用されることを防ぐため、AIを用いた不正行為に対する取り組みを強化すると発表しました。これにより、Bardでは選挙関連のクエリが制限されるなど、さまざまな制限が課されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231220&amp;#45;google&amp;#45;limit&amp;#45;election&amp;#45;queries&amp;#45;generative&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 20 Dec 2023 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
