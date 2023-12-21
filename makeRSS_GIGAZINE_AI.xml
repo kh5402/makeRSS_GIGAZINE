@@ -1402,5 +1402,11 @@
       <description>&lt;![CDATA[チェスや囲碁、ストラテジーゲームなど、知性がものをいうゲームでは既にAIが人間を圧倒するようになっていますが、身体的スキルではまだ人類に一日の長があります。しかし、手で物理的にゲームボードを傾けて遊ぶ「迷路ゲーム」でも、人間がかなわないようなスーパープレイを見せるAIが登場したことが発表されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231221&amp;#45;cyberrunner&amp;#45;ai&amp;#45;physical&amp;#45;skill&amp;#45;game/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 21 Dec 2023 12:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>画像生成AI「Stable Diffusion」などに使われた50億枚超の画像セット「LAION&amp;#45;5B」に1008枚の児童ポルノ画像が入っていることが判明し削除へ</title>
+      <link>https://gigazine.net/news/20231221-ai-dataset-laion-child-abuse-images/</link>
+      <description>&lt;![CDATA[スタンフォード大学インターネット天文台(SIO)の調査により、画像生成AI「Stable Diffusion」などのトレーニングに利用されているオープンデータセットの「LAION-5B」に、児童性的虐待画像(CSAM)が含まれていることが明らかになりました。CSAMの疑いのある画像は3226枚で、そのうち1008枚が外部機関の検証によりCSAMであると確認されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231221&amp;#45;ai&amp;#45;dataset&amp;#45;laion&amp;#45;child&amp;#45;abuse&amp;#45;images/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 21 Dec 2023 14:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
