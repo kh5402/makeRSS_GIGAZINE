@@ -1408,5 +1408,11 @@
       <description>&lt;![CDATA[スタンフォード大学インターネット天文台(SIO)の調査により、画像生成AI「Stable Diffusion」などのトレーニングに利用されているオープンデータセットの「LAION-5B」に、児童性的虐待画像(CSAM)が含まれていることが明らかになりました。CSAMの疑いのある画像は3226枚で、そのうち1008枚が外部機関の検証によりCSAMであると確認されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231221&amp;#45;ai&amp;#45;dataset&amp;#45;laion&amp;#45;child&amp;#45;abuse&amp;#45;images/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 21 Dec 2023 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>チャットAIが出力した文書を画像生成AIで画像化するプロセスを伝言ゲームのように何度も繰り返すと画像がどんな風に変化していくかがわかる「Image Telephone」</title>
+      <link>https://gigazine.net/news/20231221-image-telephone/</link>
+      <description>&lt;![CDATA[「チャットAIに画像を入力してキャプションを付けさせ、これを画像生成AIのDALL-Eで画像化し、再びチャットAIに入力して……」というプロセスを何度も繰り返し、AIが生成する画像がどのように変化していくのかを観察できるのが「Image Telephone」です。作者のelijahbenizzyさんは「自分でやってみたところ結果が非常に興味深いものだったためアプリ化して誰でも気軽に体験できるようにしてみました」と説明しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20231221&amp;#45;image&amp;#45;telephone/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 21 Dec 2023 20:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
