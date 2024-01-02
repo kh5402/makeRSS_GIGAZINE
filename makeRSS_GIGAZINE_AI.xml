@@ -1522,5 +1522,11 @@
       <description>&lt;![CDATA[印刷機や組み立てラインなど、人類はさまざまな発明を行う事で自分自身の能力を強化してきました。2023年には生成AIが特に飛躍的な発展を遂げ、メールの作成からソフトウェア開発やガンの早期発見など生活のあらゆる側面に影響を与えています。そうした状況において、2024年の技術動向はどうなりそうなのかという予測をAmazon.comで最高技術責任者(CTO)を勤めるワーナー・ヴォゲルスさんがブログに投稿しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240101&amp;#45;tech&amp;#45;predictions&amp;#45;for&amp;#45;2024/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 01 Jan 2024 15:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>画像を分析してキャプションを自動で生成してくれるオープンソースで商用利用も可能なAIモデル「BLIP&amp;#45;2」をReplicate上で使ってみた</title>
+      <link>https://gigazine.net/news/20240102-blip-2-replicate/</link>
+      <description>&lt;![CDATA[AIモデルを誰でも簡単にデプロイできるサイト「Replicate」にて、画像を分析してキャプションを生成するAIモデルのBLIP-2が簡単に利用できるとのことなので、実際にいくつかの画像を元にキャプションを生成させてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240102&amp;#45;blip&amp;#45;2&amp;#45;replicate/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 02 Jan 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
