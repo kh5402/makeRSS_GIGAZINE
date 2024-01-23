@@ -1876,5 +1876,11 @@
       <description>&lt;![CDATA[GPUメーカーのNvidiaと仮想世界向けAIを制作するConvaiは、共同で開発している「AIの力でゲーム世界のキャラクターと自然な会話ができる技術」の現在の状況について2024年1月9日から12日にかけて開催されたCESで発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240122&amp;#45;nvidia&amp;#45;convai&amp;#45;ai&amp;#45;npc/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 22 Jan 2024 12:40:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「声で指示するだけで指示したとおりのプログラムが生成・実行される」ツールをAmiVoiceとOpen Interpreterでサクッと自作してみた</title>
+      <link>https://gigazine.net/news/20240123-amivoice-open-interpreter/</link>
+      <description>&lt;![CDATA[プログラミングを行う事でさまざまな作業をコンピューターに任せることが可能ですが、プログラムの作成はなかなか面倒くさいものです。今回はそうした面倒な作業をAIに任せるべく、音声認識エンジンの「AmiVoice」とプログラムの自動作成・実行支援ツールの「Open Interpreter」を使用して「声で指示するだけで指示したとおりのプログラムが生成・実行される」というツールを作成してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240123&amp;#45;amivoice&amp;#45;open&amp;#45;interpreter/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 23 Jan 2024 09:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
