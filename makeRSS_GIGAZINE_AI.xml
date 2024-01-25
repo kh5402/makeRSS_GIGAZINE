@@ -1918,5 +1918,11 @@
       <description>&lt;![CDATA[ウェブブラウザ「Google Chrome」の最新安定版であるバージョン121がリリースされました。「タブの自動整理」「独自のテーマ生成」「文章作成支援」という生成AIを使用した機能が3つ追加されたほか、AndroidデバイスにおいてWebGPUが標準で有効化されるなどのアップデートが行われています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240124&amp;#45;google&amp;#45;chrome&amp;#45;121/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 24 Jan 2024 16:10:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAがSDRの映像をHDRに変換するAI技術「RTX Video HDR」を全RTXシリーズ向けにリリース</title>
+      <link>https://gigazine.net/news/20240125-nvidia-rtx-video-hdr/</link>
+      <description>&lt;![CDATA[NVIDIAが、GeForce RTX 4070 Ti SUPERが発売された2024年1月24日に、SDR(標準ダイナミックレンジ)の映像をHDR(ハイダイナミックレンジ)映像に変換する機能「RTX Video HDR」がGeForce RTXシリーズで使えるようになるドライバーアップデートをリリースしましたHigh Can See Clearly Now: AI-Powered NVIDIA RTX Video HDR Transforms Standard Video Into Stunning High Dynamic Range | NVIDIA Bloghttps://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/Nvidia adds AI-powered SDR to HDR video enhancement to its latest drivers — RTX Video HDR now available for all RTX owners | Tom's Hardwarehttps://www.tomshardware.com/pc-components/gpu-drivers/nvidia-adds-ai-powered-sdr-to-hdr-video-enhancement-to-its-latest-drivers-rtx-video-hdr-now-available-for-all-rtx-ownersRTX Video HDRが使えるようになるのは、GeForce Game Readyドライバーのバージョン551.23以降とNVIDIA Studioドライバーのバージョン551.23以降。このRTX Video HDRを使うことで、SDRの映像をHDRに変換することが可能になります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240125&amp;#45;nvidia&amp;#45;rtx&amp;#45;video&amp;#45;hdr/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 25 Jan 2024 11:24:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
