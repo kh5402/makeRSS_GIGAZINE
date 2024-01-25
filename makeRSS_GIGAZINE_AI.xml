@@ -1942,5 +1942,11 @@
       <description>&lt;![CDATA[近年はMicrosoftやGoogleなどの大手テクノロジー企業が相次いでAIを搭載した製品をリリースしている中で、iPhoneやiPadなどを展開するAppleも独自のAI開発に向けて動き出しています。経済紙のフィナンシャル・タイムズが、AppleはAI製品に必要な独自の大規模言語モデルを開発しており、2024年にはiOS 18で「AIを搭載した次世代Siri」がリリースされる可能性があると報じました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240125&amp;#45;apple&amp;#45;siri&amp;#45;ios&amp;#45;18&amp;#45;run&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 25 Jan 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ネット上に驚くほど多くの機械翻訳コンテンツがあふれることで言語モデルのトレーニングに影響が出る可能性</title>
+      <link>https://gigazine.net/news/20240126-web-machine-translated/</link>
+      <description>&lt;![CDATA[AIは膨大な量のデータを学習することによって成り立っています。データの多くはネットで収集されていますが、マイナー言語だと機械的に翻訳された情報が大量に出回っている状態で、言語モデルのトレーニングに懸念があることを研究者が指摘しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240126&amp;#45;web&amp;#45;machine&amp;#45;translated/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 26 Jan 2024 06:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
