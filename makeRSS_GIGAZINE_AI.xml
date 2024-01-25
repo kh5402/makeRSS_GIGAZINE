@@ -1924,5 +1924,11 @@
       <description>&lt;![CDATA[NVIDIAが、GeForce RTX 4070 Ti SUPERが発売された2024年1月24日に、SDR(標準ダイナミックレンジ)の映像をHDR(ハイダイナミックレンジ)映像に変換する機能「RTX Video HDR」がGeForce RTXシリーズで使えるようになるドライバーアップデートをリリースしましたHigh Can See Clearly Now: AI-Powered NVIDIA RTX Video HDR Transforms Standard Video Into Stunning High Dynamic Range | NVIDIA Bloghttps://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/Nvidia adds AI-powered SDR to HDR video enhancement to its latest drivers — RTX Video HDR now available for all RTX owners | Tom's Hardwarehttps://www.tomshardware.com/pc-components/gpu-drivers/nvidia-adds-ai-powered-sdr-to-hdr-video-enhancement-to-its-latest-drivers-rtx-video-hdr-now-available-for-all-rtx-ownersRTX Video HDRが使えるようになるのは、GeForce Game Readyドライバーのバージョン551.23以降とNVIDIA Studioドライバーのバージョン551.23以降。このRTX Video HDRを使うことで、SDRの映像をHDRに変換することが可能になります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240125&amp;#45;nvidia&amp;#45;rtx&amp;#45;video&amp;#45;hdr/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 25 Jan 2024 11:24:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleが超高品質な動画生成AI「Lumiere」を発表、フレーム同士のつながりが自然で「テキストや画像から動画生成」「写真の一部を動画化」「動画の一部分を指定して加工」などなど機能てんこもり</title>
+      <link>https://gigazine.net/news/20240125-google-lumiere-video-generative-ai/</link>
+      <description>&lt;![CDATA[Googleの研究チームが動画生成AI「Lumiere」を2024年1月24日(水)に発表しました。Lumiereではフレーム同士が自然につながった違和感の少ない動画を生成可能で、テキストや画像を入力して動画を生成できるほか、動画の一部分を指定して別の動画に置き換えたり、写真の一部分だけを動かしたりといった操作も可能です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240125&amp;#45;google&amp;#45;lumiere&amp;#45;video&amp;#45;generative&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 25 Jan 2024 12:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
