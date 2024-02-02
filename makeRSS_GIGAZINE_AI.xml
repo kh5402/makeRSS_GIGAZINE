@@ -2152,5 +2152,11 @@
       <description>&lt;![CDATA[Googleマップが生成AIを取り込み、使い勝手が大幅に向上することを、Googleマップ担当バイスプレジデントのミリアム・ダニエル氏が報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240202&amp;#45;google&amp;#45;map&amp;#45;generative&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 02 Feb 2024 16:54:00 +0900</pubDate>
     </item>
+    <item>
+      <title>画像生成AI・Stable Diffusionのエンコーダーに見つかった致命的な欠陥とは？</title>
+      <link>https://gigazine.net/news/20240202-stable-diffusion-vae-critical-flaw/</link>
+      <description>&lt;![CDATA[画像生成AIのStable Diffusionは「潜在拡散モデル」と呼ばれるAIで、テキストを入力するだけで高精度な画像を生成することが可能です。このStable Diffusionに使われている「VAE」に致命的な欠陥があるという報告が、オンライン掲示板サイトのRedditに投稿されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240202&amp;#45;stable&amp;#45;diffusion&amp;#45;vae&amp;#45;critical&amp;#45;flaw/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 02 Feb 2024 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
