@@ -2338,5 +2338,23 @@
       <description>&lt;![CDATA[大規模言語モデル(LLM)のほとんどは、主に英語と中国語のデータでトレーニングされています。そのため、それ以外の言語数千種類については文章生成の精度が落ちてしまうという問題があります。スタートアップ企業・Cohereの非営利研究組織であるCohere for AIがリリースしたLLM「Aya」は119カ国の研究者のべ3000人が参加したプロジェクトで開発され、既存のオープンソースLLMの2倍以上の言語をカバーしているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240214&amp;#45;aya&amp;#45;cohere&amp;#45;for&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 14 Feb 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIがBingを活用したGoogle対抗のウェブ検索サービスを開発中か</title>
+      <link>https://gigazine.net/news/20240215-openai-develops-web-search-product/</link>
+      <description>&lt;![CDATA[「ChatGPT」を展開するOpenAIが、Google検索に対抗することを目指す新しい検索サービスの開発に取り組んでいると報じられました。新たな検索サービスは、Microsoftの検索エンジンであるBingを活用するとみられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240215&amp;#45;openai&amp;#45;develops&amp;#45;web&amp;#45;search&amp;#45;product/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 15 Feb 2024 11:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Appleがプロンプトを入力するだけで静止画をアニメーション化してくれるAIツール「Keyframer」を発表</title>
+      <link>https://gigazine.net/news/20240215-apple-keyframer/</link>
+      <description>&lt;![CDATA[Appleの研究チームが2024年2月8日、大規模言語モデルを活用して、静止画をアニメーション化するAIツール「Keyframer」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240215&amp;#45;apple&amp;#45;keyframer/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 15 Feb 2024 11:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「AIは特許を得られない」というガイダンスを特許商標庁が改めて発表、ただし「AI支援だからといって絶対特許を取得できないわけではない」</title>
+      <link>https://gigazine.net/news/20240215-uspto-inventorship-guidance/</link>
+      <description>&lt;![CDATA[アメリカ商務省・特許商標庁(USPTO)が、AIの助けを借りた「AI支援発明」の発明者要件についてガイダンスを発表しました。ガイダンスでは、USPTOの従来の見解の通り、特許を取得できるのは「自然人(生きている人間)」に限られ、AIなどの「非自然人」の特許取得が否定されました。しかし、人間がAIの支援を受けて発明を行った事例については「絶対に特許が取れないわけではない」と可能性が残されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240215&amp;#45;uspto&amp;#45;inventorship&amp;#45;guidance/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 15 Feb 2024 11:35:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
