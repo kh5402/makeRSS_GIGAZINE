@@ -2374,5 +2374,11 @@
       <description>&lt;![CDATA[RazerのゲーミングノートPC「Razer Blade 16」の2024年モデルはカスタム次第でVRAM容量16GBのGPU「GeForce RTX 4090 Laptop」を搭載可能です。Razer Blade 16のGeForce RTX 4090 Laptop搭載モデルをRazerから借りてきたので、画像生成AIをどれだけの速度で実行できるのか確かめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240216&amp;#45;gaming&amp;#45;laptop&amp;#45;razer&amp;#45;blade&amp;#45;16&amp;#45;generative&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 16 Feb 2024 09:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>テキストから物理法則をシミュレートしながら動画を生成するAI「Sora」をOpenAIが発表</title>
+      <link>https://gigazine.net/news/20240216-openai-text-to-video-model-sora/</link>
+      <description>&lt;![CDATA[大規模言語モデルのGPTシリーズや画像生成AIの安全性のDALL-Eを開発するOpenAIが、テキストから最長1分間の動画を生成できるAI「Sora」を発表しました。Soraは「複数のキャラクター、特定の種類のモーション、被写体と背景の正確な詳細を含む複雑なシーン」を「物理世界にどのように存在するのかを理解」した上で動画を生成できるとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240216&amp;#45;openai&amp;#45;text&amp;#45;to&amp;#45;video&amp;#45;model&amp;#45;sora/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 16 Feb 2024 10:50:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
