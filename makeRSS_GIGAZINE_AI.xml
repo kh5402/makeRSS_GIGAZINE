@@ -2458,5 +2458,11 @@
       <description>&lt;![CDATA[大規模言語モデルや画像生成AIなどの機械学習モデルでは、ファインチューニングやLoRA(Low Rank Adaptation)といった手法によって、モデルの重みを微調整し、特定のタスクや目的に沿った出力を行うようにカスタマイズすることができます。香港科技大学の研究チームが、LoRAよりも計算コストと時間を削減できる新たな手法「DoRA(Weight-Decomposed Low-Rank Adaptation)」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240220&amp;#45;dora&amp;#45;weight&amp;#45;decomposed&amp;#45;low&amp;#45;rank&amp;#45;adaptation/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 20 Feb 2024 09:15:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「iOS 18」で登場するとウワサされている新AI機能まとめ</title>
+      <link>https://gigazine.net/news/20240220-ios-18-ai-features/</link>
+      <description>&lt;![CDATA[Appleは生成AI機能の詳細を2024年後半に発表するとしており、2024年にリリース予定の「iOS 18」ではAI機能が盛りだくさんになると目されています。記事作成時点でウワサされているiOS 18のAI機能を、Apple関連メディアの9to5Macがまとめました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240220&amp;#45;ios&amp;#45;18&amp;#45;ai&amp;#45;features/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 20 Feb 2024 11:14:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
