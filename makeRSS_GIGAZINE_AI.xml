@@ -2602,5 +2602,11 @@
       <description>&lt;![CDATA[ByteDanceが開発した高速画像生成モデル「SDXL-Lightning」のデモアプリがAIエンジニアのアレックス・ボルコフ氏によって作成されました。デモアプリには「fal.ai」がホストする画像生成AI高速処理APIが使われているほか、「Groq」が提供する大規模言語モデル「Mixtral」の高速実行APIを組み合わせることで簡単な文章を入力するだけで画像生成AI向けに最適化したプロンプトを高速生成して瞬時に高品質な画像を生成できるようになっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240227&amp;#45;sdxl&amp;#45;lightning/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 27 Feb 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAI対ニューヨーク・タイムズ裁判でOpenAIが「ニューヨーク・タイムズは自社の記事を引き出すためにChatGPTをハッキングした」と主張</title>
+      <link>https://gigazine.net/news/20240228-openai-newyork-times-chatgpt-hacking/</link>
+      <description>&lt;![CDATA[アメリカの大手新聞社であるニューヨーク・タイムズは、OpenAIとMicrosoftがChatGPTやその他のAIシステムのトレーニングにニューヨーク・タイムズのコンテンツを利用したとして、両社を訴えています。これに対し、OpenAIは、「ニューヨーク・タイムズがOpenAIの利用規約に違反するプロンプトを用いて証拠を生成した」と主張しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240228&amp;#45;openai&amp;#45;newyork&amp;#45;times&amp;#45;chatgpt&amp;#45;hacking/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 28 Feb 2024 11:09:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
