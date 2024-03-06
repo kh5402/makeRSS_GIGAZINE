@@ -2818,5 +2818,11 @@
       <description>&lt;![CDATA[起業家のイーロン・マスク氏が、ChatGPTの開発元であるOpenAIを訴えた件について、OpenAIが自社ブログで反論しています。OpenAIは、「OpenAIとテスラの合併」あるいは「OpenAIの過半数の株式の取得、取締役会の支配権の獲得、CEOへの就任」のいずれかをマスク氏が望んでいたと指摘しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240306&amp;#45;openai&amp;#45;elon&amp;#45;musk/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 06 Mar 2024 15:58:00 +0900</pubDate>
     </item>
+    <item>
+      <title>日本語対応マルチモーダルAI「Claude 3」はわずか2つのプロンプトで量子アルゴリズムを設計可能</title>
+      <link>https://gigazine.net/news/20240306-claude-3-quantum-algorithm/</link>
+      <description>&lt;![CDATA[2024年3月に発表されたAnthropicの大規模言語モデル「Claude 3」は、20万トークンまでのコンテキスト長に対応しているほか、さまざまなベンチマークにおいてOpenAIの大規模言語モデル「GPT-4」を上回っています。そんなClaude 3について、AIスタートアップのExtropicのギヨーム・ヴェルドン氏が「Claude 3はわずか2つのプロンプトを入力するだけで量子アルゴリズムをゼロから設計することが可能」と報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240306&amp;#45;claude&amp;#45;3&amp;#45;quantum&amp;#45;algorithm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 06 Mar 2024 17:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
