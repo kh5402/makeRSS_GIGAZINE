@@ -2878,5 +2878,11 @@
       <description>&lt;![CDATA[近年はOpenAIのChatGPTやMetaのLLaMA、GoogleのGeminiなど多くのテクノロジー企業から生成AIモデルがリリースされています。AIモデルを利用する消費者も増えている中で、AI研究者がこれらのAIモデルを調査して安全性やリスクを評価することの重要性が高まっていますが、AIモデルの悪用を禁じる利用規約によって研究者らの活動が妨げられているとのこと。そこで、250人以上のAI研究者や法律専門家らが、AIモデルの正当な調査を法的・技術的リスクから保護するセーフハーバーの設置を求める公開書簡に署名しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240307&amp;#45;safe&amp;#45;harbor&amp;#45;ai&amp;#45;evaluation/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 07 Mar 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAのAI特化GPUは一体どんなものなのか？ゲーム用GPUとは別物なのか？</title>
+      <link>https://gigazine.net/news/20240307-nvidia-ai-gpu/</link>
+      <description>&lt;![CDATA[AIの研究開発が急激に進む中、「AI用GPU」を開発するNVIDIAにも大きな注目が集まっています。しかし、「AIの研究開発や運用にGPUが使われている」ということは知っていても、どんなGPUがどんな規模で使われているのかはイメージしにくいものです。そこで、NVIDIAのAI特化GPUやプラットフォームについてまとめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240307&amp;#45;nvidia&amp;#45;ai&amp;#45;gpu/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Mar 2024 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
