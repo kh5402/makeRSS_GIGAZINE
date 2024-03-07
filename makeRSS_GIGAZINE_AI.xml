@@ -2884,5 +2884,11 @@
       <description>&lt;![CDATA[AIの研究開発が急激に進む中、「AI用GPU」を開発するNVIDIAにも大きな注目が集まっています。しかし、「AIの研究開発や運用にGPUが使われている」ということは知っていても、どんなGPUがどんな規模で使われているのかはイメージしにくいものです。そこで、NVIDIAのAI特化GPUやプラットフォームについてまとめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240307&amp;#45;nvidia&amp;#45;ai&amp;#45;gpu/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 07 Mar 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GPT&amp;#45;4超えをアピールするClaude&amp;#45;3がAIで初めてIQ100超えを達成したという報告</title>
+      <link>https://gigazine.net/news/20240308-claude-3-chat-gpt-iq-test/</link>
+      <description>&lt;![CDATA[ChatGPTやClaude、Geminiなど、人間のように自然な会話ができる大規模言語モデル(LLM)ベースのチャットボットAIが登場しています。レポーターでテレビプロデューサーのマキシム・ロット氏が、さまざまなチャットボットAIに人間用の知能指数(IQ)テストを解かせて推定IQを計測したところ、AnthropicのLLMであるClaude 3の推定IQが人間の基準値である100を超えたと報告しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240308&amp;#45;claude&amp;#45;3&amp;#45;chat&amp;#45;gpt&amp;#45;iq&amp;#45;test/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 08 Mar 2024 06:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
