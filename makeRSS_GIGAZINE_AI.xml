@@ -2938,5 +2938,11 @@
       <description>&lt;![CDATA[スマートフォンやタブレットと併用してイラストやアニメーション制作がはかどる片手デバイス「CLIP STUDIO TABMATE 2」は、従来機から省電力化や操作性向上などリニューアルしたほか、初めてiPadおよびiPhoneに対応し、CLIP STUDIO PAINTが利用できるすべてのプラットフォームで使えるようになりました。2024年3月18日に発売予定のTABMATE 2を一足早く借りることができたため、実際にiPad Proと接続して使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240310&amp;#45;tabmate&amp;#45;2&amp;#45;ipad/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 10 Mar 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIチャットボットが生成できない回答を「アスキーアート」で答えさせることができるという報告</title>
+      <link>https://gigazine.net/news/20240311-chatbot-ai-artprompt-ascii-art/</link>
+      <description>&lt;![CDATA[GPT-4、Gemini、Claude、Llama 2などの大規模言語モデルは、入力した内容に応じて人間と同等の精度で自然な文章を出力します。しかし、暴力的な内容や違法な内容などについては、開発時点で出力しないように対策されています。この安全対策を回避する「脱獄(ジェイルブレイク)」をアスキーアートで実行する方法「ArtPrompt」についての論文が、未査読論文リポジトリのarXivで公開されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240311&amp;#45;chatbot&amp;#45;ai&amp;#45;artprompt&amp;#45;ascii&amp;#45;art/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
