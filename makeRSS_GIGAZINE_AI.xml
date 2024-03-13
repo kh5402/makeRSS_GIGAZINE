@@ -3022,5 +3022,11 @@
       <description>&lt;![CDATA[「AI開発をリードするということは、ハードウェアインフラへの投資でリードするということ」として、MetaがAIのための投資として行っている、2万4000基以上のGPUを搭載したデータセンタースケールのクラスターの情報を明らかにしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240313&amp;#45;meta&amp;#45;genai&amp;#45;infrastructure/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 13 Mar 2024 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ChatGPTや大規模言語モデル(LLM)から隠された情報や一部機能を盗み出す攻撃手法が登場</title>
+      <link>https://gigazine.net/news/20240313-ai-llm-model-stealing-attack/</link>
+      <description>&lt;![CDATA[OpenAIのチャットAIであるChatGPTや、Googleの開発する大規模言語モデル(LLM)のPaLM-2などから、機密情報や一部機能を盗み出すことができる「モデル窃盗攻撃(model-stealing attack)」を、AI研究者が発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240313&amp;#45;ai&amp;#45;llm&amp;#45;model&amp;#45;stealing&amp;#45;attack/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 13 Mar 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
