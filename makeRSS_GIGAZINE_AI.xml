@@ -3154,5 +3154,11 @@
       <description>&lt;![CDATA[オープンソースAIモデルの開発を行うRecursal AIが、パラメーター数が70億(7B)帯のモデルの中では最も優秀な多言語パフォーマンスを示すというモデル「EagleX」をリリースしました。記事作成時点では、1.7兆トークンでトレーニングした「EagleX 1.7T」が公開されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240319&amp;#45;eaglex&amp;#45;1&amp;#45;7t/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 19 Mar 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIなどのニューラルネットワークによる画像圧縮はどれぐらいまで実現しつつあるのか？</title>
+      <link>https://gigazine.net/news/20240320-compressing-images-with-neural-networks/</link>
+      <description>&lt;![CDATA[画像や動画のファイルサイズを圧縮することはインターネットトラフィックを削減することにつながるため、多数の技術者によって圧縮技術の見直しが図られてきています。いくつかの技術開発を経て誕生した「ニューラルネットワーク」を使用する圧縮方法は2024年時点でどこまで進化しているのかについて、Microsoftでリアルタイム動画圧縮技術の開発に取り組むマルティン・ルミステ氏が解説しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240320&amp;#45;compressing&amp;#45;images&amp;#45;with&amp;#45;neural&amp;#45;networks/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 20 Mar 2024 08:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
