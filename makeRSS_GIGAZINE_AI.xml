@@ -3274,5 +3274,11 @@
       <description>&lt;![CDATA[大規模言語モデルのGPTや画像生成AIモデルのDALL-Eを開発するOpenAIが、テキストからムービーを生成するAIの「Sora」を2024年2月に発表しました。そんなSoraについて、OpenAIはハリウッドの映画スタジオやメディア幹部、タレントエージェンシーと会合をして、Soraを映画制作に使うよう売り込んでいるとBloombergが報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240325&amp;#45;openai&amp;#45;hollywood/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 25 Mar 2024 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI分野でのNVIDIA一強状態を崩すためにIntel・Google・富士通・Armなどが参加する業界団体がCUDA対抗のAI開発環境を構築中</title>
+      <link>https://gigazine.net/news/20240326-ai-software-uxl-foundation-break-nvidia/</link>
+      <description>&lt;![CDATA[NVIDIAはAI開発に使われるGPUで大きなシェアを獲得しているほか、ソフトウェア開発および実行環境「CUDA」もAIの開発現場で広く採用されています。そんなNVIDIAの一人勝ち状態に対抗するべく、Intelや富士通、Google、Armなどのテクノロジー企業が参加する業界団体「Unified Acceleration Foundation(UXL Foundation)」がオープンなソフトウェア開発環境の構築を進めています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240326&amp;#45;ai&amp;#45;software&amp;#45;uxl&amp;#45;foundation&amp;#45;break&amp;#45;nvidia/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 26 Mar 2024 11:19:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
