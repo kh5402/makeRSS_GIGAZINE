@@ -3370,5 +3370,11 @@
       <description>&lt;![CDATA[イスラエルのAIスタートアップであるAI21 Labsが、英語・フランス語・スペイン語・ポルトガル語に対応した大規模言語モデル「Jamba」を発表しました。Jambaは、従来のTransformerモデルにState Space Model(SSM)のアーキテクチャを組み合わせたSSM-Transformerモデルとなっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240329&amp;#45;ai21&amp;#45;labs&amp;#45;jamba/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 29 Mar 2024 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>生成AIの幻覚で指定される「架空のパッケージ」に悪用の危険性があるとセキュリティ研究者が警告</title>
+      <link>https://gigazine.net/news/20240329-ai-hallucinations-software-package/</link>
+      <description>&lt;![CDATA[GPT-4やClaude 3のような大規模言語モデルは人間が書いたように自然な文章を生成できますが、時として事実に基づかない情報を生成する「ハルシネーション(幻覚)」という現象を起こします。セキュリティ企業・Lasso Securityの研究者であるバー・ラニャド氏が、ハルシネーションによって存在しないパッケージを組み込んだソースコードが生成され、実際に使われていると指摘しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240329&amp;#45;ai&amp;#45;hallucinations&amp;#45;software&amp;#45;package/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 29 Mar 2024 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
