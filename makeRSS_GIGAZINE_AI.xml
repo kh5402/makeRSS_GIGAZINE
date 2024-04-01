@@ -3442,5 +3442,11 @@
       <description>&lt;![CDATA[アメリカのニューヨーク市が公開したMicrosoft製のAIチャットボットが、勤務シフトを無断で変更したり、店の利用客から従業員に支払われたチップを雇用者が徴収したりといった、本来は違法な行為を認めるような誤った回答を出力していたことが報じられました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240401&amp;#45;ai&amp;#45;government&amp;#45;chatbot&amp;#45;advice&amp;#45;lying&amp;#45;laws/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 01 Apr 2024 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>きちんとチェックすると「781年」かかるAI用データセット「LAION&amp;#45;5B」の課題がよくわかる「Models All The Way Down」</title>
+      <link>https://gigazine.net/news/20240401-models-all-the-way-ai/</link>
+      <description>&lt;![CDATA[Stable Diffusionをはじめとする主要な画像生成AIのトレーニングには、50億枚超の画像とテキストのセットである「LAION-5B」が用いられています。週5で働くフルタイム労働者が1秒ずつ画像を目視確認すると781年かかるといわれているデータセットの膨大さや、その問題点がまとめられたサイト「Models All The Way Down」が公開されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240401&amp;#45;models&amp;#45;all&amp;#45;the&amp;#45;way&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 01 Apr 2024 16:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
