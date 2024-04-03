@@ -3478,5 +3478,17 @@
       <description>&lt;![CDATA[AIが生成した絵に異様なまでの忌避感を示す人がいますが、いざよく似た絵を見せられたとき、人間はその絵が誰(何)によって描かれたのかを判別できない可能性があることがわかりました。さらに、人間はAI製だと思い込んだ人間の絵に根拠もなく悪い評価を与えることも判明しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240402&amp;#45;ai&amp;#45;generated&amp;#45;artworks&amp;#45;bias/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 02 Apr 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>音声を盗んだりアーティストを置き換えたりする「略奪的AI」を非難する書簡にビリー・アイリッシュやスティーヴィー・ワンダーなど200人以上の著名人が署名</title>
+      <link>https://gigazine.net/news/20240403-200-artists-letter-ai-replace/</link>
+      <description>&lt;![CDATA[近年ではAIの発展により、人間のアーティストの歌声などを学習して新たな楽曲を作り出す技術が登場しています。アーティストの権利団体「Artist Rights Alliance(ARA)」は2024年4月2日、「人間のアーティストの権利を侵害し、音楽の価値を下げかねないAIの使用は控えるべき」との書簡を発表しました。この書簡には、ビリー・アイリッシュ氏やスティーヴィー・ワンダー氏など、200名以上の著名アーティストが署名しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240403&amp;#45;200&amp;#45;artists&amp;#45;letter&amp;#45;ai&amp;#45;replace/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 03 Apr 2024 12:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>大量の質問をぶつけて最後の最後に問題のある質問をするとAIの倫理観が壊れるという脆弱性を突いた攻撃手法「メニーショット・ジェイルブレイキング」が発見される</title>
+      <link>https://gigazine.net/news/20240403-many-shot-jailbreaking/</link>
+      <description>&lt;![CDATA[「ChatGPT」など広く使われているAIサービスは、通常であればセーフティがかけられていて、「人を殺す方法」「爆弾をつくる方法」といった倫理的に問題のある質問には答えないようになっています。ところが、あまりにも多い質問を一度にぶつけてしまうことによりセーフティが外れ、AIが問題のある回答を行ってしまう可能性があることがわかりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240403&amp;#45;many&amp;#45;shot&amp;#45;jailbreaking/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 03 Apr 2024 11:55:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
