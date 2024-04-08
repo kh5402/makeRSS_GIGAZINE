@@ -3574,5 +3574,17 @@
       <description>&lt;![CDATA[2024年4月1日に、光速を超えた通信のためのプロトコルがRFC 9564として公開されました。長らく光速が通信速度の上限としてボトルネックとなっており、光速の限界を突破できるというRFC 9564の仕組みはある意味画期的なものとなっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240406&amp;#45;april&amp;#45;fools&amp;#45;day&amp;#45;request&amp;#45;for&amp;#45;comments/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 06 Apr 2024 09:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Windowsに「デフォルトのブラウザをMicrosoft Edgeから変更できないようにするドライバー」が配信されていたことが判明</title>
+      <link>https://gigazine.net/news/20240408-windows-default-browser-userchoice-protection-driver/</link>
+      <description>&lt;![CDATA[Microsoftは、Google Chromeのダウンロードを中止するように促すメッセージを出したり、チャットAI「りんな」を動員したりと、Microsoft Edge以外のブラウザを使おうとするユーザーをなりふり構わず引き留めることで知られています。そんなMicrosoftが、Windows 10とWindows 11のデフォルトブラウザの設定を変更できないようにするドライバーを、2024年2月のWindows更新プログラムで導入していたことが発覚しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240408&amp;#45;windows&amp;#45;default&amp;#45;browser&amp;#45;userchoice&amp;#45;protection&amp;#45;driver/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 11:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Facebookアカウントを乗っ取ってChatGPTなどのAIサービスを提供するように見せかけつつマルウェアを配布する活動が観測される</title>
+      <link>https://gigazine.net/news/20240408-facebook-ai-malware-campaign/</link>
+      <description>&lt;![CDATA[既存のFacebookアカウントを乗っ取り、ChatGPTやMidjourneyなどのAIサービスを装いつつAIで生成した画像やニュースコンテンツを配信して、ユーザーを最終的にマルウェアへ感染させるよう導く活動が行われていることが判明しました。多いもので120万人のフォロワーを抱えるアカウントが詐欺に利用されていたことがわかっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240408&amp;#45;facebook&amp;#45;ai&amp;#45;malware&amp;#45;campaign/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 11:38:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
