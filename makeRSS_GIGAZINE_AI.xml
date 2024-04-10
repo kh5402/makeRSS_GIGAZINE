@@ -3670,5 +3670,23 @@
       <description>&lt;![CDATA[宇宙には人類以外の知的生命体が存在する可能性が高いにもかかわらず、これまで人類と接触した宇宙人や地球外文明が存在しないという矛盾は、フェルミのパラドックスと呼ばれます。この矛盾について、マンチェスター大学の宇宙物理学者であるマイケル・ギャレット教授が、「高度な文明は全部AIに滅ぼされてしまうため人類と地球外文明が接触できない」という説を提唱しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;ai&amp;#45;great&amp;#45;filter&amp;#45;fermi&amp;#45;paradox/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 10 Apr 2024 12:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AMDが前モデルからAI処理性能を最大10倍まで高めたSoC「Versal AI Edge Series Gen 2」と「Versal Prime Series Gen 2」を発表</title>
+      <link>https://gigazine.net/news/20240410-amd-versal-gen-2/</link>
+      <description>&lt;![CDATA[AMDが2024年4月9日、組み込み機器向けSoC「Versal」の第2世代として、「Versal AI Edge Series Gen 2」と「Versal Prime Series Gen 2」を2025年後半に発売すると発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;amd&amp;#45;versal&amp;#45;gen&amp;#45;2/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 12:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが放射線科医向けに画像診断・病歴チェック・論文検索が可能なAIシステムをバイエルと提携して構築</title>
+      <link>https://gigazine.net/news/20240410-google-cloud-bayer-ai-applications-radiologists/</link>
+      <description>&lt;![CDATA[Google Cloudが医薬品メーカーのバイエルと提携し、放射線科医向けのAI搭載ヘルスケアアプリケーションを開発することが明らかになりました。主に医療データの約90％を占めるとされる画像データの分析が行われる予定で、患者の画像を以前の画像と比較したり、画像内の異常にフラグを立てて関連する医療情報を提示したりすることが可能になります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;google&amp;#45;cloud&amp;#45;bayer&amp;#45;ai&amp;#45;applications&amp;#45;radiologists/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 12:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleがGemini 1.5 Proの一般プレビューを開始、音声理解・システム命令・JSONモードなどの新機能を搭載</title>
+      <link>https://gigazine.net/news/20240410-google-gemini-1-5-pro-release/</link>
+      <description>&lt;![CDATA[Googleが2024年4月9日から11日にかけてラスベガスで開催している「Google Cloud Next '24」において、高性能AIモデル「Gemini 1.5 Pro」のパブリックプレビューを開始したと発表しましたGemini 1.5 Pro Now Available in 180+ Countries; With Native Audio Understanding, System Instructions, JSON Mode and More - Google for Developershttps://developers.googleblog.com/2024/04/gemini-15-pro-in-public-preview-with-new-features.htmlGemini 1.5 Proは2024年2月15日に発表されたモデルで、最大で1時間のムービーや70万語のテキストを扱えるとうたわれています。デモンストレーションの様子は下記の記事で確認可能です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;google&amp;#45;gemini&amp;#45;1&amp;#45;5&amp;#45;pro&amp;#45;release/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 12:22:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
