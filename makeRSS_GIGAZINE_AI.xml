@@ -3688,5 +3688,23 @@
       <description>&lt;![CDATA[Googleが2024年4月9日から11日にかけてラスベガスで開催している「Google Cloud Next '24」において、高性能AIモデル「Gemini 1.5 Pro」のパブリックプレビューを開始したと発表しましたGemini 1.5 Pro Now Available in 180+ Countries; With Native Audio Understanding, System Instructions, JSON Mode and More - Google for Developershttps://developers.googleblog.com/2024/04/gemini-15-pro-in-public-preview-with-new-features.htmlGemini 1.5 Proは2024年2月15日に発表されたモデルで、最大で1時間のムービーや70万語のテキストを扱えるとうたわれています。デモンストレーションの様子は下記の記事で確認可能です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;google&amp;#45;gemini&amp;#45;1&amp;#45;5&amp;#45;pro&amp;#45;release/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 10 Apr 2024 12:22:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIが画像読み取り可能なAI「GPT&amp;#45;4 Turbo with Vision」を一般公開開始、JSONモードや関数呼び出しをサポート</title>
+      <link>https://gigazine.net/news/20240410-gpt-4-turbo-with-vision/</link>
+      <description>&lt;![CDATA[OpenAIが画像の読み取りに対応したマルチモーダルAI「GPT-4 Turbo with Vision」の一般公開を開始しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;gpt&amp;#45;4&amp;#45;turbo&amp;#45;with&amp;#45;vision/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 16:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Microsoftが東京にAI研究拠点を設置し4400億円の投資で国内の計算処理能力を強化</title>
+      <link>https://gigazine.net/news/20240410-microsoft-invest-japan-ai-security/</link>
+      <description>&lt;![CDATA[Microsoftが日本国内のAIおよびクラウド基盤強化のために今後2年間で約4400億円を投資することを発表しました。さらに、今後3年間で300万人にリスキリングの機会を提供することや日本国内に研究拠点を新設することも発表されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;microsoft&amp;#45;invest&amp;#45;japan&amp;#45;ai&amp;#45;security/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 15:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mistral AIが突如として新しい大規模言語モデル「8x22B MOE」を発表、コンテキスト長65kでパラメーターサイズは最大1760億か</title>
+      <link>https://gigazine.net/news/20240410-mistral-8x22b-moe/</link>
+      <description>&lt;![CDATA[GoogleやMetaの研究者によって設立されたAIスタートアップのMistral AIが、オープンソースの大規模言語モデル「8x22B MOE」を公開しました。詳細は不明ですが、多くのベンチマークでGPT-3.5やLlama 2 70Bを上回る性能を持つ可能性があることが示されたモデル「Mixtral 8x7B」の3倍以上のパラメーター数を備えている可能性があります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240410&amp;#45;mistral&amp;#45;8x22b&amp;#45;moe/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 15:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
