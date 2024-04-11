@@ -3742,5 +3742,11 @@
       <description>&lt;![CDATA[AIの本体と言える大規模言語モデル(LLM)のトレーニングはほとんどの場合PyTorchやPythonを使用して行われていますが、そうしたトレーニングを純粋なC言語のみで実装したツール「llm.c」が登場しました。まだ最適化が行われておらず従来の手法に速度面では敗北していますが、GPT-2のトレーニングを行う実装を約1000行のクリーンなコードで行えています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240411&amp;#45;llm&amp;#45;c&amp;#45;simple&amp;#45;pure&amp;#45;c&amp;#45;training/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 11 Apr 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>イーロン・マスクのチャットAI「Grok」は爆弾の作り方や麻薬の調合方法をジェイルブレイクしなくても教えてくるという指摘</title>
+      <link>https://gigazine.net/news/20240412-grok-abetment/</link>
+      <description>&lt;![CDATA[生成AIが発達する中で、危険な情報や非倫理的な文章・画像を生成しない安全機能がほとんどのAIには備わっています。一方で、安全機能を解除する「ジェイルブレイク」により規制を回避する方法も発見されています。イーロン・マスク氏が設立したAI企業のxAIが2023年11月に発表した独自の言語モデル「Grok」は、悪意のあるフェイクニュースを制限せずにまとめたりリベラルな回答を繰り返して保守派を怒らせたりと話題になりましたが、生成AIにおける安全規制について、ジェイルブレイクすらほとんど必要なく危険な情報を出力可能だと指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240412&amp;#45;grok&amp;#45;abetment/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 12 Apr 2024 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
