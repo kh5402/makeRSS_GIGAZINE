@@ -3736,5 +3736,11 @@
       <description>&lt;![CDATA[ブラウザ上で自動作曲AIを利用できるサービス「Udio」のパブリックベータ版が2024年4月10日に公開されました。記事作成時点で、無料で1カ月につき最大1200曲まで生成可能だとのことで、実際にUdioを使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240411&amp;#45;udio/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 11 Apr 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>PyTorchやPythonなしの純粋なC言語を使用した大規模言語モデルトレーニングツール「llm.c」がリリースされる</title>
+      <link>https://gigazine.net/news/20240411-llm-c-simple-pure-c-training/</link>
+      <description>&lt;![CDATA[AIの本体と言える大規模言語モデル(LLM)のトレーニングはほとんどの場合PyTorchやPythonを使用して行われていますが、そうしたトレーニングを純粋なC言語のみで実装したツール「llm.c」が登場しました。まだ最適化が行われておらず従来の手法に速度面では敗北していますが、GPT-2のトレーニングを行う実装を約1000行のクリーンなコードで行えています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240411&amp;#45;llm&amp;#45;c&amp;#45;simple&amp;#45;pure&amp;#45;c&amp;#45;training/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 11 Apr 2024 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
