@@ -3826,5 +3826,11 @@
       <description>&lt;![CDATA[AIの開発にはGPUやAIアクセラレータからなる大規模な計算資源が必要です。AI企業Anthropicのダリオ・アモデイCEOはAIモデルの学習費用が今後数年で約100億ドル(約1兆5400円)に達すると推測しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240416&amp;#45;anthropic&amp;#45;ceo&amp;#45;ai&amp;#45;training&amp;#45;cost/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 16 Apr 2024 06:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>たった数秒の音声データから音声合成が可能な「VoiceCraft」</title>
+      <link>https://gigazine.net/news/20240416-voicecraft/</link>
+      <description>&lt;![CDATA[テキサス大学オースティン校を中心とした研究チームが、訓練データにないタスクをこなすゼロショットでの音声編集や音声の合成ができるAIの「VoiceCraft」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240416&amp;#45;voicecraft/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 16 Apr 2024 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
