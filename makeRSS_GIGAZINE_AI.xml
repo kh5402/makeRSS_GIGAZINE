@@ -3976,5 +3976,11 @@
       <description>&lt;![CDATA[2018年に人間の医師と同等の精度で目の病気を診断できるAIが登場し、糖尿病が関連する眼病に至っては専門医より正確な診断が可能となるなど、AIは眼科の分野で目覚ましい進歩を遂げています。OpenAIの言語モデルを使用した新しい研究により、AIは目の状態を評価することにかけては人間の眼科医に引けを取らないことが確かめられました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240419&amp;#45;gpt&amp;#45;4&amp;#45;performed&amp;#45;expert&amp;#45;doctors&amp;#45;eye&amp;#45;assessments/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 19 Apr 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleが開発した画像分類タスクが可能な機械学習モデル「Vision Transformers」の仕組みとは？</title>
+      <link>https://gigazine.net/news/20240420-google-vision-transformers/</link>
+      <description>&lt;![CDATA[Googleの機械学習モデル「Transformer」は、データを時系列に処理しなくても、自然言語などのデータを翻訳やテキスト要約することが可能で、ChatGPTなどの自然な会話が可能なチャットAIのベースとなっています。また、Transformerの手法を画像分野に応用したモデルが「Vision Transformer」です。ソフトウェアエンジニアのデニス・タープ氏が、「Vision Transformer」のコンポーネントがどのように機能し、データはどのような流れをたどるのか、ビジュアル化して解説していますA Visual Guide to Vision Transformers | MDTURPhttps://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html0：はじめに前提として、Transformerの仕組みと同様、Vision Transformerも教師ありトレーニングがなされています。つまり、モデルが画像とそれに対応するラベルのデータセットでトレーニングされているというわけです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240420&amp;#45;google&amp;#45;vision&amp;#45;transformers/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 20 Apr 2024 16:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
