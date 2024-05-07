@@ -4318,5 +4318,11 @@
       <description>&lt;![CDATA[ロボットに新しいスキルを習得させる場合、まずシミュレーション環境でトレーニングを行い、それから現実環境に展開するのが一般的ですが、その際にシミュレーション環境と現実環境のギャップが課題になります。このギャップを埋める作業を大規模言語モデルで自動化する技術「DrEureka」を、NVIDIAやペンシルベニア大学、テキサス大学オースティン校などの研究チームが開発しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240507&amp;#45;dr&amp;#45;eureka&amp;#45;training&amp;#45;robotics&amp;#45;systems/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 07 May 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>次世代Appleシリコン「M4」が登場、他社製NPUを上回るAI処理性能を実現</title>
+      <link>https://gigazine.net/news/20240507-apple-m4/</link>
+      <description>&lt;![CDATA[Appleが2024年5月7日に開催したイベントの中で、Appleシリコンの次世代モデルとなる「M4」が発表されました。M4は同時に発表されたiPad Proにも搭載されることとなります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240507&amp;#45;apple&amp;#45;m4/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 07 May 2024 23:22:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
