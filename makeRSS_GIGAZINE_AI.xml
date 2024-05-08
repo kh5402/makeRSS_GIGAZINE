@@ -4342,5 +4342,11 @@
       <description>&lt;![CDATA[OpenAIが2024年5月7日に、デジタルコンテンツの来歴を追跡する技術の標準化団体「Coalition for Content Provenance and Authenticity(C2PA)」に参加したことを発表しました。Adobe、Microsoft、Google、ソニーなどの後に続いてC2PAの運営に加わったOpenAIは今後、電子透かしやAI画像検知ツールなどの技術の実装に取り組んでいくと表明しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240508&amp;#45;openai&amp;#45;c2pa&amp;#45;chatgpt/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 08 May 2024 13:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>IBMが自社製AI「Granite」のコード生成モデルをオープンソース化、116のプログラミング言語でトレーニングされパラメータは30～340億</title>
+      <link>https://gigazine.net/news/20240508-ibm-granite-code-models-open-source/</link>
+      <description>&lt;![CDATA[ソフトウェアは現代社会のありとあらゆる側面に取り込まれており、飛躍的な生産性の向上や科学技術の発展に貢献してきました。しかし、信頼性の高いソフトウェアの作成・デバッグ・展開といった作業は骨が折れるものであり、熟練した開発者でも最新の技術や言語に追いつくのは大変です。そこでアメリカの大手IT企業であるIBMは、プログラミングコードの生成・修正・別言語への翻訳などのタスクを実行するGraniteコード生成モデルのファミリーをオープンソースで公開しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240508&amp;#45;ibm&amp;#45;granite&amp;#45;code&amp;#45;models&amp;#45;open&amp;#45;source/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 08 May 2024 14:20:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
