@@ -4360,5 +4360,17 @@
       <description>&lt;![CDATA[アメリカ政府が2024年5月7日、IntelやQualcommが持つ中国の通信機器メーカー「Huawei」へのチップ輸出ライセンスを取り消したことが明らかになりました。この動きは2024年4月にHuaweiが初のAI PCである「MateBook X Pro」を発表したことを受けて行われたとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240509&amp;#45;intel&amp;#45;qualcomm&amp;#45;huawei&amp;#45;licenses/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 09 May 2024 10:47:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Stack OverflowとOpenAIの提携に反発し回答を削除したユーザーがBANされる</title>
+      <link>https://gigazine.net/news/20240509-stack-overflow-openai-users-banned/</link>
+      <description>&lt;![CDATA[コンピューターやプログラミングに関するナレッジコミュニティのStack OverflowがChatGPTを開発するOpenAIと提携し、ChatGPTが回答にStack Overflowに投稿された検証済みの技術的知識を利用できるようにすることを発表しました。この決定を受けて一部のユーザーが、自身の回答がスクレイピングされないように内容を削除した結果、Stack Overflowからアクセス禁止処分を受けたことが報じられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240509&amp;#45;stack&amp;#45;overflow&amp;#45;openai&amp;#45;users&amp;#45;banned/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 09 May 2024 11:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがChatGPTのモデル仕様を公開、「性的な話題はNGだが科学的な文脈ならOK」「犯罪の助長はNGだが犯罪防止のための情報提供はOK」などChatGPTの応答ルールが盛りだくさん</title>
+      <link>https://gigazine.net/news/20240509-openai-chatgpt-model-spec/</link>
+      <description>&lt;![CDATA[ChatGPTおよびOpenAI APIのモデル仕様が2024年5月8日(水)に公開されました。モデル仕様にはChatGPTおよびOpenAI APIの「望ましい動作」と「望ましくない動作」が記されており、OpenAIがどのような意図でChatGPTの応答を調整しているのかが分かるようになっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240509&amp;#45;openai&amp;#45;chatgpt&amp;#45;model&amp;#45;spec/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 09 May 2024 10:56:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
