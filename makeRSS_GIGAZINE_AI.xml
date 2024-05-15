@@ -4504,5 +4504,35 @@
       <description>&lt;![CDATA[Googleが軽量かつ高性能なAIモデル「Gemini Flash」を2024年5月15日(水)に開催された「Google I/O 2024」で発表しました。Gemini FlashはGemini Proの10分の1の価格で利用可能で、ベンチマークテストではGemini Proに匹敵する性能を示しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;google&amp;#45;gemini&amp;#45;flash/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 15 May 2024 12:04:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleフォトに「これまで訪れた国立公園の中で最高の写真を見せて」などの質問に答えてくれるAI機能「Ask Photos」が導入される</title>
+      <link>https://gigazine.net/news/20240515-ask-photos-with-gemini/</link>
+      <description>&lt;![CDATA[GoogleフォトにAIの「Gemini」が統合され、ユーザーが質問を投げかけるだけで過去に撮影した写真や動画を簡単に検索できるようになることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;ask&amp;#45;photos&amp;#45;with&amp;#45;gemini/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 15 May 2024 13:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleがAIによる「詐欺電話の検出」や「YouTubeの動画からの検索」機能を発表</title>
+      <link>https://gigazine.net/news/20240515-google-ai-android-update/</link>
+      <description>&lt;![CDATA[Googleが、2024年5月14日に開催した開発者カンファレンス「Google I/O 2024」で、AIモデルのGeminiとAndroidをより深く統合させることで、動画からの検索やPDFの要約、銀行員などを装って個人情報を要求する詐欺への警告などの機能がスマートフォンに搭載されることを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;google&amp;#45;ai&amp;#45;android&amp;#45;update/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 15 May 2024 12:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChromeがGoogleのAI「Gemini Nano」内蔵へ、2024年6月リリースのバージョン126から</title>
+      <link>https://gigazine.net/news/20240515-google-chrome-gemini-nano-built-in/</link>
+      <description>&lt;![CDATA[Googleが「Gemini Nano」モデルをChromeデスクトップクライアントに直接組み込むことを明らかにしました。これにより、製品レビューやSNS投稿といった短い文章を作成できる「Help me write」などの機能が強化されます。実装はChrome 126から始まります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;google&amp;#45;chrome&amp;#45;gemini&amp;#45;nano&amp;#45;built&amp;#45;in/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 15 May 2024 12:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが第6世代TPU「Trillium」発表、TPU v5eよりも1チップ当たり4.7倍優れたパフォーマンスと67％優れたエネルギー効率でGoogle CloudのAIを支える</title>
+      <link>https://gigazine.net/news/20240515-google-tpu-trillium/</link>
+      <description>&lt;![CDATA[GoogleがGoogle I/O 2024の基調講演の中で、第6世代Tensor Processing Unit(TPU)の「Trillium」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;google&amp;#45;tpu&amp;#45;trillium/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 15 May 2024 12:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが映像と音声を理解して質問に答えるGPT&amp;#45;4oっぽいAIエージェント「Project Astra」を発表</title>
+      <link>https://gigazine.net/news/20240515-google-project-astra-ai-agent/</link>
+      <description>&lt;![CDATA[Googleが現地時間の2024年5月14日に開催した開発者向けイベントの「Google I/O」で、映像や音声を理解してリアルタイムで質問に答えてくれるAIエージェント「Project Astra(Astra)」を発表しました。実際に、ユーザーがスマートフォンとスマートグラスのカメラで撮影した物事について、Astraにあれこれ質問しているデモ動画も公開されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240515&amp;#45;google&amp;#45;project&amp;#45;astra&amp;#45;ai&amp;#45;agent/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 15 May 2024 12:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
