@@ -4600,5 +4600,11 @@
       <description>&lt;![CDATA[IT系ニュースサイトのFast Companyが、Appleのワールドワイドマーケティング部門シニア・ヴァイスプレジデントであるグレッグ・ジョスウィアック氏と、ハードウェアエンジニアリング部門シニア・ヴァイスプレジデントであるジョン・ターナス氏へのインタビューを公開しました。両氏は2024年5月に登場したiPadシリーズに言及しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240517&amp;#45;apple&amp;#45;greg&amp;#45;joswiak&amp;#45;john&amp;#45;ternus&amp;#45;interview/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 17 May 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GIMPで画像生成AIを使えるようにしてNPUでの処理も可能にするOpenVINOプラグイン「OpenVINO AI Plugins for GIMP」レビュー</title>
+      <link>https://gigazine.net/news/20240519-openvino-ai-plugins-gimp/</link>
+      <description>&lt;![CDATA[Intel製CPU搭載を搭載したPCでGPUなしでもStable Diffusionを用いた画像生成を可能にするGIMP用プラグイン「OpenVINO AI Plugins for GIMP」がGitHubに公開されています。特徴的なのは、AIの演算処理に特化したプロセッサ「NPU」に対応しており、NPUを使った画像生成が可能だという点。ちょうどNPUを搭載したXPS 13とXPS 14をDellから借りていたので、導入から実際に使うところまでをまとめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240519&amp;#45;openvino&amp;#45;ai&amp;#45;plugins&amp;#45;gimp/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 19 May 2024 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
