@@ -4624,5 +4624,17 @@
       <description>&lt;![CDATA[ホンダが「長期的視点で見ればEV(電気自動車)シフトは着実に進んでいくと確信している」との声明を発表し、2030年度までにEVへ約10兆円の資源投入を行う計画を明らかにしました。加えて、AI技術を用いた自動車の開発に向け、次世代の半導体やソフトウェア技術を自ら研究・開発するための覚書をIBMと締結したことも明かしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240520&amp;#45;honda&amp;#45;electrification&amp;#45;initiatives&amp;#45;investment&amp;#45;strategy/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 20 May 2024 12:55:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「人類に壊滅的なリスクをもたらすAI」を安全に提供するためにAnthropicが既存ポリシーの反省点を公開</title>
+      <link>https://gigazine.net/news/20240520-anthropic-ai-responsible-scaling-policy/</link>
+      <description>&lt;![CDATA[チャットAI「Claude」などを開発するAI企業「Anthropic」がAIの安全性に関するポリシーの反省点を発表しました。今回発表された反省点をもとに、新たなポリシーが構築される予定です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240520&amp;#45;anthropic&amp;#45;ai&amp;#45;responsible&amp;#45;scaling&amp;#45;policy/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 20 May 2024 14:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Slackがユーザーの明示的な許可なくメッセージなどをAIトレーニングに利用していることが判明</title>
+      <link>https://gigazine.net/news/20240520-slack-use-messages-to-train-ai/</link>
+      <description>&lt;![CDATA[Slackが、ユーザーのメッセージやデータ、ファイル、その他のコンテンツを機械学習モデルのトレーニングに利用していることが明らかになりました。プライバシーポリシーが変更されたのは2023年9月のことでしたが、ユーザーの多くはそのことに気付いておらず、ユーザーから明示的に許可を得ることなくデータをトレーニングに使っていた実情があると指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240520&amp;#45;slack&amp;#45;use&amp;#45;messages&amp;#45;to&amp;#45;train&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 20 May 2024 14:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
