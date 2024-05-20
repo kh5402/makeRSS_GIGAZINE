@@ -4636,5 +4636,11 @@
       <description>&lt;![CDATA[Slackが、ユーザーのメッセージやデータ、ファイル、その他のコンテンツを機械学習モデルのトレーニングに利用していることが明らかになりました。プライバシーポリシーが変更されたのは2023年9月のことでしたが、ユーザーの多くはそのことに気付いておらず、ユーザーから明示的に許可を得ることなくデータをトレーニングに使っていた実情があると指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240520&amp;#45;slack&amp;#45;use&amp;#45;messages&amp;#45;to&amp;#45;train&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 20 May 2024 14:15:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIモデルのトレーニングで使えるアニメーション特化のデータセット「Sakuga&amp;#45;42M」が登場</title>
+      <link>https://gigazine.net/news/20240520-sakuga-42m-dataset/</link>
+      <description>&lt;![CDATA[AIモデルを用いて動画を生成するツールは多数ありますが、フォトリアルな動画ではなく二次元のアニメーションを上手く生成することができるツールはほとんどありません。そんな状況を打破すべく、アニメーションに特化した大規模なデータセットとして作成されたのが「Sakuga-42M」です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240520&amp;#45;sakuga&amp;#45;42m&amp;#45;dataset/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 20 May 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
