@@ -4882,5 +4882,11 @@
       <description>&lt;![CDATA[Googleは、検索結果にAIで生成した概要を表示する「AIによる概要など(AI Overviews)」を2024年5月14日にアメリカで正式リリースしました。このAIオーバービューを巡って「あきらかに間違った情報が表示される」という問題が多数指摘されているのですが、新たにGoogleがAIのおかしな回答を手動で削除している可能性が浮上しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240527&amp;#45;google&amp;#45;ai&amp;#45;manually&amp;#45;remove/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 27 May 2024 10:58:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Samsungの広帯域幅メモリー「HBM3」と「HBM3E」が熱と消費電力の問題でAIプロセッサ用のNVIDIAのテストに不合格</title>
+      <link>https://gigazine.net/news/20240527-samsungs-hbm-chips-fail-nvidia-tests/</link>
+      <description>&lt;![CDATA[第4世代High Bandwidth Memory(HBM)である「HBM3」と第5世代の「HBM3E」としてSamsungが製造したDRAMが、発熱などの問題によりNVIDIAのAIチップでの使用に堪えないとのテスト結果が出ていると、ロイターが報じました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240527&amp;#45;samsungs&amp;#45;hbm&amp;#45;chips&amp;#45;fail&amp;#45;nvidia&amp;#45;tests/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 27 May 2024 17:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
