@@ -4942,5 +4942,11 @@
       <description>&lt;![CDATA[2019年に公開されるやいなや「危険すぎる」と話題になったOpenAIの「GPT-2」を、ゼロから作成したレポートが公開されました。作成にかかった時間は、1時間14ドル(約2200円)のクラウドコンピューティングサービスで1時間半だったため、総コストは約20ドル(約3100円)に収まっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240529&amp;#45;gpt&amp;#45;2&amp;#45;90&amp;#45;minutes/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 29 May 2024 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国製GPUで学習した純中国製LLM「MT&amp;#45;infini&amp;#45;3B」が「Llama3&amp;#45;8B」を超える性能を示し中国単独で高性能AIを開発できることが明らかに</title>
+      <link>https://gigazine.net/news/20240530-china-ai-gpu-moore-threads/</link>
+      <description>&lt;![CDATA[中国に拠点を置くGPUメーカーの「摩爾線程(Moore Threads)」が、自社製GPUを用いて大規模言語モデル「MT-infini-3B」を開発したことを発表しました。MT-infini-3BはNVIDIA製GPUを用いて学習した大規模言語モデルと同等以上の性能を備えているそうです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240530&amp;#45;china&amp;#45;ai&amp;#45;gpu&amp;#45;moore&amp;#45;threads/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 30 May 2024 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
