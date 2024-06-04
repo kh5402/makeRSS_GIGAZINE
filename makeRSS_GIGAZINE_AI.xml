@@ -5086,5 +5086,11 @@
       <description>&lt;![CDATA[Amazonは生成AIと画像認識を使って、発送前の製品に破損したものや色・サイズが間違っているものがないかをチェックするシステム「Project P.I.」を発表しました。Project P.I.はすでにアメリカの一部フルフィルメントセンターで導入されているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240604&amp;#45;amazon&amp;#45;project&amp;#45;p&amp;#45;i/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 04 Jun 2024 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Raspberry Pi 5にCore Ultra超えのAI専用プロセッサを追加できる「Raspberry Pi AI Kit」を取り付けてAIカメラ化してみたよレビュー</title>
+      <link>https://gigazine.net/news/20240604-raspberry-pi-ai-kit-npu-m2/</link>
+      <description>&lt;![CDATA[「Raspberry Pi AI Kit」は、Raspberry Pi 5に13TOPSの処理性能を備えたAI処理専用チップを追加できる外付けキットです。そんなRaspberry Pi AI KitがRaspberry Pi開発チームから届いたので、Raspberry Pi 5への取り付け方法や実際の動作を確かめてみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240604&amp;#45;raspberry&amp;#45;pi&amp;#45;ai&amp;#45;kit&amp;#45;npu&amp;#45;m2/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Jun 2024 16:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
