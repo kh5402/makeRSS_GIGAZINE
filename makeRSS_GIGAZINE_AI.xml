@@ -5320,5 +5320,11 @@
       <description>&lt;![CDATA[Appleが、Apple製デバイス向けのパーソナルAI「Apple Intelligence」のベンチマーク結果を公開しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240611&amp;#45;apple&amp;#45;on&amp;#45;device&amp;#45;server&amp;#45;models/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 11 Jun 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AppleのアシスタントAI「Apple Intelligence」に使われるAI処理サーバー「Private Cloud Compute」の安全性への取り組みをAppleが説明</title>
+      <link>https://gigazine.net/news/20240611-apple-intelligence-private-cloud-compute/</link>
+      <description>&lt;![CDATA[Appleが2024年6月11日に発表したAIアシスタント「Apple Intelligence」は、デバイス上で処理しきれない高負荷タスクをAppleのサーバー上で実行します。AppleはAI処理実行サーバーを「Private Cloud Compute(PCC)」と名付けており、PCCの安全性への取り組みを公式ブログで説明しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240611&amp;#45;apple&amp;#45;intelligence&amp;#45;private&amp;#45;cloud&amp;#45;compute/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 11 Jun 2024 19:23:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
