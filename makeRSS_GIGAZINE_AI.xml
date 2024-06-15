@@ -5470,5 +5470,17 @@
       <description>&lt;![CDATA[事前学習済みの言語モデルは、安全性の観点から好ましくないとされる入力を拒否するように設定されています。この設定を解除する「アブリテレーション」と呼ばれる技術について、機械学習研究者であるマキシム・ラボンヌ氏が解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240614&amp;#45;llm&amp;#45;with&amp;#45;abliteration/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 14 Jun 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「Qualcomm Snapdragon X」は一体何が新しいのか？</title>
+      <link>https://gigazine.net/news/20240615-qualcomm-snapdragon-x-ryon-adreno-x1/</link>
+      <description>&lt;![CDATA[Qualcommの次世代AI PC向けSoC「Snapdragon X」を搭載した最初のノートPCの市場投入を目前に控えた2024年6月13日に、QualcommがSnapdragon Xのアーキテクチャを公開しました。この資料を元に、Snapdragon Xが旧来のSnapdragonシリーズとどう違うのかを、複数のメディアが報じています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240615&amp;#45;qualcomm&amp;#45;snapdragon&amp;#45;x&amp;#45;ryon&amp;#45;adreno&amp;#45;x1/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 15 Jun 2024 22:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAがオープンモデル「Nemotron&amp;#45;4 340B」を発表、LLMトレーニング用合成データの生成に革命を起こすか</title>
+      <link>https://gigazine.net/news/20240615-nemotron-4-nvidia/</link>
+      <description>&lt;![CDATA[高度なAIのトレーニングには高品質な学習データが欠かせませんが、そのようなデータは急速に枯渇しつつあることが問題となっています。NVIDIA2024年6月14日に、大規模言語モデル(LLM)のトレーニングに使用する合成データの生成を念頭に開発され、商用アプリケーションにも使えるオープンソースのAIモデル「Nemotron-4 340B」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240615&amp;#45;nemotron&amp;#45;4&amp;#45;nvidia/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 15 Jun 2024 22:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
