@@ -5512,5 +5512,11 @@
       <description>&lt;![CDATA[Appleは2024年6月に開催した年次開発者会議「WWDC24」の基調講演で、Apple製デバイス向けのパーソナルAIである「Apple Intelligence」を発表しました。このApple Intelligenceは2023年に発売されたiPhone 15／15 Plusですら利用できず、実際のところほとんどのiPhoneユーザーが使用できないことが指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240617&amp;#45;apple&amp;#45;intelligence&amp;#45;a17&amp;#45;pro&amp;#45;iphone&amp;#45;15/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 17 Jun 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Metaはどのようにして大規模なAIを稼働させるインフラをメンテナンスしているのか？</title>
+      <link>https://gigazine.net/news/20240617-meta-maintain-large-scale-ai-capacity/</link>
+      <description>&lt;![CDATA[Metaはオープンソースの大規模言語モデルであるLlama 3をリリースしたり、広告用の画像やテキストを生成するAIツールを導入したりするなどAIの開発・活用を積極的に進めています。そんなMetaがAIをトレーニングしたり運用したりする際のハードウェアをどのようにメンテナンスしているのかを解説しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240617&amp;#45;meta&amp;#45;maintain&amp;#45;large&amp;#45;scale&amp;#45;ai&amp;#45;capacity/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 17 Jun 2024 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
