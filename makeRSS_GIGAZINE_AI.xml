@@ -5518,5 +5518,11 @@
       <description>&lt;![CDATA[Metaはオープンソースの大規模言語モデルであるLlama 3をリリースしたり、広告用の画像やテキストを生成するAIツールを導入したりするなどAIの開発・活用を積極的に進めています。そんなMetaがAIをトレーニングしたり運用したりする際のハードウェアをどのようにメンテナンスしているのかを解説しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240617&amp;#45;meta&amp;#45;maintain&amp;#45;large&amp;#45;scale&amp;#45;ai&amp;#45;capacity/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 17 Jun 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AmazonはGitHubをスクレイピングしてAIモデルをトレーニングするグレーな方法を採用していることが明らかに</title>
+      <link>https://gigazine.net/news/20240618-amazon-scrape-github/</link>
+      <description>&lt;![CDATA[AIモデルの質を向上させるためには、高品質のデータセットが大量に必要です。AmazonはAI開発のために、2018年からMicrosoft傘下になっているソフトウェア開発プラットフォームのGitHubからコーディングのデータを収集していると報じられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240618&amp;#45;amazon&amp;#45;scrape&amp;#45;github/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
