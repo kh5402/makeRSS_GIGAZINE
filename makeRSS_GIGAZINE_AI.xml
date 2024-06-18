@@ -5524,5 +5524,11 @@
       <description>&lt;![CDATA[AIモデルの質を向上させるためには、高品質のデータセットが大量に必要です。AmazonはAI開発のために、2018年からMicrosoft傘下になっているソフトウェア開発プラットフォームのGitHubからコーディングのデータを収集していると報じられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240618&amp;#45;amazon&amp;#45;scrape&amp;#45;github/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 18 Jun 2024 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Google DeepMindが「動画にピッタリな音楽を生成するAI」を発表</title>
+      <link>https://gigazine.net/news/20240618-deepmind-generating-audio-for-video/</link>
+      <description>&lt;![CDATA[画像や文章を生成するAIに続いて、動画生成AIも急速に進歩しつつありますが、これまでのAIが生成した動画は無音か人間が音を後付けしたものばかりでした。Google DeepMindが2024年6月17日に、映像の雰囲気や動きに合わせて音楽や音を生成する「video-to-audio(V2A)」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240618&amp;#45;deepmind&amp;#45;generating&amp;#45;audio&amp;#45;for&amp;#45;video/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 11:10:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
