@@ -5674,5 +5674,17 @@
       <description>&lt;![CDATA[AmazonがAIアシスタントの「Alexa」を大幅に改良していることが以前から報じられています。新たに、刷新されたAlexaの仮称が「Remarkable Alexa」であり、月額5～10ドル(約800～1600円)程度で提供される可能性があることが伝えられました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240624&amp;#45;amazon&amp;#45;remarkable&amp;#45;alexa/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 24 Jun 2024 11:28:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「PerplexityのAIがクローラーをブロックするrobots.txtを無視している」との指摘に対しCEOが「無視しているわけではないがサードパーティーのクローラーに依存している」と主張</title>
+      <link>https://gigazine.net/news/20240624-perplexity-crawler/</link>
+      <description>&lt;![CDATA[生成AIを利用した検索エンジンの「Perplexity」に対して、検索エンジンやAIトレーニングなどのボット(クローラー)を制御できるテキストファイル「robots.txt」の指示を無視し、管理者がPerplexityの巡回を禁止したウェブサイトにもアクセスしていることが指摘されています。これに対し、Perplexityのアラヴィンド・スリニヴァスCEOが、「robots.txtの指示を無視しているわけではない」「自社のクローラーだけでなく、サードパーティーのクローラーにも依存している」と釈明しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240624&amp;#45;perplexity&amp;#45;crawler/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 24 Jun 2024 14:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>HuaweiがAIを統合した「HarmonyOS NEXT」のベータ版と独自LLMの「Pangu Large Model 5.0」を正式に発表</title>
+      <link>https://gigazine.net/news/20240624-huawei-harmonyos-next-upgrade-plan/</link>
+      <description>&lt;![CDATA[2024年6月21日、Huaweiが自社OSの「HarmonyOS NEXT」のアップグレード計画を発表しました。HarmonyOS NEXTはAndroidから完全に脱却し、独自の「Harmonyカーネル」を採用したOSで、今後は「Huawei Mate 60シリーズ」など現行機種向けに展開されていく予定です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240624&amp;#45;huawei&amp;#45;harmonyos&amp;#45;next&amp;#45;upgrade&amp;#45;plan/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 24 Jun 2024 14:26:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
