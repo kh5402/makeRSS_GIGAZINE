@@ -5776,5 +5776,11 @@
       <description>&lt;![CDATA[バッグブランドのBAGGUは2024年6月初頭に馬をかたどったバッグなどをリリースすることを発表しました。その後、これらのコレクションは予定通り発売されましたが、製品ページに「AI画像生成ツールの『Midjourney』を使用した」との免責事項が追加されたことから、ユーザーからはBAGGUに対する非難の声が挙がっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240627&amp;#45;baggu&amp;#45;midjourney/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 27 Jun 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIデバイス「Rabbit R1」にユーザーデータがダダ漏れになるセキュリティ問題があることが発覚</title>
+      <link>https://gigazine.net/news/20240627-rabbit-r1-jailbreake/</link>
+      <description>&lt;![CDATA[AIデバイス「Rabbit R1」のコードに、重要なAPIキーが直接書き込まれていたのを発見したと、R1のリバースエンジニアリングを行っている研究者グループが発表しました。このAPIキーを使用すれば、ユーザーの個人情報を含む内部的なデータに自由にアクセスできてしまうと、研究グループは述べています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240627&amp;#45;rabbit&amp;#45;r1&amp;#45;jailbreake/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 27 Jun 2024 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
