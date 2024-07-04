@@ -5932,5 +5932,11 @@
       <description>&lt;![CDATA[画像生成AIや大規模言語モデルなどの計算処理にグラフィックボードを用いる場合、「GPUの処理性能」のほかに「VRAMの容量」も重視されます。グラフィックボードにVRAMを増設することは基本的に不可能なのですが、新たにハードウェアメーカーのPanmnesiaがグラフィックボードへのメモリ外付け増設を可能にするシステム「CXL-GPU」を開発しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240703&amp;#45;cxl&amp;#45;gpu&amp;#45;vram/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 03 Jul 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国の生成AI特許出願数は3万8000件以上でぶっちぎりの世界1位、2位のアメリカの6倍近く</title>
+      <link>https://gigazine.net/news/20240704-china-genai-patent/</link>
+      <description>&lt;![CDATA[2023年までの10年間に出願された「生成AI」に関する特許の数が調べられ、全5万4000件の特許出願件数のうち3万8000件が中国からのものであることがわかりました。上位5カ国は、上から順に中国、アメリカ、韓国、日本、インドです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240704&amp;#45;china&amp;#45;genai&amp;#45;patent/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 04 Jul 2024 14:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
