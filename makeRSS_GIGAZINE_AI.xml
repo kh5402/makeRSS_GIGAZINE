@@ -5980,5 +5980,11 @@
       <description>&lt;![CDATA[通常、大規模言語モデル(LLM)のほとんどは「次の単語を予測する」という作業を行っており、一度に出力されるデータ(トークン)は1つです。これに対しMetaは2024年4月の論文で、一度に複数のトークンを出力する「マルチトークン予測」というアプローチを提案しています。7月4日、Metaがマルチトークン予測を用いた事前トレーニング済みモデルを、AI開発プラットフォームのHugging Faceにオープンソースでリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240705&amp;#45;meta&amp;#45;open&amp;#45;sources&amp;#45;multi&amp;#45;token&amp;#45;prediction/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 05 Jul 2024 15:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAは2024年に中国でH20チップを100万個販売して2兆円を売上げる予定、HuaweiのAIチップの2倍を販売して存在感を示す</title>
+      <link>https://gigazine.net/news/20240705-nvidia-china-ai-gpu-h20/</link>
+      <description>&lt;![CDATA[アメリカが中国に対する高性能半導体の輸出を制限する中で、半導体企業は輸出制限に適合する半導体の中国への販売を続けています。新たに、NVIDIAが中国向けAIチップ「H20」を今後数カ月で100万個以上販売する予定であることが報じられました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240705&amp;#45;nvidia&amp;#45;china&amp;#45;ai&amp;#45;gpu&amp;#45;h20/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 05 Jul 2024 16:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
