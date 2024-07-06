@@ -5986,5 +5986,11 @@
       <description>&lt;![CDATA[アメリカが中国に対する高性能半導体の輸出を制限する中で、半導体企業は輸出制限に適合する半導体の中国への販売を続けています。新たに、NVIDIAが中国向けAIチップ「H20」を今後数カ月で100万個以上販売する予定であることが報じられました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240705&amp;#45;nvidia&amp;#45;china&amp;#45;ai&amp;#45;gpu&amp;#45;h20/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 05 Jul 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>3Dモデル用のメッシュを人間のアーティストが作成したように構築できる「MeshAnything」</title>
+      <link>https://gigazine.net/news/20240706-mesh-anything/</link>
+      <description>&lt;![CDATA[2024年7月2日にMetaが発表したテキストから3Dモデルを生成できる「3D Gen」やOpenAIの「Shap-E」などの3Dモデルを簡単に生成できるAIがあったり、映像や写真から再構成された3Dモデルが配布されていたりと、さまざまな3Dモデルを簡単に手に入れることができます。一方で、手作業で作成された3Dモデルとは異なり、機械生成したものは3Dモデルを各アプリで運用するための「メッシュ」が大幅に劣ります。シンガポールの南洋理工大学や上海AIラボなどの研究者らが共同で作成した「MeshAnything」というソフトは、あらゆる3D表現に人間のアーティストが作成した3Dモデルに匹敵するメッシュを追加することができます。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240706&amp;#45;mesh&amp;#45;anything/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 06 Jul 2024 09:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
