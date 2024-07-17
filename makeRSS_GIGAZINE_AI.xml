@@ -6286,5 +6286,11 @@
       <description>&lt;![CDATA[2024年5月に成立したEUの「人工知能(AI)法」の最終版全文が公式官報に掲載されました。新法は公布から20日で施行されるため、AI法は2024年8月1日に施行されることが確定しました。全規定の完全適用は2026年からですが、一部についてはもっと早い段階から適用されることになります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240717&amp;#45;eu&amp;#45;ai&amp;#45;act&amp;#45;official&amp;#45;journal/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 17 Jul 2024 17:24:00 +0900</pubDate>
     </item>
+    <item>
+      <title>人間のようにマウスやキーボードを操作してゲームをプレイできるAIフレームワーク「Cradle」が開発される</title>
+      <link>https://gigazine.net/news/20240717-general-computer-control-ai-cradle/</link>
+      <description>&lt;![CDATA[近年ではAIの性能が飛躍的に向上し、現実世界の複雑なシナリオでタスクを実行できるAIエージェントが開発されています。しかし、これらのAIエージェントは複数のシナリオ間で一般化されたタスクを実行する際に失敗することが多いそうで、これは各環境で必要な観察や行動の違いに起因するとのこと。そこで中国の研究チームが、最も統一化されたインターフェースである「スクリーン」を入力に、「キーボード」と「マウス」を出力に使用することで、まるで人間のようにゲームやアプリを操作できるAIフレームワーク「Cradle」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240717&amp;#45;general&amp;#45;computer&amp;#45;control&amp;#45;ai&amp;#45;cradle/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 17 Jul 2024 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
