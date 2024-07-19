@@ -6340,5 +6340,17 @@
       <description>&lt;![CDATA[高精度な翻訳ツールを提供するDeepLが、翻訳性能を強化した次世代言語モデルの実装を発表しました。DeepLの次世代言語モデルはGoogle翻訳やGPT-4と比べて高い精度で翻訳が可能とのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240719&amp;#45;deepl&amp;#45;translation&amp;#45;llm&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 19 Jul 2024 10:35:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIトレーニングサービス経由で顧客のクラウド環境にアクセスできる脆弱性をセキュリティ企業が報告</title>
+      <link>https://gigazine.net/news/20240719-sap-ai-vulnerabilities-wiz/</link>
+      <description>&lt;![CDATA[セキュリティ企業のWizが、ビジネス向けのAIサービスを提供するSAPのシステムについて調査し、AIサービス経由で顧客企業のクラウド環境にアクセスできる脆弱(ぜいじゃく)性を発見したと報告しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240719&amp;#45;sap&amp;#45;ai&amp;#45;vulnerabilities&amp;#45;wiz/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 19 Jul 2024 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAとMistral AIがAIモデル「Mistral NeMo」を発表、新型トークナイザ「Tekken」を採用し日本語を含む多言語性能が強み</title>
+      <link>https://gigazine.net/news/20240719-nvidia-mistral-nemo-ai/</link>
+      <description>&lt;![CDATA[AI開発企業のMistral AIがNVIDIAと協力してAIモデル「Mistral NeMo」を開発したことを発表しました。Mistral NeMoは各種ベンチマークでGemma 2 9BやLlama 3 8Bを上回る性能を示しており、NVIDIAのAIプラットフォームで利用できるほか、モデルデータがオープンソースで公開されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240719&amp;#45;nvidia&amp;#45;mistral&amp;#45;nemo&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 19 Jul 2024 12:39:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
