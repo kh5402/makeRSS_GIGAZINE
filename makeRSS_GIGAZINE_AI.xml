@@ -6454,5 +6454,11 @@
       <description>&lt;![CDATA[フランスのAI開発企業・Mistral AIが、新世代の主力モデル「Mistral Large 2」を2024年7月24日に発表しました。Mistral Large 2は、コード生成、数学、推論能力が大幅に向上したほか、128kのコンテキストウィンドウを持ち、数十種類の言語やプログラミング言語にも対応しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240725&amp;#45;mistral&amp;#45;large&amp;#45;2&amp;#45;released/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 25 Jul 2024 11:13:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIが人間を使わずAIの安全性を高める手法「Rule&amp;#45;Based Rewards(RBR)」を開発</title>
+      <link>https://gigazine.net/news/20240725-openai-rule-based-rewards/</link>
+      <description>&lt;![CDATA[ChatGPTやGPT-4などを開発するOpenAIが、言語モデルの安全性と有効性を高めるための新たなアプローチである「Rule-Based Rewards(RBR)」を開発しました。RBRは、AI自体を使用することで人間によるデータ収集を必要とせずに、AIを安全に動作させることができるとされています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240725&amp;#45;openai&amp;#45;rule&amp;#45;based&amp;#45;rewards/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 25 Jul 2024 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
