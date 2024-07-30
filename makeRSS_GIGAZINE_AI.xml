@@ -6562,5 +6562,17 @@
       <description>&lt;![CDATA[中古ピアノの買い取りを行っているタケモトピアノが新CM映像をYouTubeで公開しました。タケモトピアノのCMは長らく財津一郎さんが中心となったものが用いられてきましたが、財津さんが2023年10月に亡くなったのち、放送されなくなっていました。新CMでも「赤ちゃんが泣き止む」として話題になったメロディは継承され、AI技術を活用して「令和バージョン」に進化しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240729&amp;#45;headline/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 29 Jul 2024 18:27:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Anthropicによるサイトのスクレイピングを防ぐrobots.txtの内容がすでに古くなっているという指摘、クローラーは24時間で100万アクセスしている事例も</title>
+      <link>https://gigazine.net/news/20240730-websites-are-blocking-ai-scrapers/</link>
+      <description>&lt;![CDATA[生成AIの流行により、ネット上にコンテンツを公開している企業や組織が、トレーニングデータとして使われないように対策を行う事例が出てきています。対策の1つはサイトのクローラーに対してアクセスを許すページとアクセスを許さないページを示す「robots.txt」を用いた方法ですが、実態として、Anthropicのクローラーを防ぐための内容はすでに使われていないクローラーの名前になっていて、使用中のクローラーは防げていない状況になっているそうです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240730&amp;#45;websites&amp;#45;are&amp;#45;blocking&amp;#45;ai&amp;#45;scrapers/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 30 Jul 2024 11:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AMD製プロセッサに最適化した画像生成AI「Amuse 2.0 Beta」がリリースされる</title>
+      <link>https://gigazine.net/news/20240730-amd-amuse-2-beta/</link>
+      <description>&lt;![CDATA[AMDのRyzen AI 300シリーズとRadeon RX 7000シリーズ、Ryzen 8040シリーズに対応した画像生成AI「Amuse 2.0 Beta」が登場しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240730&amp;#45;amd&amp;#45;amuse&amp;#45;2&amp;#45;beta/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 30 Jul 2024 11:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
