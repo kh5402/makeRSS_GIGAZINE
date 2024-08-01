@@ -6634,5 +6634,17 @@
       <description>&lt;![CDATA[Metaが2024年第2四半期(4～6月)の決算報告書を2024年7月31日(水)に発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240801&amp;#45;meta&amp;#45;financial&amp;#45;results&amp;#45;2024q2/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 01 Aug 2024 10:45:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleが大規模言語モデル「Gemma 2」をベースとしたパラメーターサイズがコンパクトな「Gemma 2 2B」、AIモデルの入出力をフィルタリングする「ShieldGemma」、モデル解釈ツール「Gemma Scope」を発表</title>
+      <link>https://gigazine.net/news/20240801-google-gemma-2-2b-shieldgemma-scope/</link>
+      <description>&lt;![CDATA[Googleは2024年6月に大規模言語モデル(LLM)の「Gemma 2」を発表しました。当初発表されたGemma 2のパラメーターサイズは90億(9B)と270億(27B)の2つだったのですが、これらよりもコンパクトなパラメーターサイズでありながら優れたパフォーマンスを発揮できる「Gemma 2 2B」や、Gemma 2をベースとしたAIモデルの入出力をフィルタリングしてユーザーの安全を守ることができるという「ShieldGemma」、モデルの内部動作に関する比類ない洞察を提供することができるモデル解釈ツールの「Gemma Scope」を発表しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240801&amp;#45;google&amp;#45;gemma&amp;#45;2&amp;#45;2b&amp;#45;shieldgemma&amp;#45;scope/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 Aug 2024 12:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>個人や企業に無許可のAIディープフェイクの作成・ホスティング・共有に対する責任を課す「NO FAKES法」を超党派の議員が提出</title>
+      <link>https://gigazine.net/news/20240801-nofakes-bill-ai-deep-fake/</link>
+      <description>&lt;![CDATA[2024年7月31日に、アメリカの超党派の議員らが個人の同意なしに人の声や肖像のディープフェイクを作成することを違法とする「Nurture Originals, Foster Art, and Keep Entertainment Safe Act(NO FAKES法)」を上院議会に提出しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240801&amp;#45;nofakes&amp;#45;bill&amp;#45;ai&amp;#45;deep&amp;#45;fake/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 Aug 2024 11:11:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
