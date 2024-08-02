@@ -6676,5 +6676,17 @@
       <description>&lt;![CDATA[日本時間の2024年7月14日、ドナルド・トランプ前大統領がペンシルバニア州における公衆の場での演説中に銃撃を受けるという事件が発生しました。この事件についてMetaのAIについて尋ねたユーザーが、正しい情報を返さなかったとして問題視しましたが、通常、このような生成AIは事前のトレーニングデータに基づいた回答を出すので、時事的な話題には疎いのが当然です。ただ、Metaは「AIが回答する内容をもっと早く更新するべきだった」と謝罪しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240801&amp;#45;meta&amp;#45;ai&amp;#45;trunp&amp;#45;responses&amp;#45;hallucination/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 01 Aug 2024 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>3Dモデルを0.5秒で作れるAI「Stable Fast 3D」が登場したので使ってみた</title>
+      <link>https://gigazine.net/news/20240802-stable-fast-3d/</link>
+      <description>&lt;![CDATA[Stable Diffusionの開発元として知られるStability AIが、画像から3Dモデルを高速生成できるAIモデル「Stable Fast 3D」を公開しました。無料で使えるデモアプリも用意されていたので、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240802&amp;#45;stable&amp;#45;fast&amp;#45;3d/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 02 Aug 2024 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>セキュリティ問題に揺れるAIデバイス「rabbit r1」開発元のRabbitがAPIキー問題は従業員がハッカー集団に情報を流したせいと報告、ハッカー側からは論点ずらしとの指摘</title>
+      <link>https://gigazine.net/news/20240802-rabbit-r1-data-breach/</link>
+      <description>&lt;![CDATA[技術系スタートアップ・Rabbitが開発したAIデバイス「rabbit r1」のジェイルブレイクとリバースエンジニアリングを行っているコミュニティ・rabbitudeが、「rabbit r1はコードベースにAPIキーがハードコードされている」と指摘した件について、Rabbitが「2024年6月に従業員が自称ハクティビスト集団(＝rabbitude)にAPIキーを漏らし、そのグループが内部コードやAPIキーにアクセスできると主張したものである」という報告を行いました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240802&amp;#45;rabbit&amp;#45;r1&amp;#45;data&amp;#45;breach/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 02 Aug 2024 11:20:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
