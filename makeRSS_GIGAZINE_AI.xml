@@ -6820,5 +6820,11 @@
       <description>&lt;![CDATA[FacebookやXなどのSNSには、明らかにAIが生成したと思われる奇妙な画像や動画が数多く投稿されており、特にFacebookではAI画像を投稿しまくってお金を稼ぐスパムアカウントが台頭しています。海外メディア・404 Mediaの記者であるジェイソン・ケブラー氏が、「AIスロップ」と呼ばれるこれらのスパムアカウントを推進するインフルエンサーや、その動機になっているMetaのパフォーマンスボーナスプログラムについて調べたレポートを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240807&amp;#45;facebooks&amp;#45;paying&amp;#45;ai&amp;#45;spam&amp;#45;creators/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 07 Aug 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIがJSON出力の際に100％の精度で特定のスキーマに従わせる機能をリリース</title>
+      <link>https://gigazine.net/news/20240807-openai-structured-outputs/</link>
+      <description>&lt;![CDATA[AIにデータを構造化させる際に、指定したスキーマに確実に従わせることが可能なモードをOpenAIがリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240807&amp;#45;openai&amp;#45;structured&amp;#45;outputs/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 07 Aug 2024 18:45:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
