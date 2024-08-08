@@ -6862,5 +6862,11 @@
       <description>&lt;![CDATA[AIロボット企業のFigureが、世界初の商業的に実現可能な自律型ヒューマノイドロボット「Figure 02」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240808&amp;#45;figure&amp;#45;02&amp;#45;ai&amp;#45;humanoid/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 08 Aug 2024 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIが出力したデータで学習するとAIが崩壊する「AIの自食障害」とは？</title>
+      <link>https://gigazine.net/news/20240809-ai-model-autophagy-disorder/</link>
+      <description>&lt;![CDATA[AIのトレーニングには膨大なデータが必要となりますが、このデータにAIが生成したデータを使うと将来的に深刻な悪影響が生じるという研究結果を、ライス大学のデジタル信号処理グループが発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240809&amp;#45;ai&amp;#45;model&amp;#45;autophagy&amp;#45;disorder/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 09 Aug 2024 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
