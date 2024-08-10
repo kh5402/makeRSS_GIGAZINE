@@ -6880,5 +6880,11 @@
       <description>&lt;![CDATA[ChatGPTにはOpenAI製の画像生成AI「DALL-E 3」を用いた画像生成機能が搭載されています。これまでは、画像生成機能は有料プラン「ChatGPT Plus」の加入者しか使えなかったのですが、2024年8月8日(木)から無料ユーザーも使えるようになりました。すでに日本からも画像生成機能を無料で使用可能だったので、「日本語でも使えるのか？」「生成枚数の制限はあるのか？」といった疑問を解決するべく実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240809&amp;#45;chatgpt&amp;#45;free&amp;#45;user&amp;#45;image&amp;#45;generator/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 09 Aug 2024 10:20:00 +0900</pubDate>
     </item>
+    <item>
+      <title>数学を解ける言語モデル「Qwen2&amp;#45;Math」が登場、GPT&amp;#45;4o超えの数学性能</title>
+      <link>https://gigazine.net/news/20240810-qwen2-math-ai-llm/</link>
+      <description>&lt;![CDATA[中国のAI研究チームが数学特化の大規模言語モデル「Qwen2-Math」を公開しました。Qwen2-MathはGPT-4oやGemini-1.5-Proなどのクローズドソースの大規模言語モデルをしのぐ数学性能を備えています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240810&amp;#45;qwen2&amp;#45;math&amp;#45;ai&amp;#45;llm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 10 Aug 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
