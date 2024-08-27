@@ -7186,5 +7186,17 @@
       <description>&lt;![CDATA[AmazonがAIアシスタント「Alexa」を全面的に改修していることが以前から報じられていましたが、「アップグレード版のAlexaは2024年10月からスタートする」と海外メディアのワシントン・ポストが伝えています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240827&amp;#45;amazon&amp;#45;alexa&amp;#45;renewal/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 27 Aug 2024 11:31:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Anthropicが対話型生成AI「Claude」各モデルのシステムプロンプトの変更ログを公開、大手AIベンダーとしては初</title>
+      <link>https://gigazine.net/news/20240827-anthropic-claude-system-prompts/</link>
+      <description>&lt;![CDATA[Anthropicが開発する対話型生成AI「Claude」には、Opus・Sonnet・Haikuという3つのモデルが存在しています。ウェブブラウザ版・iOS版・Android版のClaudeで、各モデルのデフォルトのシステムプロンプトに変更を加えたとAnthropicが発表しており、変更ログを公式サイト上で公開しています。大手AI開発企業がシステムプロンプトの変更ログを公開したのは、今回が初です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240827&amp;#45;anthropic&amp;#45;claude&amp;#45;system&amp;#45;prompts/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 27 Aug 2024 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI・Amazon・Microsoftなどの大手IT企業が「AI生成コンテンツへのラベル付与を義務付ける法案」に賛同</title>
+      <link>https://gigazine.net/news/20240827-ab-3211-ai-watermarking-openai/</link>
+      <description>&lt;![CDATA[AI技術が急速に発展する中、世界各地でAIに関連する法律の整備が進んでいます。カリフォルニア州でも複数のAI規制法案が議論されているのですが、このうち「生成AIで生成したコンテンツにラベルを付与することを義務付ける法案」にOpenAIやMicrosoftが参加するロビー団体が賛同する意向を示しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240827&amp;#45;ab&amp;#45;3211&amp;#45;ai&amp;#45;watermarking&amp;#45;openai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 27 Aug 2024 12:45:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
