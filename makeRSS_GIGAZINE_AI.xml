@@ -7288,5 +7288,17 @@
       <description>&lt;![CDATA[チーム向けのチャットボットAIを提供しているGlama.aiのエンジニアであるフランク・フィーゲル氏が、容量削減のために変数名を短縮し、改行や空白を消す「Minify」が行われたJavaScriptのコードをChatGPTを使って読みやすい形式に戻すことに成功したと報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240902&amp;#45;reverse&amp;#45;engineering&amp;#45;with&amp;#45;chatgpt/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 02 Sep 2024 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Amazonが次世代Alexaの搭載AIにAnthropicのClaudeを起用か</title>
+      <link>https://gigazine.net/news/20240902-amazon-alexa-anthropic-claude/</link>
+      <description>&lt;![CDATA[AmazonがAIアシスタント「Alexa」を全面的に改修し、アップグレード版Alexa「Remarkable Alexa」として2024年10月にリリースすることが報じられています。このRemarkable Alexaには、AnthropicのAIモデルである「Claude」が使用される予定とのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240902&amp;#45;amazon&amp;#45;alexa&amp;#45;anthropic&amp;#45;claude/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 02 Sep 2024 10:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Stable Diffusionにも使われるデータセット「LAION&amp;#45;5B」に児童性的虐待コンテンツが見つかり開発元がリンクを削除した「Re&amp;#45;LAION&amp;#45;5B」をリリース</title>
+      <link>https://gigazine.net/news/20240902-re-laion-5b/</link>
+      <description>&lt;![CDATA[Stable DiffusionやMidjourneyなど著名な画像生成AIにも使われたデータセット「LAION-5B」に児童性的虐待コンテンツ(CSAM)が見つかった問題で、LAION-5Bの開発元であるLAIONがデータセットからCSAMを削除した「Re-LAION-5B」を新たに発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240902&amp;#45;re&amp;#45;laion&amp;#45;5b/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 02 Sep 2024 10:45:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
