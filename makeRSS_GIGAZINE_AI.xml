@@ -7420,5 +7420,11 @@
       <description>&lt;![CDATA[OpenAIのGPT-4をコーディング能力で上回ったというAI検索エンジン・Phindが、新たな大規模言語モデルのフラッグシップである「Phind-405B」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240906&amp;#45;phind&amp;#45;405b/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 06 Sep 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>スーパーマリオのプレイ映像を学習してテキストからゲーム動画を自動生成するAIモデル「MarioVGG」</title>
+      <link>https://gigazine.net/news/20240906-mariovgg-super-mario-bros-generative-ai/</link>
+      <description>&lt;![CDATA[AI開発スタートアップのVirtuals Protocolが、テキストを入力することで「スーパーマリオブラザーズ」のゲームプレイ映像を生成できるAIモデル「MarioVGG」を開発したと発表しました。MarioVGGは約73万フレームに及ぶ「スーパーマリオブラザーズ」のゲームプレイ動画で学習しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240906&amp;#45;mariovgg&amp;#45;super&amp;#45;mario&amp;#45;bros&amp;#45;generative&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 06 Sep 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
