@@ -7558,5 +7558,17 @@
       <description>&lt;![CDATA[スポーツの試合のハイライトや概要をまとめたニュース記事は、得点が入ったシーンや記録を確認できたり、盛り上がったシーンを振り返ることができたりと、試合の中継を見た人にも後から情報を知りたい人にもうれしいコンテンツです。アメリカのスポーツ専門チャンネルであるESPNは、試合の概要をまとめたニュースをAIが執筆するプロジェクトを公開しましたが、そのニュースには「人間が書いた場合には絶対に含まれている重要なニュアンスが欠けている」と指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240913&amp;#45;sports&amp;#45;recaps/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 13 Sep 2024 06:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleがロボットアームに「靴ひもを結ぶ」「別のロボットを修理」などの難しいタスクを学習させる手法を発表</title>
+      <link>https://gigazine.net/news/20240913-google-deepmind-robot-arm-aloha-unleashed-demostart/</link>
+      <description>&lt;![CDATA[GoogleのAI研究部門であるGoogle DeepMindが、ロボットアームに複雑なタスクを学習させる手法を発表しました。発表された手法は人間の操作から学習する「ALOHA Unleashed」と物理シミュレーターでの学習をベースにした「DemoStart」の2種類で、それぞれ異なる手法でロボットアームにタスクを学習させられます。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240913&amp;#45;google&amp;#45;deepmind&amp;#45;robot&amp;#45;arm&amp;#45;aloha&amp;#45;unleashed&amp;#45;demostart/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 13 Sep 2024 12:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが複雑な推論能力をもつAIモデル「OpenAI o1」と「OpenAI o1&amp;#45;mini」を発表、プログラミングや数学で高い能力を発揮</title>
+      <link>https://gigazine.net/news/20240913-openai-o1/</link>
+      <description>&lt;![CDATA[OpenAIが新たなAIモデル「OpenAI o1」および「OpenAI o1-mini」を発表しました。段階的に推論を行う「思考の連鎖」テクニックを使用することで複雑な推論を正しく行えるようになり、数学オリンピックの予選で全米500位にランクインしたほか、物理学・生物学・化学の分野で人間の博士レベルの能力を持っているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240913&amp;#45;openai&amp;#45;o1/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 13 Sep 2024 12:20:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
