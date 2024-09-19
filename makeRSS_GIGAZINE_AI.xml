@@ -7600,5 +7600,11 @@
       <description>&lt;![CDATA[画像生成AIを用いてフェイク画像の拡散が問題になる中、画像内に画像の来歴を示すメタデータを埋め込む技術「C2PA」の規格策定が進んでいます。新たに、Googleが「C2PAの情報を読み取って画像の来歴を表示する機能」を開発中であることを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240918&amp;#45;google&amp;#45;c2pa&amp;#45;ai&amp;#45;content&amp;#45;transparency/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 18 Sep 2024 11:08:00 +0900</pubDate>
     </item>
+    <item>
+      <title>YouTubeショートで6秒間のAI生成動画を作成可能に、Google DeepMindの動画生成モデル「Veo」を採用</title>
+      <link>https://gigazine.net/news/20240919-youtube-shorts-veo/</link>
+      <description>&lt;![CDATA[YouTubeが新機能を発表するイベント「Made on YouTube 2024」で、Google DeepMindの動画生成モデル「Veo」をYouTube Shortsに統合することを明らかにしました。これにより、クリエイターはより高品質な背景映像を生成したり、6秒間の独立したクリップを作成したりすることが可能になります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240919&amp;#45;youtube&amp;#45;shorts&amp;#45;veo/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Sep 2024 10:43:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
