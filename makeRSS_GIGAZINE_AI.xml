@@ -7606,5 +7606,11 @@
       <description>&lt;![CDATA[YouTubeが新機能を発表するイベント「Made on YouTube 2024」で、Google DeepMindの動画生成モデル「Veo」をYouTube Shortsに統合することを明らかにしました。これにより、クリエイターはより高品質な背景映像を生成したり、6秒間の独立したクリップを作成したりすることが可能になります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240919&amp;#45;youtube&amp;#45;shorts&amp;#45;veo/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 19 Sep 2024 10:43:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIが新モデル「o1&amp;#45;preview」の思考内容を出力させようとしたユーザーに警告</title>
+      <link>https://gigazine.net/news/20240919-openai-threaten-ban/</link>
+      <description>&lt;![CDATA[複雑な推論を行えるOpenAIのモデル「o1-preview」では「思考の連鎖(chain of thought)」プロセスを挟むことで推論の精度を高めています。思考の連鎖プロセスの中身は非公開ですが、ユーザーの中には何とかして中身を出力させようとする人もいます。OpenAIがそうしたユーザーに対し警告を行っていることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240919&amp;#45;openai&amp;#45;threaten&amp;#45;ban/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Sep 2024 12:39:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
