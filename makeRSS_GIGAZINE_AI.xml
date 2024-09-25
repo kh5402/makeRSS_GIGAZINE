@@ -7720,5 +7720,11 @@
       <description>&lt;![CDATA[Googleはボットからのアクセスを防ぐためのシステムとして「reCAPTCHA」を提供しています。このreCAPTCHAのバージョン2(v2)を、AIで突破することに成功したと報告されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240925&amp;#45;ai&amp;#45;beats&amp;#45;google&amp;#45;recaptcha/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 25 Sep 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIが書いたマルウェアが標的型攻撃に使用された可能性があることが判明</title>
+      <link>https://gigazine.net/news/20240925-generative-ai-written-malware/</link>
+      <description>&lt;![CDATA[フランスのユーザーをターゲットとした電子メールによる攻撃において、生成AIの助けを借りて作成されたと考えられる悪意のあるコードが発見されました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240925&amp;#45;generative&amp;#45;ai&amp;#45;written&amp;#45;malware/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 25 Sep 2024 17:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
