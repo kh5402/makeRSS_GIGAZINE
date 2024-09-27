@@ -7774,5 +7774,23 @@
       <description>&lt;![CDATA[2024年9月25日、アレン人工知能研究所(Ai2)が新たなマルチモーダルAI「Molmo」をオープンソースでリリースしました。MolmoはOpenAIのGPT-4oやGoogleのGemini 1.5 Proといった、大手企業が開発した最先端のAIに匹敵する性能を持ちながら、モデルのサイズは約10分の1と非常に小さくなっています。ブラウザでMolmoの性能をチェックできるデモページも公開されていたので、実際に試してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240926&amp;#45;ai2s&amp;#45;molmo&amp;#45;open&amp;#45;source&amp;#45;multimodal&amp;#45;models/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 26 Sep 2024 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIがGPT&amp;#45;4oベースの有害なテキストや画像を検出できる新しいマルチモーダルモデレーションモデルを「Moderation API」に導入</title>
+      <link>https://gigazine.net/news/20240927-gpt-4o-multimodal-moderation-model/</link>
+      <description>&lt;![CDATA[AI開発企業のOpenAIが、Moderation APIに新しいマルチモーダルモデレーションモデルを導入しました。このマルチモーダルモデレーションモデルはGPT-4oをベースとしており、テキストと画像の両方の入力をサポート。特に、英語以外の言語で以前のモデルよりも正確にモデレーションを実行してくれます。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240927&amp;#45;gpt&amp;#45;4o&amp;#45;multimodal&amp;#45;moderation&amp;#45;model/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Sep 2024 11:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleがチップ設計AI「AlphaChip」を発表、すでにスマホ向けチップやAI特化チップの設計で活躍</title>
+      <link>https://gigazine.net/news/20240927-google-computer-chip-design-ai-alphachip/</link>
+      <description>&lt;![CDATA[GoogleのAI研究部門であるGoogle DeepMindが、チップレイアウトの設計が可能なAI「AlphaChip」を発表しました。AlphaChipはすでに実際のチップ開発に導入されており、GoogleやMediaTekのチップ設計で活用されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240927&amp;#45;google&amp;#45;computer&amp;#45;chip&amp;#45;design&amp;#45;ai&amp;#45;alphachip/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Sep 2024 11:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleの自分専用AI作成サービス「NotebookLM」で学習データにYouTubeの動画を指定可能に</title>
+      <link>https://gigazine.net/news/20240927-google-notebooklm-video-sources/</link>
+      <description>&lt;![CDATA[GoogleのカスタムAI作成サービス「NotebookLM」に、YouTubeのURLや音声ファイルを追加できる機能が搭載されました。これにより、YouTubeや音声ファイルの情報に基づいて質問に答えたり要約したりできるAIを作成できるようになります。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240927&amp;#45;google&amp;#45;notebooklm&amp;#45;video&amp;#45;sources/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Sep 2024 11:09:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
