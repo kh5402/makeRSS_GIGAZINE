@@ -7822,5 +7822,11 @@
       <description>&lt;![CDATA[AIプラットフォームのHugging Faceでは、Metaの「Llama」やGoogleの「Gemma 2」など、数多くのAIモデルが公開されています。そんなHugging Faceでダウンロード可能になったAIモデルの数が2024年9月をもって100万個を突破したことが報告されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240928&amp;#45;hugging&amp;#45;face&amp;#45;ai&amp;#45;models/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 28 Sep 2024 11:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIのGPTシリーズ・MetaのLlama・BigScienceのBLOOMのような新しくて大きなバージョンの大規模言語モデルを使ったAIは無知を認めるよりも間違った答えを与える傾向が強い</title>
+      <link>https://gigazine.net/news/20240929-advanced-ai-wrong-answers/</link>
+      <description>&lt;![CDATA[近年急速な発展を遂げる生成AIは、複雑な計算や文書の要約などをわずか数秒で遂行してくれます。一方で生成AIには「幻覚(ハルシネーション)」と呼ばれる、虚偽または誤解を招く情報を事実として提示してしまうという問題が存在しています。バレンシア人工知能研究所の研究チームがOpenAIのGPTシリーズや、MetaのLLaMAなどの大規模言語モデルを対象として調査を実施した結果、より高性能なモデルほど幻覚が生じていることが明らかとなりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240929&amp;#45;advanced&amp;#45;ai&amp;#45;wrong&amp;#45;answers/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 29 Sep 2024 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
