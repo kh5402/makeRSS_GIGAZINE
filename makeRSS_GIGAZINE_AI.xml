@@ -7828,5 +7828,17 @@
       <description>&lt;![CDATA[近年急速な発展を遂げる生成AIは、複雑な計算や文書の要約などをわずか数秒で遂行してくれます。一方で生成AIには「幻覚(ハルシネーション)」と呼ばれる、虚偽または誤解を招く情報を事実として提示してしまうという問題が存在しています。バレンシア人工知能研究所の研究チームがOpenAIのGPTシリーズや、MetaのLLaMAなどの大規模言語モデルを対象として調査を実施した結果、より高性能なモデルほど幻覚が生じていることが明らかとなりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240929&amp;#45;advanced&amp;#45;ai&amp;#45;wrong&amp;#45;answers/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 29 Sep 2024 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>カリフォルニア州議会を通過したAI安全法案にニューサム知事が署名せず拒否権を発動、大規模モデル以外のAIについて考慮不足の懸念</title>
+      <link>https://gigazine.net/news/20240930-newsom-vetoes-ai-safety-bill-sb-1047/</link>
+      <description>&lt;![CDATA[大規模なAIモデル、具体的には開発に1億ドル(約140億円)以上の費用がかかるものについて安全性テストを義務づけるカリフォルニア州の上院法案1047(SB 1047)、通称「AI安全法案」について、ギャビン・ニューサム知事が拒否権を発動したことがわかりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240930&amp;#45;newsom&amp;#45;vetoes&amp;#45;ai&amp;#45;safety&amp;#45;bill&amp;#45;sb&amp;#45;1047/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Sep 2024 11:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>リリース延期になったWindowsのPC操作履歴検索AI「Recall」に施されたセキュリティ対策の詳細が明らかに</title>
+      <link>https://gigazine.net/news/20240930-microsoft-windows-recall-security-privacy/</link>
+      <description>&lt;![CDATA[Microsoftは2024年5月にCopilot＋ PCの目玉機能として操作履歴検索AI「Recall」を発表しましたが、セキュリティやプライバシーに関する懸念の声が大量に寄せられたことを受けてリリース時期の延期が決定しました。そんなRecallに施されたセキュリティ対策やプライバシー対策についてMicrosoftのエンタープライズおよびOSセキュリティ担当ヴァイスプレジデントを務めるデビッド・ウェストン氏が解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20240930&amp;#45;microsoft&amp;#45;windows&amp;#45;recall&amp;#45;security&amp;#45;privacy/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Sep 2024 11:13:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
