@@ -7888,5 +7888,11 @@
       <description>&lt;![CDATA[ソフトバンクがOpenAIに5億ドル(約720億円)を出資予定であることが、The Informationによって報じられました。ソフトバンク以外にも複数の企業がOpenAIへの出資を検討しており、一連の出資でOpenAIは65億ドル(約940億円)規模の資金を調達すると目されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241001&amp;#45;softbank&amp;#45;openai&amp;#45;invest/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 01 Oct 2024 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>MITからスピンオフした「Liquid AI」が非トランスフォーマーAIモデル「LFM 1B・3B・40B MoE」をリリース</title>
+      <link>https://gigazine.net/news/20241001-liquid-non-transformer-ai-models/</link>
+      <description>&lt;![CDATA[OpenAIのChatGPTの正式名称「Chat Generative Pre-trained Transformer」にTransformer(トランスフォーマー)という言葉が使われているとおり、記事作成時点でメジャーなAIモデルの多くはGoogleが発表した深層学習モデルであるトランスフォーマーを使用したものです。トランスフォーマーを使わずにGPTを超える基礎モデルを構築することを目標に掲げるAI企業のLiquid AIが、メモリー・フットプリントを最小限に抑えつつ優れたパフォーマンスを示すLiquid Foundation Models(LFM)の最初のシリーズを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241001&amp;#45;liquid&amp;#45;non&amp;#45;transformer&amp;#45;ai&amp;#45;models/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 01 Oct 2024 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
