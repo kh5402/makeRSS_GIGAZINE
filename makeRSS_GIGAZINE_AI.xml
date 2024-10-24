@@ -8452,5 +8452,17 @@
       <description>&lt;![CDATA[2024年10月23日(水)にAppleが「iOS 18.2」「iPadOS 18.2」「macOS 15.2」のベータ版をリリースしました。新たなOSには画像生成AIアプリ「Image Playground」が追加されるほか、「カスタム絵文字の生成」「SiriとChatGPTの統合」などの新機能が加わっています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241024&amp;#45;ios&amp;#45;ipados&amp;#45;macos&amp;#45;beta/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 24 Oct 2024 12:14:00 +0900</pubDate>
     </item>
+    <item>
+      <title>生成AIに使われる拡散処理を超爆速わずか2ステップで完了できるアプローチ「sCM」をOpenAIが発表</title>
+      <link>https://gigazine.net/news/20241024-openai-scm-consistency-models/</link>
+      <description>&lt;![CDATA[画像生成AI「Stable Diffusion」などの生成AIモデルは「拡散モデル」と呼ばれるアプローチを採用しています。この拡散モデルに代わる、拡散処理を単純化して高速化するアプローチ「sCM」をOpenAIが考案しました。通常であれば数十から数百のサンプリングステップがかかるところ、sCMだとわずか2ステップで済むとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241024&amp;#45;openai&amp;#45;scm&amp;#45;consistency&amp;#45;models/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 24 Oct 2024 12:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Adobeがお絵かきアプリ「Adobe Fresco」を完全無料化、1000種類以上の追加ブラシへの無制限アクセスなど機能満載</title>
+      <link>https://gigazine.net/news/20241024-adobe-fresco-free/</link>
+      <description>&lt;![CDATA[現地時間の2024年10月23日、Adobeがデジタルペインティングアプリの「Adobe Fresco」を完全無料化すると発表しましたCelebrating five years of Fresco with powerful new updates that unlock digital drawing and painting for everyone | Adobe Bloghttps://blog.adobe.com/en/publish/2024/10/23/celebrating-five-years-fresco-powerful-new-updates-unlock-digital-drawing-painting-everyoneJoin in as we celebrate 5️⃣ years of #AdobeFresco!???? Fresco is now totally FREE, and we&amp;#39;ve unlocked over a thousand incredible brushes.???? Find out more here: https://t.co/dx3OC2fxoy pic.twitter.com/63Q1Gg0Vqo&amp;mdash; Adobe Drawing (@AdobeDrawing) October 23, 2024Adobe made its painting app completely free to take on Procreate - The Vergehttps://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreateAdobe Fresco is Now Completely Free - Thurrott.comhttps://www.thurrott.com/music-videos/311990/adobe-fresco-is-now-completely-free2019年11月にリリースされたAdobe Frescoは、AI機能のAdobe Senseiを活用して幅広い描画表現が可能なツールです。初心者からクリエイター、デザイナー、イラストレーターなど幅広いニーズに対応できる柔軟性を持ちます。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241024&amp;#45;adobe&amp;#45;fresco&amp;#45;free/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 24 Oct 2024 12:17:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
