@@ -8536,5 +8536,11 @@
       <description>&lt;![CDATA[HPの「OmniBook Ultra 14-fd」をフォトレビューした前回の記事では、スタイリッシュな薄型軽量ボディや高輝度・高解像度なディスプレイといったHPのハイエンドノートPCの魅力が判明しました。さらに、今回の記事ではOmniBook Ultra 14-fdが誇るAIパフォーマンスを含めた性能面を徹底的に見ていきます。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241027&amp;#45;hp&amp;#45;omnibook&amp;#45;ultra&amp;#45;14&amp;#45;fd&amp;#45;benchmark/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 27 Oct 2024 16:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIの文字起こしAI「Whisper」が幻覚を起こし文章を捏造すると研究者が指摘</title>
+      <link>https://gigazine.net/news/20241027-openai-whisper-hallucination/</link>
+      <description>&lt;![CDATA[OpenAIは文字起こしAIのWhisperを「人間レベルの堅牢性と正確性を持ったツール」と宣伝していますが、これには大きな欠点があると専門家たちが指摘しています。十数人のソフトウェアエンジニア、開発者、学術研究者にインタビューしたというAP通信によると、Whisperは文字起こしにおいて一部のテキストや文章全体を捏造するケースがある模様。この捏造はAIのハルシネーション(幻覚)によるもので、人種差別的なコメントや暴力的なレトリック、さらには想像上の医療処置を捏造するケースもあるそうです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241027&amp;#45;openai&amp;#45;whisper&amp;#45;hallucination/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 27 Oct 2024 18:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
