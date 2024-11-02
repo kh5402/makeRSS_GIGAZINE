@@ -8746,5 +8746,11 @@
       <description>&lt;![CDATA[中国企業のOnePlusが高性能スマートフォン「OnePlus 13」を2024年10月31日(木)に発表しました。OnePlus 13はQualcomm製のSoC「Snapdragon 8 Elite」を搭載しており、通話内容の文字起こしなどのAI機能を備えています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241101&amp;#45;oneplus&amp;#45;13/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 01 Nov 2024 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>マルチモーダル画像生成AI「OmniGen」登場、1つのモデルで「ポーズ指定生成」「画像内の物体置換」「被写体指定生成」などが可能</title>
+      <link>https://gigazine.net/news/20241102-omnigen-unified-image-generation-ai/</link>
+      <description>&lt;![CDATA[広く使われている画像生成AIのStable Diffusionは「ControlNetを組み合わせてポーズ抽出やポーズ指定生成を実行する」「IP-Adapterを組み合わせて類似画像を生成する」といったように拡張機能を用いて多様な作業を実行できます。「OmniGen」はControlNetなどの拡張機能を使わず単一のモデルだけで多様な生成作業を実行可能にすることを目指して開発されたマルチモーダル画像生成AIで、単体で「画像生成」「ポーズ抽出」「ポーズ指定生成」「画像内の物体置換」「被写体指定生成」といった作業を実行可能です。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241102&amp;#45;omnigen&amp;#45;unified&amp;#45;image&amp;#45;generation&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 02 Nov 2024 20:13:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
