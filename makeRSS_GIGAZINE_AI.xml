@@ -8998,5 +8998,23 @@
       <description>&lt;![CDATA[大規模言語モデル(LLM)のセキュリティを研究するスタートアップ・Lakeraのエンジニアであるダニエル・ティンブレル氏が、画像認識も可能なチャットボットAIに対する「ビジュアルプロンプトインジェクション」攻撃について解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241114&amp;#45;visual&amp;#45;prompt&amp;#45;injection/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 14 Nov 2024 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>シェイクスピアかChatGPTか？人間は本物よりもAIの詩を好むことが研究で判明</title>
+      <link>https://gigazine.net/news/20241115-shakespeare-or-chatgpt/</link>
+      <description>&lt;![CDATA[大規模言語モデルはまるで人間が書いたような自然な文章を生成することが可能で、言われなければAIが書いた文章を見抜くことが困難なケースもあります。ピッツバーグ大学の研究チームがAI生成の詩と人間が書いた詩の識別可能性と評価に関する研究を行ったところ、なんと人間はAIの書いた詩を好む傾向にあったとわかりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241115&amp;#45;shakespeare&amp;#45;or&amp;#45;chatgpt/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Nov 2024 11:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleがAIで通話内容を聞いて詐欺を検出する「詐欺検出機能」をリリース</title>
+      <link>https://gigazine.net/news/20241115-ai-google-scam-detection-in-phone/</link>
+      <description>&lt;![CDATA[AIで通話内容を精査し、詐欺と思われる会話があれば音声と触覚フィードバック(振動)で知らせる詐欺検出機能をGoogleがリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241115&amp;#45;ai&amp;#45;google&amp;#45;scam&amp;#45;detection&amp;#45;in&amp;#45;phone/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Nov 2024 11:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChatGPTがmacOSアプリと連携可能に、XcodeやVS Codeなどの開発者ツールとの連携が追加</title>
+      <link>https://gigazine.net/news/20241115-chatgpt-macos/</link>
+      <description>&lt;![CDATA[OpenAIはチャットAI「ChatGPT」のアプリ版をWindows向け、macOS向けに配信しています。2024年11月14日にOpenAIがリリースしたmacOS版ChatGPTアプリのアップデートでは、XcodeやVisual Studio Code(VS Code)などのコーディングアプリ内のテキストをChatGPTが自動で読み取る機能が追加されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241115&amp;#45;chatgpt&amp;#45;macos/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Nov 2024 10:49:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
