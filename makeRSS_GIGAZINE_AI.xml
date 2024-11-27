@@ -9340,5 +9340,11 @@
       <description>&lt;![CDATA[OpenAIは2024年2月に発表した動画生成AIの「Sora」を一般向けには公開しておらず、一部の動画クリエイターなどにのみ早期アクセス権を付与しています。そんなSoraの早期アクセス権を取得した何者かが、Soraが誰でも利用できるようにフロントエンドを作成し、リークしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241127&amp;#45;openai&amp;#45;sora&amp;#45;leaked/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 27 Nov 2024 12:27:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Microsoftが「WordとExcelのユーザーデータを勝手にAI学習に使っているのではないか」という疑いを公式に否定</title>
+      <link>https://gigazine.net/news/20241127-microsoft-connected-experiences-ai/</link>
+      <description>&lt;![CDATA[Microsoft Officeには、ユーザーのデータを自動で分析してデザインや編集を提案する「接続エクスペリエンス」という機能が搭載されています。SNSで「この接続エクスペリエンスで、MicrosoftがユーザーのWordやExcelのファイルからテキストデータを自動で収集し、大規模言語モデルのトレーニングに利用している」という主張があり、Microsoftが公式に否定しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241127&amp;#45;microsoft&amp;#45;connected&amp;#45;experiences&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 27 Nov 2024 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
