@@ -9352,5 +9352,11 @@
       <description>&lt;![CDATA[台湾の調査会社であるTrendForceの予測によると、2024年の世界のノートPC市場は緩やかなペースで回復していき、2024年、2025年と右肩上がりになっていくと見られています。AI搭載ノートPCがノートPC市場に影響を与えると考えるアナリストがいる一方で、TrendForceはAI搭載ノートPCの影響を否定し、市場成長見込みの理由を解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241128&amp;#45;laptop&amp;#45;2025/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 28 Nov 2024 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「Bluesky運営元はユーザーの投稿をAI学習に使わないが第三者はAI学習できてしまう」という実例が登場、BlueskyのAPI経由で100万投稿分のデータセットがHugging Faceで公開されてしまう</title>
+      <link>https://gigazine.net/news/20241128-bluesky-machine-learning/</link>
+      <description>&lt;![CDATA[2024年11月に利用規約を更新したX(旧Twitter)では、投稿をAI学習に利用することを明文化しました。これを受けて、多くのユーザーが「投稿をAIのトレーニングに利用することはない」と表明している競合SNSのBlueskyに移行しています。しかし、BlueskyのAPI経由で入手した100万投稿分のデータセットがHugging Face上で公開されてしまう事態が発生しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241128&amp;#45;bluesky&amp;#45;machine&amp;#45;learning/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 28 Nov 2024 12:18:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
