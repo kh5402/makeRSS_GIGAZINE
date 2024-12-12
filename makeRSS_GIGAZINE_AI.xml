@@ -9802,5 +9802,17 @@
       <description>&lt;![CDATA[Googleは2024年12月11日に発表したAIモデル「Gemini 2.0」を使って、「ゲーム内で何をすべきか」をAIにリアルタイムで尋ねられる機能を開発中であることを明かしました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241212&amp;#45;google&amp;#45;gemini&amp;#45;2&amp;#45;0&amp;#45;for&amp;#45;game/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 12 Dec 2024 13:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleが寝ている間に自動でバグを修正してくれるコーディングアシスタントAI「Jules」を発表</title>
+      <link>https://gigazine.net/news/20241212-google-ai-bug-fixes-assistant-jules/</link>
+      <description>&lt;![CDATA[Googleが2024年12月11日に、コードの不具合を自動的に修正できる実験的なAI搭載コーディングアシスタントの「Jules」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241212&amp;#45;google&amp;#45;ai&amp;#45;bug&amp;#45;fixes&amp;#45;assistant&amp;#45;jules/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 12 Dec 2024 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleのAI処理チップ「Trillium」がGoogle Cloud経由で利用可能に、旧世代TPUと比べて4倍の学習性能を発揮</title>
+      <link>https://gigazine.net/news/20241212-google-tpu-trillium/</link>
+      <description>&lt;![CDATA[2024年5月に発表されたGoogleの第6世代TPU「Trillium(v6e)」が、Google Cloudのユーザー向けに一般提供されたことがわかりました。Trilliumは以前のモデルと比べてパフォーマンスが4倍、エネルギー効率が67％向上しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241212&amp;#45;google&amp;#45;tpu&amp;#45;trillium/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 12 Dec 2024 13:28:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
