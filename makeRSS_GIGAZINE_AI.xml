@@ -9940,5 +9940,17 @@
       <description>&lt;![CDATA[NVIDIAが開発者向けの小型AIボードキット「Jetson Orin Nano Super」開発者キットを発表しました。従来モデルと比較してAI性能が最大で70％向上しており、価格も従来モデルの499ドル(約7万6000円)から249ドル(約3万8000円)とほぼ半額に抑えられています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241218&amp;#45;nvidia&amp;#45;jetson&amp;#45;orin&amp;#45;nano&amp;#45;super/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 18 Dec 2024 10:55:00 +0900</pubDate>
     </item>
+    <item>
+      <title>日本に拠点を置くAI企業「Sakana AI」がキャッシュメモリの使用量を最大75％削減する技術「NAMM」を開発</title>
+      <link>https://gigazine.net/news/20241218-sakana-ai-namm/</link>
+      <description>&lt;![CDATA[Sakana AIが「進化したユニバーサルトランスフォーマーメモリ」という論文を発表しました。論文によると、ニューラルアテンションメモリーモデル(NAMM)という新たな仕組みを導入することでコンテキストにおいて冗長な情報を削減でき、推論時のメモリ効率を高めることができたとのことです。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241218&amp;#45;sakana&amp;#45;ai&amp;#45;namm/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 18 Dec 2024 12:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが「OpenAI o1のAPIリリース」「音声会話APIの値下げ」「JavaとGoのライブラリ公開」など新情報を大量公開</title>
+      <link>https://gigazine.net/news/20241218-openai-o1-api/</link>
+      <description>&lt;![CDATA[OpenAIが「OpenAI o1(正式リリース版)」のAPIを公開しました。合わせて、AIとの音声会話機能を提供する「Realtime API」のアップデートや、モデル微調整機能のアップデート、GoライブラリおよびJavaライブラリのリリースも発表されています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241218&amp;#45;openai&amp;#45;o1&amp;#45;api/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 18 Dec 2024 12:42:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
