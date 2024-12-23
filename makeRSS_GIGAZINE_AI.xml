@@ -10066,5 +10066,11 @@
       <description>&lt;![CDATA[ChatGPTなど、人間から得た情報を解釈して人間にわかりやすく返答する生成AIは、情報を「トークン」という単位で認識して処理を行っています。近年のAIは一度に何百万ものトークンを処理できるモデルもありますが、人間が求める専門的なタスクを処理するにはまだまだ不十分だという考え方もあります。ところが、処理可能なトークン数を増やすと現状のAIは動作困難になってしまうという問題があるのも事実。なぜ動作困難になるのかについて、テクノロジー系メディアのArs Technicaが解説しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241223&amp;#45;ai&amp;#45;model&amp;#45;choke&amp;#45;text/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 23 Dec 2024 19:08:00 +0900</pubDate>
     </item>
+    <item>
+      <title>人間に代わってタスクを行う「AIエージェント」の台頭でクリスマスのプレゼント選びまでAI任せになる未来が到来するかもしれない</title>
+      <link>https://gigazine.net/news/20241224-ai-agents-christmas-shopping/</link>
+      <description>&lt;![CDATA[大事な人にクリスマスプレゼントを贈るのは楽しいイベントかもしれませんが、入念なリサーチや購入、発送の手配といった一連の作業を苦手に思っている人もいるはず。オーストラリア連邦科学産業研究機構(CSIRO)傘下のデジタルテクノロジー研究開発機関であるData61でディレクターを務めるジョン・ホイットル氏が、「2025年には現実世界で行動できるAIエージェントが台頭し、クリスマスプレゼント選びから購入までを代理で行ってくれるようになるかもしれない」と主張しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20241224&amp;#45;ai&amp;#45;agents&amp;#45;christmas&amp;#45;shopping/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 24 Dec 2024 08:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
