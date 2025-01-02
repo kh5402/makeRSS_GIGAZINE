@@ -10192,5 +10192,11 @@
       <description>&lt;![CDATA[2024年9月に登場した「Raspberry Pi AI Camera」は、カメラセンサー内にAI処理用のプロセッサを内蔵しており、カメラそのものにAIモデルを読み込ませてAIカメラとして使うことができます。ドキュメントも充実しており、比較的簡単にAIモデルを自作できそうだったので、実際に「USBケーブルの種類を見分けるAIモデル」をトレーニングして実行してみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250102&amp;#45;ai&amp;#45;training&amp;#45;object&amp;#45;recognition/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 02 Jan 2025 10:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIのトレーニングで使用されるチップ「H100」「H200」「MI300X」の性能を比較した結果判明した事実とは？</title>
+      <link>https://gigazine.net/news/20250102-mi300x-h100-h200-benchmark/</link>
+      <description>&lt;![CDATA[AIの学習や推論に用いるAIインフラストラクチャーの市場では、「H100」「H200」といったNVIDIA製のAI特化チップが大きなシェアを獲得しています。一方で、NVIDIAのライバル企業となるAMDも2023年12月に「Instinct MI300X」を発表しています。そんなH100・H200・MI300Xについて、テクノロジー系メディアのSemianalysisがさまざまなベンチマークテストを実施し、それぞれの結果について報告しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250102&amp;#45;mi300x&amp;#45;h100&amp;#45;h200&amp;#45;benchmark/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 02 Jan 2025 16:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
