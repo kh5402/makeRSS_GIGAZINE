@@ -10360,5 +10360,11 @@
       <description>&lt;![CDATA[ChatGPT上で絵を生成してピクセルアートに変換するGPTs「ピクセルアートつくるちゃん」をけいすけさんが公開していたので、果たしてどんな感じのピクセルアートが作れるのかを確かめるべく、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250110&amp;#45;pixel&amp;#45;art&amp;#45;tsukuru&amp;#45;chan/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 10 Jan 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIのクローラーボットが3Dスキャンデータ販売サイトをほぼDDoS攻撃な徹底スクレイピングでダウンさせていた</title>
+      <link>https://gigazine.net/news/20250111-openai-bot-crushed-e-commerce-site/</link>
+      <description>&lt;![CDATA[人間の全身や顔、手などを3Dスキャンしたデータの販売を行う「Triplegangers」というサイトが、OpenAIのクローラーボットによりダウンさせられていたことがわかりました。ボットは、販売されている数十万枚のデータについて、それぞれダウンロードを試みるリクエストを送信してきており、CEOは「実質的にDDoS攻撃のようなものだった」と説明しています。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250111&amp;#45;openai&amp;#45;bot&amp;#45;crushed&amp;#45;e&amp;#45;commerce&amp;#45;site/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 11 Jan 2025 23:50:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
