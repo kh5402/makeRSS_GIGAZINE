@@ -10696,5 +10696,11 @@
       <description>&lt;![CDATA[OpenAIや他のアメリカのAI企業のモデルと同等の性能を持つ、中国企業・DeepSeekによる推論モデルの登場が話題となっていますが、アメリカ海軍は仕事でも私用でもDeepSeekのAIを使用しないよう通達していることがわかりました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250129&amp;#45;us&amp;#45;navy&amp;#45;bans&amp;#45;deepseek&amp;#45;ai/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 29 Jan 2025 11:14:00 +0900</pubDate>
     </item>
+    <item>
+      <title>低コストで超高性能な「DeepSeek&amp;#45;R1」に似たAIモデルを誰でも開発できるようにオープンでない部分を補完するプロジェクト「Open&amp;#45;R1」をHugging Faceが始動</title>
+      <link>https://gigazine.net/news/20250129-deepseek-r1-open-hugging-face/</link>
+      <description>&lt;![CDATA[中国のAI企業が2025年1月20日(月)にリリースしたAIモデル「DeepSeek-R1」は、「OpenAI o1」と同等の性能を備えつつ学習コストや運用コストが低いことを特徴としています。このDeepSeek-R1は、モデルデータが無料で公開されているのですが、学習に必要なデータセットやコードは公開されていません。新たに、AI開発プラットフォームの「Hugging Face」がDeepSeek-R1の非公開部分を再現してオープンソース化するプロジェクト「Open-R1」を開始しました。&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://gigazine.net/news/20250129&amp;#45;deepseek&amp;#45;r1&amp;#45;open&amp;#45;hugging&amp;#45;face/&quot;&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 29 Jan 2025 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
