@@ -10738,5 +10738,11 @@
       <description>&lt;![CDATA[AIの急速な発達により、さまざまな分野において高度なパフォーマンスを発揮する言語モデルがいくつも誕生しています。しかし、言語モデルには得意、不得意があるため、特定のユースケースに適したモデルを選択することは、開発者にとって困難な課題となっています。新たに、MozillaのAI部門であるMozilla.aiが、機械学習の知識の有無にかかわらずAIモデルを選択する意志決定を行えるツール「Lumigator」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;lumigator&amp;#45;mozilla/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 30 Jan 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIを使って複数枚の画像から抽出した異なる要素を組み合わせて1枚の画像を生成する「TokenVerse」</title>
+      <link>https://gigazine.net/news/20250130-tokenverse-combinations-image-concepts/</link>
+      <description>&lt;![CDATA[Google DeepMindの研究チームが、画像の中から特定の視覚的要素や属性を抽出し、AIを使って複数枚の画像から抽出した要素を組み合わせ、自然な1枚の画像を生成する手法「TokenVerse」を発表しました。研究チームはウェブサイト上で、TokenVerseを使ってどのような画像が生成できるのかを解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;tokenverse&amp;#45;combinations&amp;#45;image&amp;#45;concepts/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
