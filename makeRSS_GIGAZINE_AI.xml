@@ -10744,5 +10744,17 @@
       <description>&lt;![CDATA[Google DeepMindの研究チームが、画像の中から特定の視覚的要素や属性を抽出し、AIを使って複数枚の画像から抽出した要素を組み合わせ、自然な1枚の画像を生成する手法「TokenVerse」を発表しました。研究チームはウェブサイト上で、TokenVerseを使ってどのような画像が生成できるのかを解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;tokenverse&amp;#45;combinations&amp;#45;image&amp;#45;concepts/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>アメリカ著作権局が「創造的なプロセスの支援にAIを用いた場合は著作権で保護される」と宣言</title>
+      <link>https://gigazine.net/news/20250130-copyright-ai/</link>
+      <description>&lt;![CDATA[生成AIの技術が急速に発展する中で、アメリカ著作権局は2023年2月に「AIが作った芸術作品に著作権はない」「AIで作成したコミックの絵は著作権で保護されない」と宣言したほか、翌月にはAIが生成した絵や文章に著作権は認められるのかについてガイダンスを発表し、「AIで生成したものに著作権保護の基準を満たすような修正を加えている」ことが著作権の発生する条件として挙げました。2025年1月29日にアメリカ著作権局は約2年ぶりにAIに関する著作権に言及し、「単にプロンプトを入力して出力したものに著作性は認められないが、創作過程を支援するAIツールの使用は、作品の著作権を損なうものではない」と宣言しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;copyright&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 30 Jan 2025 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepSeekがOpenAIのデータを「蒸留」してAIを開発していた可能性が浮上、OpenAIは「証拠がある」と発言</title>
+      <link>https://gigazine.net/news/20250130-openai-has-evidence-china-deepseek-distillation-train/</link>
+      <description>&lt;![CDATA[「中国発のAI企業であり業界で注目を集めるDeepSeekは、OpenAIの利用規約違反に相当するデータの『蒸留』を行った上で独自のAIモデルのトレーニングに使用していた」と、OpenAIが発表しました。OpenAIは証拠もつかんでいるとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;openai&amp;#45;has&amp;#45;evidence&amp;#45;china&amp;#45;deepseek&amp;#45;distillation&amp;#45;train/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 30 Jan 2025 11:18:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
