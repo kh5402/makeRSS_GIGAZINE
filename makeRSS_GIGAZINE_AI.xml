@@ -10798,5 +10798,11 @@
       <description>&lt;![CDATA[ほとんどのAIベンチマークはAIの出力精度(スキル)を測定するものですが、スキルはAIの知能を表すものではありません。スキルではなくAIの知能を測定するため、AIがスキルを効率的に習得する能力を測定するベンチマークが「ARC-AGI」です。そんなARC-AGIの開発者であるフランソワ・ショレ氏が立ち上げた「ARC Prize」が、話題の中国AI企業DeepSeekの最新推論モデルである「DeepSeek-R1」ファミリーについて分析しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250130&amp;#45;deepseek&amp;#45;r1&amp;#45;zero&amp;#45;analysis/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 30 Jan 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>DeepSeek&amp;#45;R1がオープンソースでなければならなかった理由、そしてなぜOpenAIを倒せないのか</title>
+      <link>https://gigazine.net/news/20250131-deepseek-open-source/</link>
+      <description>&lt;![CDATA[中国のAI企業・DeepSeekが2025年1月20日にリリースした推論モデルの「DeepSeek-R1-Zero」と「DeepSeek-R1」は、OpenAIの推論モデル・o1相当の性能でありながらo1と比べてトレーニングコストが非常に低いことや、MITライセンスの下でオープンソース化されていることが特徴です。AIテクノロジー企業のLagoが、「なぜDeepSeekは自社のAIモデルをオープンソース化したのか」について解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250131&amp;#45;deepseek&amp;#45;open&amp;#45;source/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 31 Jan 2025 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
