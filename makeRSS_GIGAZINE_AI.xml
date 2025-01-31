@@ -10804,5 +10804,17 @@
       <description>&lt;![CDATA[中国のAI企業・DeepSeekが2025年1月20日にリリースした推論モデルの「DeepSeek-R1-Zero」と「DeepSeek-R1」は、OpenAIの推論モデル・o1相当の性能でありながらo1と比べてトレーニングコストが非常に低いことや、MITライセンスの下でオープンソース化されていることが特徴です。AIテクノロジー企業のLagoが、「なぜDeepSeekは自社のAIモデルをオープンソース化したのか」について解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250131&amp;#45;deepseek&amp;#45;open&amp;#45;source/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 31 Jan 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>高速推論が可能なレイテンシ重視AIモデル「Mistral Small 3」がリリースされる</title>
+      <link>https://gigazine.net/news/20250131-mistral-small-3/</link>
+      <description>&lt;![CDATA[フランスのAIスタートアップであるMistral AIが、レイテンシを重視したAIモデル「Mistral Small 3」をオープンソースライセンスでリリースしました。今回リリースされたMistral Small 3をベースに強化学習などを使用してさらに強力なモデルが作成できる可能性があるとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250131&amp;#45;mistral&amp;#45;small&amp;#45;3/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 31 Jan 2025 11:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>iPhoneでも動作する日本語AIモデル「TinySwallow&amp;#45;1.5B」を日本に拠点を置くSakana AIがリリース、大規模言語モデルから知識蒸留して小規模かつ高性能なAIモデルを実現</title>
+      <link>https://gigazine.net/news/20250131-sakana-ai-tinyswallow-taid/</link>
+      <description>&lt;![CDATA[日本に拠点を置くAI企業の「Sakana AI」が小規模日本語言語モデル「TinySwallow-1.5B」を2025年1月30日(木)に発表しました。TinySwallow-1.5Bは小規模かつ高性能なAIモデルを実現する知識蒸留手法「Temporally Adaptive Interpolated Distillation(TAID)」を用いて開発されており、iPhone 14でのローカル実行も可能です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250131&amp;#45;sakana&amp;#45;ai&amp;#45;tinyswallow&amp;#45;taid/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 31 Jan 2025 10:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
