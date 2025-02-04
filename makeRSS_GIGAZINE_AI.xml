@@ -10912,5 +10912,11 @@
       <description>&lt;![CDATA[Metaが先端的なAIの開発と公開に関する包括的な方針文書となる「Frontier AI Framework」を発表しました。この中で、MetaはAIによるリスクを3段階に分類し、最も重大なリスクがあると判断された場合は開発を停止し、限られた専門家のみがアクセスできる厳格な管理体制を敷くことを明記しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250204&amp;#45;meta&amp;#45;frontier&amp;#45;ai&amp;#45;framework/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 04 Feb 2025 11:24:00 +0900</pubDate>
     </item>
+    <item>
+      <title>99人でテトリスをプレイするバトロワ「TETRIS 99」で1位を獲得できるAI「ジェフ」が登場</title>
+      <link>https://gigazine.net/news/20250204-first-place-tetris-99-ai/</link>
+      <description>&lt;![CDATA[Nintendo Switch Onlineの加入者向けに提供されている「TETRIS 99」は、テトリスを99人で同時にプレイして1位を決めるというバトルロイヤルゲームです。そんなTETRIS 99で1位になることができるAI「ジェフ」が登場しました。ジェフはコンピュータービジョンを駆使してフィールド上のテトリミノの配置を認識し、深さ優先探索アルゴリズムを用いて落下してくるテトリミノの適切な配置を見つけるそうです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250204&amp;#45;first&amp;#45;place&amp;#45;tetris&amp;#45;99&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Feb 2025 12:27:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
