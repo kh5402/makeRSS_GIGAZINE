@@ -10894,5 +10894,17 @@
       <description>&lt;![CDATA[中国企業のDeepSeekが2024年1月にリリースしたAIモデル「DeepSeek-R1」は、OpenAI o1と同等の性能を発揮することが話題となっているものの、「天安門広場」や「ウイグル自治区」といった話題への言及を避けることも明らかになっています。「GoogleのGeminiの場合はどんな反応をするのかな？」と考えて試した結果、スマートフォン向けGeminiアプリでは「天安門事件について聞くと回答が一瞬表示されるものの、エラーが発生して回答が消える」という異常な反応を確認できたので、記録しておきます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250203&amp;#45;google&amp;#45;gemini&amp;#45;sensitive/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 03 Feb 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIに対するジェイルブレイク攻撃を95％回避できる技術をAnthropicが開発</title>
+      <link>https://gigazine.net/news/20250204-ai-defending-jailbreak-constitutional-classifiers/</link>
+      <description>&lt;![CDATA[チャットAIなどに用いられるAIモデルのほとんどは「生物兵器の作り方」といった危険な情報を出力しないようにトレーニングされていますが、プロンプトを工夫したり一度に大量の質問を入力したりといった「ジェイルブレイク」と呼ばれる手法を用いることでAIモデルに「出力を禁じられている情報」を出力させることができます。新たに、チャットAI「Claude」の開発で知られるAI開発企業のAnthropicがAIのジェイルブレイク耐性を大幅に高める技術「Constitutional Classifiers(憲法分類子)」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250204&amp;#45;ai&amp;#45;defending&amp;#45;jailbreak&amp;#45;constitutional&amp;#45;classifiers/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Feb 2025 11:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Windowsの「ペイント」にCopilotボタンが追加、AIによる画像生成や背景の削除などが手軽に</title>
+      <link>https://gigazine.net/news/20250204-microsoft-paint-copilot-button/</link>
+      <description>&lt;![CDATA[Microsoftが2025年1月31日に、Windows Insider向けの更新プログラム「KB5050090」をリリースしました。このアップデートでは、Windowsの標準アプリ「ペイント」内に生成AI機能を手軽に使用するためのCopilotボタンが追加されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250204&amp;#45;microsoft&amp;#45;paint&amp;#45;copilot&amp;#45;button/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Feb 2025 10:22:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
