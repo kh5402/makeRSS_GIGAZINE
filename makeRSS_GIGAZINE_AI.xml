@@ -10942,5 +10942,17 @@
       <description>&lt;![CDATA[中国AI企業のDeepSeekがオープンソースライセンスで公開した推論モデル「DeepSeek-R1」は、従来の推論モデルと比較して開発コストが圧倒的に低いにもかかわらず、OpenAIのo1と同等の性能を誇るとして、大きく話題になりました。セキュリティ企業のwallarmが、DeepSeek-R1の前モデルであるDeepSeek V3をジェイルブレイク(脱獄)してDeepSeek V3のシステムプロンプトを抽出することに成功したと報告しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250205&amp;#45;deepseek&amp;#45;r1&amp;#45;jaibreak/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 05 Feb 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「Firefox 135」正式版リリース、すべてのユーザーがサイドバーでChatGPTやGeminiとチャット可能に</title>
+      <link>https://gigazine.net/news/20250205-firefox-135/</link>
+      <description>&lt;![CDATA[ウェブブラウザ「Firefox 135」の正式版が公開されました。これにより、クレジットカードの自動入力機能やAIチャットボットへのアクセス機能などが段階的に展開されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250205&amp;#45;firefox&amp;#45;135/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 05 Feb 2025 11:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>最高でも回答精度9％程度だった「人類最後の試験」でOpenAIのDeep researchが26％以上を記録</title>
+      <link>https://gigazine.net/news/20250205-openai-deep-research-high-score/</link>
+      <description>&lt;![CDATA[AIの性能を定量化する評価試験のうち「これまでで最も難しい」とされる「人類最後の試験(Humanity's Last Exam)」について、OpenAIのAIエージェント「Deep research」が早くも26.6％という高いスコアを記録したことがわかりました。試験の公開から10日もたたずに最高スコアが183％増加したことになります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250205&amp;#45;openai&amp;#45;deep&amp;#45;research&amp;#45;high&amp;#45;score/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 05 Feb 2025 10:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
