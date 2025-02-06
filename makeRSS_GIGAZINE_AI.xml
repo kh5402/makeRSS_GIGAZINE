@@ -11002,5 +11002,11 @@
       <description>&lt;![CDATA[電話は詐欺師が高齢者をだますためのツールのひとつとなっており、詐欺師らは高度なマニュアルを作成して組織的に詐欺を仕掛けてきます。そんな中、イギリスの通信事業者であるVirgin Media O2が、詐欺師からの電話に延々と話し続けて時間を浪費させる「AIおばあちゃん」を展開したとのことで、イギリスの日刊紙・The GuardianがAIおばあちゃんの仕組みや会話について報じています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250206&amp;#45;ai&amp;#45;grandmother&amp;#45;combatting&amp;#45;scammers&amp;#45;phone/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 06 Feb 2025 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>わずか26分間の学習と1000円以下の計算コストでOpenAI o1&amp;#45;preview相当のAIモデルを構築する方法が発表される</title>
+      <link>https://gigazine.net/news/20250206-s1-simple-test-time-scaling/</link>
+      <description>&lt;![CDATA[2025年1月31日、スタンフォード大学で大規模言語モデルを研究するニクラス・ミュニホフ氏らの研究チームが、少ないデータサンプルと簡単な方法でOpenAI o1-previewとほぼ同等のスケーリングとパフォーマンスを再現する手法を、未査読論文リポジトリのarXivに発表しました。AIアーキテクトでソフトウェアエンジニアのティム・ケロッグ氏が、この論文について解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250206&amp;#45;s1&amp;#45;simple&amp;#45;test&amp;#45;time&amp;#45;scaling/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 06 Feb 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
