@@ -11038,5 +11038,11 @@
       <description>&lt;![CDATA[2025年2月7日、フランスのAI開発企業・Mistral AIのチャットAIである「Le Chat」のモバイル版アプリがiOSとAndroidで登場しました。日本でもインストール可能になっていたので、実際にどんなチャットAIになっているのか試してみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250207&amp;#45;mistral&amp;#45;ai&amp;#45;le&amp;#45;chat&amp;#45;mobile&amp;#45;app/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 07 Feb 2025 12:25:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Gemini 2.0 Flashは大量のPDFをAIで使用できるよう変換する作業でコスト・パフォーマンスの両面で劇的に優れている</title>
+      <link>https://gigazine.net/news/20250210-ingesting-pdf-gemini-2-0/</link>
+      <description>&lt;![CDATA[プレゼンテーションや配布資料がPDFで共有されることがありますが、このPDFをテキストベースのデータに変換することは、大規模言語モデル(LLM)の出力を最適化するプロセスである検索拡張生成(RAG)にとって頭痛の種です。PDFをテキストベースのデータに変換してRAGで利用できるようにするためのソリューションにはさまざまなものが存在しますが、精度・拡張性・コスト効率を考慮すると微妙な選択肢が多い模様。しかし、Googleの「Gemini 2.0 Flash」を使えばこの作業が劇的に楽になると、Matrisk.aiのCTOを務めるデータサイエンティストのセルゲイ・フィリモノフ氏が解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250210&amp;#45;ingesting&amp;#45;pdf&amp;#45;gemini&amp;#45;2&amp;#45;0/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 10 Feb 2025 06:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
