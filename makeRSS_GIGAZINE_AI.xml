@@ -11152,5 +11152,11 @@
       <description>&lt;![CDATA[チャットボットに機密情報を出力させたり、悪意のあるアクションを実行させたりするために用いられるのが、間接プロンプトインジェクションです。セキュリティ研究者のヨハン・レーバーガー氏は新たに、間接プロンプトインジェクション攻撃によってGoogleのAI「Gemini」の長期メモリーをハッキングする方法を編み出し、公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250214&amp;#45;prompt&amp;#45;injection&amp;#45;gemini&amp;#45;long&amp;#45;term&amp;#45;memory/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 14 Feb 2025 09:52:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIが多様性・公平性・包括性のページを削除</title>
+      <link>https://gigazine.net/news/20250214-openai-dei-page-delete/</link>
+      <description>&lt;![CDATA[OpenAIが、多様性・公平性・包括性(DEI)へのコミットメントを表明していたページを削除しました。昨今、大手企業で同様にDEIを廃止する流れが見られます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250214&amp;#45;openai&amp;#45;dei&amp;#45;page&amp;#45;delete/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 14 Feb 2025 13:13:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
