@@ -11338,5 +11338,11 @@
       <description>&lt;![CDATA[NVIDIAがAIを用いた手話学習ツール「Sign」を発表しました。Signは手話学習者に対して手の動かし方を教えられるほか、手話ユーザーの手の動きをデータ化して収集する機能も搭載しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250221&amp;#45;nvidia&amp;#45;ai&amp;#45;sign&amp;#45;language/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 21 Feb 2025 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>人型ロボットを家庭で動かすのに特化したAI言語モデル「Helix」をFigureが発表</title>
+      <link>https://gigazine.net/news/20250223-figure-ai-helix/</link>
+      <description>&lt;![CDATA[ロボット企業のFigureが、ヒューマノイド(人型ロボット)の制御・知覚・言語理解を統合した汎用(はんよう)型のVision-Language-Action(VLA)モデル「Helix」を発表しました。Helixはわずか500時間の学習データでロボットの上半身全体を精密に制御できる点が特徴的で、家庭用ロボットの実用化に向けた重要な進展として注目されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250223&amp;#45;figure&amp;#45;ai&amp;#45;helix/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 23 Feb 2025 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
