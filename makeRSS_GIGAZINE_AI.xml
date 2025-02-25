@@ -11368,5 +11368,11 @@
       <description>&lt;![CDATA[OpenAIが悪意あるユーザーによるAI使用に関するレポートを2025年2月21日に公開しました。レポートによると北朝鮮のサイバー犯罪集団がOpenAIのAIを活用しており、マルウェアのコーディング方法を尋ねたり経歴詐称用のSNS投稿を作成させたりしていたそうです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250225&amp;#45;openai&amp;#45;banned&amp;#45;north&amp;#45;korea&amp;#45;hacker/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Sakana AIの「100倍高速化できる」という発表がネット上で検証され逆に「3倍遅くなる」と指摘される</title>
+      <link>https://gigazine.net/news/20250225-sakana-ai-cuda-engineer-walks-back/</link>
+      <description>&lt;![CDATA[日本のAI企業・Sakana AIは、PyTorchで記述された処理をより高速に実行するためのCUDAカーネルに自動最適化する「AI CUDA Engineer」を2025年2月20日に発表しました。しかし、実際にAI CUDA Engineerを検証したところ、高速化どころか速度が3分の1に低下したという報告がX(旧Twitter)に挙がっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250225&amp;#45;sakana&amp;#45;ai&amp;#45;cuda&amp;#45;engineer&amp;#45;walks&amp;#45;back/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 25 Feb 2025 16:55:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
