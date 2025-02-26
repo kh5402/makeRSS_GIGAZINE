@@ -11422,5 +11422,11 @@
       <description>&lt;![CDATA[PCメーカーのFrameworkは、自分好みのパーツを選べるモジュラー式ノートPCを展開しています。新たに、13インチノートPC「Framework Laptop 13」のプロセッサとしてAMDのRyzen AI 300シリーズを選べるようになりました。また、Framewor初のデスクトップPC「Framework Desktop」や12.2インチのタッチ対応ディスプレイを搭載したノートPC「Framework Laptop 12」も発表されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250226&amp;#45;framework&amp;#45;laptop&amp;#45;ryzen&amp;#45;desktop/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 26 Feb 2025 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIモデルの「ごくまれにしか発生しない危険な動作」を予測する手法が開発される</title>
+      <link>https://gigazine.net/news/20250226-forecasting-rare-language-model-behaviors/</link>
+      <description>&lt;![CDATA[AIの安全性を高めるためには事前の安全性テストが欠かせませんが、AIの危険な動作がごくまれにしか発生しない場合、通常のテストでは見落とされる可能性があります。こうした事態を回避する策として、AI企業のAnthropicが「ごくまれに発生する動作を予測する方法」を開発しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250226&amp;#45;forecasting&amp;#45;rare&amp;#45;language&amp;#45;model&amp;#45;behaviors/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 26 Feb 2025 18:05:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
