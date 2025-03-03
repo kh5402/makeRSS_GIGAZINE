@@ -11578,5 +11578,17 @@
       <description>&lt;![CDATA[中国のAI企業であるDeepSeekが、自社で開発するAIモデル「DeepSeek-V3」と「DeepSeek－R1」の収益について、コストに対する利益率が理論上1日あたり最大545％であると明らかにしました。ただし、あくまでも「理論上」とのことで、実際の利益はもっと低くなると予想されます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;deepseek&amp;#45;ai&amp;#45;cost&amp;#45;profit/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 03 Mar 2025 10:16:00 +0900</pubDate>
     </item>
+    <item>
+      <title>DeepSeekがAIを高速化するファイルシステム「3FS」のオープンソース化を発表</title>
+      <link>https://gigazine.net/news/20250303-deepseek-parallel-file-system-fire-flyer/</link>
+      <description>&lt;![CDATA[DeepSeekが、AIのトレーニングと推論パフォーマンスを効率化させる並列ファイルシステムである「Fire-Flyer File System(3FS)」を、オープンソースプロジェクトとしてリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;deepseek&amp;#45;parallel&amp;#45;file&amp;#45;system&amp;#45;fire&amp;#45;flyer/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 13:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIはGPU不足でGPT&amp;#45;4.5のリリースを遅らせている</title>
+      <link>https://gigazine.net/news/20250303-openai-run-out-gpu-gpt-4-5-rollout-delayed/</link>
+      <description>&lt;![CDATA[2025年2月27日、OpenAIが大規模言語モデルの「GPT-4.5」を発表しましたが、これはGPU不足によりリリースが遅れていたことが明らかになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;openai&amp;#45;run&amp;#45;out&amp;#45;gpu&amp;#45;gpt&amp;#45;4&amp;#45;5&amp;#45;rollout&amp;#45;delayed/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
