@@ -11560,5 +11560,23 @@
       <description>&lt;![CDATA[余計なノイズがないテスト環境と、雑然とした現実世界は異なるため、多くのエンジニアはAIが動作する本番環境に近い設定でトレーニングを行います。ところが、ノイズのないシミュレーション環境でトレーニングされたAIエージェントは、ノイズが多い設定でトレーニングされたAIエージェントよりも優れたパフォーマンスを発揮することが多いという「屋内トレーニング効果」が、マサチューセッツ工科大学(MIT)の研究者らによって発見されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250302&amp;#45;ai&amp;#45;indoor&amp;#45;trainin&amp;#45;effect/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 02 Mar 2025 18:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GitHubで非公開にされたはずのリポジトリがMicrosoftのAIアシスタント「Copilot」を通じて公開されていたという指摘</title>
+      <link>https://gigazine.net/news/20250303-github-private-repositories-accessed-copilot/</link>
+      <description>&lt;![CDATA[ソフトウェア開発プラットフォームのGitHubでは、作成したリポジトリを非公開にすることで関係者以外にコードを見られるのを防ぎつつ、プロジェクトを管理することができます。ところが、イスラエルのサイバーセキュリティ企業であるLassoの調査により、MicrosoftのAIアシスタント「Copilot」を通じて、Microsoftを含むさまざまな企業が管理する2万を超える非公開リポジトリにアクセス可能だったことが判明しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;github&amp;#45;private&amp;#45;repositories&amp;#45;accessed&amp;#45;copilot/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 11:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Samsungが6世代のOSアップデート＆6年間のセキュリティアップデートありのスマートフォン「Galaxy A56」など3機種を発表、ミドルレンジ機でもAI機能強化</title>
+      <link>https://gigazine.net/news/20250303-samsung-galaxy-a56-with-awesome-intelligence/</link>
+      <description>&lt;![CDATA[Samsungがスマートフォン「Galaxy A」シリーズの新機種として「Galaxy A56 5G」「Galaxy A36 5G」「Galaxy A26 5G」を発表しました。画面サイズが6.7インチ(フルHD＋解像度)へと大型化されたほか、ミドルレンジ機ながらフラッグシップ機・Galaxy S25で利用可能なAI画像編集機能が使えるようになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;samsung&amp;#45;galaxy&amp;#45;a56&amp;#45;with&amp;#45;awesome&amp;#45;intelligence/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 10:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepSeekのコスト利益率は理論上1日あたり545%であることが明らかに</title>
+      <link>https://gigazine.net/news/20250303-deepseek-ai-cost-profit/</link>
+      <description>&lt;![CDATA[中国のAI企業であるDeepSeekが、自社で開発するAIモデル「DeepSeek-V3」と「DeepSeek－R1」の収益について、コストに対する利益率が理論上1日あたり最大545％であると明らかにしました。ただし、あくまでも「理論上」とのことで、実際の利益はもっと低くなると予想されます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;deepseek&amp;#45;ai&amp;#45;cost&amp;#45;profit/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 03 Mar 2025 10:16:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
