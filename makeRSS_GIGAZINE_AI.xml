@@ -11596,5 +11596,17 @@
       <description>&lt;![CDATA[AppleはOpenAIのChatGPTやGoogle Geminiに追いつくことを目指しており、2024年11月にはiOSやmacOSに搭載されるデジタルアシスタント「Siri」の進化版とも呼べる「LLM Siri」の開発を進めていることが報じられました。このLLM Siriには対話を重視した機能が搭載される見込みですが、技術的な課題によりこの機能の開発が遅れていると、Apple関連の情報に詳しいBloombergのマーク・ガーマン記者が報じています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250303&amp;#45;more&amp;#45;conversational&amp;#45;siri/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 03 Mar 2025 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>最大ダウンロード速度12.5Gbpsの5Gモデム「Qualcomm X85」が登場、AI処理プロセッサで省電力かつ高速な通信を実現</title>
+      <link>https://gigazine.net/news/20250304-qualcomm-x85-5g-modem/</link>
+      <description>&lt;![CDATA[Qualcommが第8世代5Gモデム「Qualcomm X85」を発表しました。Qualcomm X85はAI処理プロセッサを内蔵しており、最大ダウンロード速度は12.5Gbpsに達しています。合わせて、Qualcomm X85を搭載した固定無線アクセス(FWA)プラットフォーム「Dragonwing FWA Gen 4 Elite」も発表されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250304&amp;#45;qualcomm&amp;#45;x85&amp;#45;5g&amp;#45;modem/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Mar 2025 11:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Stability AIがArmと提携してスマホ上で音楽生成AIを直接動かす技術を開発</title>
+      <link>https://gigazine.net/news/20250304-stability-ai-arm-stable-audio-open/</link>
+      <description>&lt;![CDATA[画像生成AI「Stable Diffusion」を開発するAI企業のStability AIは半導体企業のArmと提携し、音楽生成モデル「Stable Audio Open」をArmのCPUで直接実行できるように最適化したと発表しました。ArmのKleidiAIライブラリとStability AIの最先端技術を組み合わせることで、スマートフォン上での音楽生成時間を従来の数分から数秒へと30倍高速化しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250304&amp;#45;stability&amp;#45;ai&amp;#45;arm&amp;#45;stable&amp;#45;audio&amp;#45;open/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Mar 2025 10:58:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
