@@ -11638,5 +11638,11 @@
       <description>&lt;![CDATA[2022年後半にChatGPTがリリースされて以来、専門家はAIモデルが世界にどれだけの影響を与えているのかについて議論してきました。スタンフォード大学の主導により3億以上のテキストサンプルを分析した最新の研究によると、AIモデルはさまざまな分野の専門的なコミュニケーションにおいて最大4分の1のライティング作業を支援しているそうです。特に、アメリカの教育水準の低い地域では、他の地域よりも大きな影響をおよぼしていることも明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250304&amp;#45;less&amp;#45;educated&amp;#45;adopting&amp;#45;ai&amp;#45;writing&amp;#45;tools&amp;#45;faster/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 04 Mar 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIにプログラミングさせる時に幻覚が発生しても大した問題にはならないという主張</title>
+      <link>https://gigazine.net/news/20250304-llm-coding-hallucinations/</link>
+      <description>&lt;![CDATA[大規模言語モデル(LLM)は人間が書いたような自然な文章を生み出すことができ、さらにコーディングも可能ですが、LLMが生成する文章やコードにはしばしば「幻覚(ハルシネーション)」と呼ばれる誤りが含まれることもあります。そのため、LLMの生成したコードは必ずしも正確とはいえませんが、エンジニアのサイモン・ウィルソン氏は自身のブログで「幻覚のせいでLLMを使った開発は無理だ」という指摘に疑問を呈しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250304&amp;#45;llm&amp;#45;coding&amp;#45;hallucinations/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 04 Mar 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
