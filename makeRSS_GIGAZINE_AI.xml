@@ -11644,5 +11644,17 @@
       <description>&lt;![CDATA[大規模言語モデル(LLM)は人間が書いたような自然な文章を生み出すことができ、さらにコーディングも可能ですが、LLMが生成する文章やコードにはしばしば「幻覚(ハルシネーション)」と呼ばれる誤りが含まれることもあります。そのため、LLMの生成したコードは必ずしも正確とはいえませんが、エンジニアのサイモン・ウィルソン氏は自身のブログで「幻覚のせいでLLMを使った開発は無理だ」という指摘に疑問を呈しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250304&amp;#45;llm&amp;#45;coding&amp;#45;hallucinations/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 04 Mar 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIがAIを使う研究機関に75億円を提供するコンソーシアム「NextGenAI」を設立</title>
+      <link>https://gigazine.net/news/20250305-openai-nextgenai-research-consortium/</link>
+      <description>&lt;![CDATA[OpenAIが15の研究機関と共に研究と教育を推進するコンソーシアム「NextGenAI」を設立しました。OpenAIは研究機関を対象に5000万ドル(約75億円)の資金およびAPIへのアクセスを提供しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250305&amp;#45;openai&amp;#45;nextgenai&amp;#45;research&amp;#45;consortium/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 05 Mar 2025 11:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが「通話やチャット中に詐欺を検出して警告する」というスマホ向けAI機能を発表</title>
+      <link>https://gigazine.net/news/20250305-google-ai-scam-detection/</link>
+      <description>&lt;![CDATA[Googleが2025年3月4日に、「Googleメッセージ」でのチャット中や音声通話中にAIが詐欺を検出し、ユーザーに音声や触覚で警告する機能を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250305&amp;#45;google&amp;#45;ai&amp;#45;scam&amp;#45;detection/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 05 Mar 2025 11:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
