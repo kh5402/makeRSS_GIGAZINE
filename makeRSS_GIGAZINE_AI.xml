@@ -11740,5 +11740,17 @@
       <description>&lt;![CDATA[Alibaba CloudのAI研究チームであるQwenが、AIモデル「QWQ-32B」を2025年3月6日にリリースしました。320億パラメーターのモデルでありながら6710億パラメーターのDeepSeek-R1と同等の性能を持つとされています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250306&amp;#45;qwen&amp;#45;qwq&amp;#45;32b/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 06 Mar 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>高速かつ高精度な文字認識AIモデル「Mistral OCR」が登場、LaTeXで書かれた数式や図表入りPDFのレイアウトを崩さずマークダウン形式で出力できてJSONへのデータ抽出も簡単に</title>
+      <link>https://gigazine.net/news/20250307-mistral-ocr/</link>
+      <description>&lt;![CDATA[AI開発企業のMistral AIが、画像に含まれるテキストを認識してテキストデータに変換できるAIモデル「Mistral OCR」を発表しました。Mistral OCRはLaTeXで書かれた複雑な数式も認識できるのに加え、文書に含まれる図や表の位置関係を崩さずマークダウン形式で出力できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250307&amp;#45;mistral&amp;#45;ocr/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 07 Mar 2025 11:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GPT&amp;#45;4o miniやClaude 3を無料かつ匿名で誰でも使える「Duck.ai」 が登場</title>
+      <link>https://gigazine.net/news/20250307-duck-ai-chatbot/</link>
+      <description>&lt;![CDATA[ユーザーのプライバシーを保護し、検索のパーソナライズを行わないことを運営方針とする検索エンジン「DuckDuckGo」が、AIチャットボット用インターフェースである「Duck.ai」を一般公開しました。誰でも無料かつ匿名で、GPT-4o miniやClaude 3、Llama 3.3などのチャットモデルと会話することが可能です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250307&amp;#45;duck&amp;#45;ai&amp;#45;chatbot/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 07 Mar 2025 10:52:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
