@@ -11776,5 +11776,11 @@
       <description>&lt;![CDATA[韓国先進科学技術研究所(KAIST)の研究者が、車椅子を使う人の歩行を支援するための外骨格「WalkON Suit F1」を開発しました。KAIST外骨格ラボの研究者であり、自らも車椅子を使っているというキム・スンファン氏がロイターの取材に答えています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250308&amp;#45;iron&amp;#45;man&amp;#45;inspired&amp;#45;exoskeleton/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 08 Mar 2025 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>さまざまなAIをWindowsのローカルPCで動かせる「Run llama.cpp Portable Zip on Intel GPU with IPEX&amp;#45;LLM」がDeepSeekにも対応したことをIntelが発表</title>
+      <link>https://gigazine.net/news/20250309-run-llama-portable-zip/</link>
+      <description>&lt;![CDATA[近年、高度な生成AIや大規模言語モデルが多数登場していますが、それらを動作させるには高価なGPUなど、相応の機器が必要となります。しかし、Intelが提供するPyTorch用エクステンションの「IPEX-LLM」では、Intel製ディスクリートGPUなどでGemmaやLlamaなどのAIを動作させることが可能です。今回、そんなIPEX-LLMがDeepSeek R1に対応したことをIntelが発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250309&amp;#45;run&amp;#45;llama&amp;#45;portable&amp;#45;zip/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 09 Mar 2025 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
