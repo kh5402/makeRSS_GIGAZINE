@@ -11782,5 +11782,11 @@
       <description>&lt;![CDATA[近年、高度な生成AIや大規模言語モデルが多数登場していますが、それらを動作させるには高価なGPUなど、相応の機器が必要となります。しかし、Intelが提供するPyTorch用エクステンションの「IPEX-LLM」では、Intel製ディスクリートGPUなどでGemmaやLlamaなどのAIを動作させることが可能です。今回、そんなIPEX-LLMがDeepSeek R1に対応したことをIntelが発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250309&amp;#45;run&amp;#45;llama&amp;#45;portable&amp;#45;zip/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 09 Mar 2025 13:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleの責任あるAIチームのウェブページから「多様性」や「公平性」といったDEIに関する記述が消える</title>
+      <link>https://gigazine.net/news/20250309-google-scrubs-diversity-equity-responsible-ai/</link>
+      <description>&lt;![CDATA[アメリカではトランプ政権に移行してから、企業が次々と多様性・公平性・包括性(DEI)に関連するプログラムを廃止しています。新たに、Googleの責任あるAIと人間中心のテクノロジーについて研究するRAI-HCTチームのウェブページ上から、「多様性」や「公平性」といった文言が削除されていることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250309&amp;#45;google&amp;#45;scrubs&amp;#45;diversity&amp;#45;equity&amp;#45;responsible&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sun, 09 Mar 2025 14:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
