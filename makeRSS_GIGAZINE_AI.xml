@@ -11794,5 +11794,17 @@
       <description>&lt;![CDATA[1996年に発売された「ポケットモンスター 赤」のクリアをAIで目指すプロジェクト「Pokémon RL Edition」が、DeepSeek-V3よりも約6万分の1となるパラメーター規模のAIエージェントで「ポケモン赤」のクリアに成功したと報告しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250310&amp;#45;pokemon&amp;#45;rl&amp;#45;edition/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 10 Mar 2025 09:46:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIのDeep researchを上回っていると称するAIエージェント「Manus」を中国のスタートアップが発表</title>
+      <link>https://gigazine.net/news/20250310-chinese-manus-ai/</link>
+      <description>&lt;![CDATA[ユーザーの指示に応じてさまざまなソースから情報を収集し、インタラクティブな要素を含めた結果を出力してくれるAIエージェント「Manus」を、中国のスタートアップであるManusAIが発表しました。Manusは現実世界の複雑なタスクを自律的に処理できる「汎用(はんよう)AIエージェント」になっているとのことで、実際に動作する様子を示したデモンストレーションのログも公開されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250310&amp;#45;chinese&amp;#45;manus&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 10 Mar 2025 12:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AMDが独自のビジュアル言語モデル「Instella&amp;#45;VL&amp;#45;1B」を公開、AMD製GPUでトレーニングし競争力のある性能を実現</title>
+      <link>https://gigazine.net/news/20250310-amd-instella-vl-1b/</link>
+      <description>&lt;![CDATA[半導体大手のAMDが、初の視覚言語モデル(VLM)となる「Instella-VL-1B」を発表しました。Instella-VL-1Bは、AMDが2025年3月に発表した言語モデル「Instella」ファミリーの一員で、AMDの生成AI向けGPUであるAMD Instinct MI300XでトレーニングされたVLMです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250310&amp;#45;amd&amp;#45;instella&amp;#45;vl&amp;#45;1b/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 10 Mar 2025 11:51:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
