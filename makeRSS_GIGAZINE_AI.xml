@@ -11848,5 +11848,11 @@
       <description>&lt;![CDATA[2025年になってからテック関連求人の約4分の1がAIスキルを求めており、あらゆる業界の企業が技術者採用においてAI能力を重視する傾向が強まっていると、アメリカ経済紙のWall Street Journal(WSJ)が報じています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250311&amp;#45;ai&amp;#45;talent&amp;#45;job&amp;#45;race/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 11 Mar 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「推論モデルがユーザーにバレないように不正する現象」の検出手法をOpenAIが開発</title>
+      <link>https://gigazine.net/news/20250311-detecting-misbehavior-in-frontier-reasoning-models/</link>
+      <description>&lt;![CDATA[強化学習をしていると、「報酬ハッキング」と呼ばれる、意図しない抜け穴を利用する動作がみられます。複雑なAIほど複雑な報酬ハッキングを行うため、「複雑な報酬ハッキングで引き起こされた誤動作」を見つけるのは非常に難しいのですが、OpenAIは、報酬ハッキングを監視するための新たな手段を開発したとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250311&amp;#45;detecting&amp;#45;misbehavior&amp;#45;in&amp;#45;frontier&amp;#45;reasoning&amp;#45;models/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 11 Mar 2025 23:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
