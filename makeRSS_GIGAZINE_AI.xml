@@ -11854,5 +11854,23 @@
       <description>&lt;![CDATA[強化学習をしていると、「報酬ハッキング」と呼ばれる、意図しない抜け穴を利用する動作がみられます。複雑なAIほど複雑な報酬ハッキングを行うため、「複雑な報酬ハッキングで引き起こされた誤動作」を見つけるのは非常に難しいのですが、OpenAIは、報酬ハッキングを監視するための新たな手段を開発したとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250311&amp;#45;detecting&amp;#45;misbehavior&amp;#45;in&amp;#45;frontier&amp;#45;reasoning&amp;#45;models/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 11 Mar 2025 23:40:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Manus AIがAlibaba「Qwen」開発チームと戦略的パートナーシップを締結、さらに創造的なAIエージェント開発へ協力</title>
+      <link>https://gigazine.net/news/20250312-manus-ai-alibaba-qwen/</link>
+      <description>&lt;![CDATA[OpenAIの最新ツール「deep research」を越える性能を持つという汎用(はんよう)AIエージェント「Manus」を開発した中国のManus AIが、同じく中国の大手AI企業・Alibaba(アリババ)の「Qwen」開発チームとの戦略的パートナーシップ締結を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250312&amp;#45;manus&amp;#45;ai&amp;#45;alibaba&amp;#45;qwen/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 12 Mar 2025 11:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Metaが初の自社製AIトレーニング用チップを試験的に導入、生産体制もすでに整備中か</title>
+      <link>https://gigazine.net/news/20250312-meta-ai-training-chip/</link>
+      <description>&lt;![CDATA[大規模言語モデルのLlamaなどを開発するMetaが、AIのトレーニング用に初の自社製チップを試験的に導入したとロイターが報じています。AIトレーニング用のチップはNVIDIAが大きなシェアを占めていますが、自社製チップを投入することはMetaがNVIDIAへの依存を減らすためにも重要なステップとなります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250312&amp;#45;meta&amp;#45;ai&amp;#45;training&amp;#45;chip/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 12 Mar 2025 10:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが「文学作品を書けるAIモデル」の開発を報告、感銘を受けるレベルの名文を執筆可能</title>
+      <link>https://gigazine.net/news/20250312-openai-creative-writing/</link>
+      <description>&lt;![CDATA[OpenAIのサム・アルトマンCEOが「文学作品を書けるAIモデル」を開発中であることを報告しました。合わせて、開発中のAIモデルで生成した短編小説も公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250312&amp;#45;openai&amp;#45;creative&amp;#45;writing/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 12 Mar 2025 10:44:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
