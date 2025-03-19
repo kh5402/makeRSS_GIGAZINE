@@ -12076,5 +12076,35 @@
       <description>&lt;![CDATA[近年は生成AIの発達により、インターネット上でAI生成の画像や動画を投稿してインプレッションを稼ぎ、広告収益を得ようとするスパムアカウントが急増しています。海外メディア・404 Mediaの記者であるジェイソン・ケブラー氏が、スパマーが大量のAI生成動画を投稿してInstagramやTikTokのアルゴリズムをハックし、「インターネットへのブルートフォース攻撃」を仕掛けていると指摘しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250318&amp;#45;ai&amp;#45;slop&amp;#45;brute&amp;#45;force&amp;#45;attack&amp;#45;reality/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 18 Mar 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAが推論AIを低コスト・高効率で稼働するための高速化ライブラリ「NVIDIA Dynamo」を公開、DeepSeek&amp;#45;R1を30倍に高速化可能とアピール</title>
+      <link>https://gigazine.net/news/20250319-nvidia-dynamo/</link>
+      <description>&lt;![CDATA[半導体大手のNVIDIAがOpenAI o1やDeepSeek-R1といった推論AIを高速化するためのライブラリ「NVIDIA Dynamo」を公開しました。NVIDIA Dynamoはコストを削減しつつ推論パフォーマンスを向上させることが可能で、DeepSeek-R1のスループットが30倍に向上したとNVIDIAはアピールしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250319&amp;#45;nvidia&amp;#45;dynamo/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 11:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAが人型ロボット用オープン基盤モデル「Isaac GR00T N1」を発表、多様な環境で動作する汎用ロボットの開発に役立つ</title>
+      <link>https://gigazine.net/news/20250319-nvidia-isaac-gr00t-n1/</link>
+      <description>&lt;![CDATA[NVIDIAがヒューマノイド(人型)ロボット開発を目的としたオープン基盤モデル「Isaac GR00T N1」を、2025年3月17日から開催されているNVIDIAの開発者会議「GTC AI カンファレンス 2025」で発表しました。Isaac GR00T N1は言語や画像を処理し、多様な環境での操作タスクを実行できる二重システムアーキテクチャを採用したモデルで、物体操作や腕間での受け渡しなど様々なタスクを単一のモデルで実行できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250319&amp;#45;nvidia&amp;#45;isaac&amp;#45;gr00t&amp;#45;n1/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 11:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAがデスクトップPCやノートPCに搭載できるAI特化GPU「RTX PRO Blackwellシリーズ」を発表、デスクトップ向け最上位は96GBのVRAMを搭載</title>
+      <link>https://gigazine.net/news/20250319-nvidia-rtx-pro-blackwell/</link>
+      <description>&lt;![CDATA[NVIDIAが2025年3月18日に、AIやテクニカルコンピューティング、ハイパフォーマンスグラフィックスに特化したGPU「RTX PRO Blackwell」シリーズを発表しました。これらのGPUには、データセンター向けやデスクトップPC向け、ノートPC向けなどさまざまなラインナップが用意されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250319&amp;#45;nvidia&amp;#45;rtx&amp;#45;pro&amp;#45;blackwell/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 11:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAがAI特化の次世代GPUアーキテクチャ「Blackwell Ultra」「Vera Rubin」「Rubin Ultra」を発表、RubinはHopperの900倍の性能でコストはわずか3％</title>
+      <link>https://gigazine.net/news/20250319-nvidia-blackwell-ultra-rubin/</link>
+      <description>&lt;![CDATA[NVIDIAがAIデータセンター向けの次世代アーキテクチャ「Blackwell Ultra」「Vera Rubin」「Rubin Ultra」の詳細を発表しました。Blackwell Ultraを搭載した製品は2025年後半に出荷開始予定で、前世代の製品と比べて1.5倍の性能を備えています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250319&amp;#45;nvidia&amp;#45;blackwell&amp;#45;ultra&amp;#45;rubin/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 11:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAがデスクトップPCサイズのAIスパコン「DGX Spark」と「DGX Station」を発表、Blackwell世代のAI特化GPUを搭載し個人環境でローカルAI開発が可能</title>
+      <link>https://gigazine.net/news/20250319-nvidia-dgx-spark-station/</link>
+      <description>&lt;![CDATA[NVIDIAがデスクに置けるサイズのAI特化PC「DGX Spark」「DGX Station」を発表しました。これまでデータセンターでしか利用できなかった「NVIDIA Grace Blackwell」アーキテクチャのパワーを個人向けに提供するもので、AI開発者やデータサイエンティストなどが大規模なAIモデルを調整するのに役立つとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250319&amp;#45;nvidia&amp;#45;dgx&amp;#45;spark&amp;#45;station/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 19 Mar 2025 11:19:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
