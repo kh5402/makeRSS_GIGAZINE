@@ -12280,5 +12280,11 @@
       <description>&lt;![CDATA[オックスフォード大学の研究チームとMetaのAI研究部門が、画像から3D情報を取り出す新しいAIモデル「VGGT」を発表しました。従来の技術では、3D情報を得るために複雑な計算処理が必要でしたが、VGGTは一度の処理で画像から直接、カメラの位置や向き、物体の奥行き、3D空間での点の位置などを素早く計算できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250326&amp;#45;vggt&amp;#45;visual&amp;#45;geometry&amp;#45;grounded&amp;#45;transformer/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 26 Mar 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>大規模言語モデルの処理順序が人間の脳の神経活動と類似しているとGoogleの研究者が主張</title>
+      <link>https://gigazine.net/news/20250327-language-processing-human-brain-llm/</link>
+      <description>&lt;![CDATA[近年の大規模言語モデルをベースにしたチャットAIは、人間と遜色ないほどの精度でリアルタイムの会話をすることが可能ですが、その計算フレームワークは人間の脳とまったく異なります。ところが、Googleの研究者らが2025年3月のブログで、大規模言語モデルの内部埋め込みと人間の脳が音声を処理する際の神経活動パターンには顕著な類似性があると主張しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250327&amp;#45;language&amp;#45;processing&amp;#45;human&amp;#45;brain&amp;#45;llm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 27 Mar 2025 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
