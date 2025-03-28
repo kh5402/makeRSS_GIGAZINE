@@ -12328,5 +12328,23 @@
       <description>&lt;![CDATA[「NotaGen」は中国を中心とする研究チームが開発したクラッシック音楽生成AIモデルです。NotaGenは160万件の楽曲データを用いてトレーニングされており、作風を指定して音声データと楽譜データを生成できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250328&amp;#45;notagen&amp;#45;classical&amp;#45;music&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 28 Mar 2025 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIの頭の中ではどのように情報が処理されて意思決定が行われるのかをAnthropicが解説</title>
+      <link>https://gigazine.net/news/20250328-anthropic-traces-thoughts-of-llm/</link>
+      <description>&lt;![CDATA[大量のデータから学習する大規模言語モデルは、人間が直接設計したアルゴリズムとは異なり、学習の過程で独自に問題解決の戦略を獲得しますが、それらの戦略は開発者にとっても不可視であり、モデルがどのように出力を生成しているのかを理解するのは困難です。Anthropicは、同社が開発した大規模言語モデル・Claudeの「思考の軌跡」を可視化するための新たな研究成果をまとめた論文を複数発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250328&amp;#45;anthropic&amp;#45;traces&amp;#45;thoughts&amp;#45;of&amp;#45;llm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 28 Mar 2025 11:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが旅行に役立つスクリーンショット分析やAI旅程作成機能など新たなAI機能を導入</title>
+      <link>https://gigazine.net/news/20250328-google-map-gemini-travel-tips/</link>
+      <description>&lt;![CDATA[GoogleのAI「Gemini」を活用した旅行に役立つ機能がいくつか導入される予定です。既存の機能も含め、Googleが「旅行準備のための5つのヒント」と題して新機能を紹介しました。AIを使って旅程を作成する機能、スクリーンショットを分析して行きたい場所を保存しておく機能などがあります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250328&amp;#45;google&amp;#45;map&amp;#45;gemini&amp;#45;travel&amp;#45;tips/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 28 Mar 2025 10:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがChatGPTの新画像生成機能が「GPUが溶ける」ほど人気と発言、一時的に制限を設けざるを得ない状況</title>
+      <link>https://gigazine.net/news/20250328-openai-gpu-are-melting-chatgpt-image-generation/</link>
+      <description>&lt;![CDATA[2025年3月26日、OpenAIはChatGPTで利用可能な高精度な画像生成機能として「4o Image Generation」を発表しました。この4o Image Generationの人気により、OpenAIのサーバーのGPUが溶けるほど過剰な負荷がかかっていると、同社のサム・アルトマンCEOが発言しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250328&amp;#45;openai&amp;#45;gpu&amp;#45;are&amp;#45;melting&amp;#45;chatgpt&amp;#45;image&amp;#45;generation/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 28 Mar 2025 10:37:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
