@@ -12484,5 +12484,23 @@
       <description>&lt;![CDATA[近年のAIは研究が進み、人間と遜色ないほどの精度でリアルタイムの会話をすることが可能です。しかし、人間とAIの思考には大きな隔たりがあることを、アムステルダム大学などの研究チームが発見しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250402&amp;#45;humans&amp;#45;ai&amp;#45;think/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 02 Apr 2025 12:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ついにApple Intelligenceが日本語に対応してiPhoneで「ラフな文章をビジネス用に書き換える機能」や「画像生成機能」が利用可能になったので使ってみた</title>
+      <link>https://gigazine.net/news/20250402-apple-intelligence-japanese/</link>
+      <description>&lt;![CDATA[2025年3月31日(月)に「iOS 18.4」「iPadOS 18.4」「macOS Sequoia 15.4」がリリースされました。これにより、Apple製AIアシスタント「Apple Intelligence」の日本語版がiPhoneやiPad、Macで利用可能になったので、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250402&amp;#45;apple&amp;#45;intelligence&amp;#45;japanese/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 02 Apr 2025 12:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MicrosoftがAIツールのSecurity Copilotを使ってGRUB2・U&amp;#45;Boot・Bareboxなどのオープンソースブートローダーに未知の脆弱性を発見</title>
+      <link>https://gigazine.net/news/20250402-open-source-bootloaders-bulnerabilities/</link>
+      <description>&lt;![CDATA[Microsoftが独自のAIツールであるSecurity Copilotを活用した新たな分析手法で、GRUB2・U-Boot・bareboxなどのオープンソースのブートローダーに新たな脆弱(ぜいじゃく)性を発見したと報告しています。この取り組みは、セキュリティ分野でのAI活用の一環で、特にファームウェアやブートローダーのような、通常のセキュリティスキャンでは見落とされがちな低レベルソフトウェアの分析に焦点を当てています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250402&amp;#45;open&amp;#45;source&amp;#45;bootloaders&amp;#45;bulnerabilities/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 02 Apr 2025 12:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MozillaがGmailのようにブラウザ経由でアクセスできるメールサービス「Thundermail」とAIアシスタントやスケジューラーなどが使える有料サービス「Thunderbird Pro」を発表</title>
+      <link>https://gigazine.net/news/20250402-mozilla-announces-thundermail-thunderbird-pro/</link>
+      <description>&lt;![CDATA[無料のメールクライアントである「Thunderbird」を開発するMozillaが、ウェブブラウザからアクセスできるGmailのようなメールサービスの「Thundermail」と、AIアシスタントやスケジュールツールなどが使える有料サービスの「Thunderbird Pro」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250402&amp;#45;mozilla&amp;#45;announces&amp;#45;thundermail&amp;#45;thunderbird&amp;#45;pro/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 02 Apr 2025 12:36:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
