@@ -12514,5 +12514,23 @@
       <description>&lt;![CDATA[Microsoftが2025年3月31日に、これまでQualcommのSnapdragon Xシリーズ搭載デバイスでのみ利用できたCopilot＋ PCの便利なAI機能を、「AMD Ryzen AI 300」シリーズと「Intel Core Ultra 200V」シリーズを搭載したCopilot＋ PCでも利用可能にすることを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250402&amp;#45;expanding&amp;#45;copilot&amp;#45;pc&amp;#45;amd&amp;#45;intel&amp;#45;snapdragon/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 02 Apr 2025 13:35:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GoogleがAIアルゴリズムの「DreamerV3」を開発、「人間のデータなしでマインクラフトのダイヤモンドを採掘できる最初のAI」</title>
+      <link>https://gigazine.net/news/20250403-google-deepmind-dreamerv3/</link>
+      <description>&lt;![CDATA[Google DeepMindの研究チームが、人気ゲームソフト「マインクラフト」でダイヤモンドを採掘することも可能なAIアルゴリズム「DreamerV3」を開発したと発表しました。周囲の環境から特定の知識を得て、その知識を応用できるという点で優れていると開発者は話しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250403&amp;#45;google&amp;#45;deepmind&amp;#45;dreamerv3/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Apr 2025 11:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがAIの論文理解＆再現能力を評価するベンチマーク「PaperBench」を発表、人間とAIのどちらが研究開発力が高いのか？</title>
+      <link>https://gigazine.net/news/20250403-openai-paperbench/</link>
+      <description>&lt;![CDATA[OpenAIが、AIが最先端の研究論文を理解して再現できるかを評価する新しいベンチマーク「PaperBench」を発表しました。PaperBenchは、AIエージェントに20本の最新AI研究論文を一から再現させ、論文内容の理解やコード開発、実験実行の全てを評価します。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250403&amp;#45;openai&amp;#45;paperbench/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Apr 2025 11:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「執拗なAIスクレイピングがインフラストラクチャに負担をかけている」とWikimedia財団が発表</title>
+      <link>https://gigazine.net/news/20250403-wikipedia-ai-crawlers/</link>
+      <description>&lt;![CDATA[近年の生成AIの興隆により、モデルのトレーニングや推論に使用されるコンテンツの需要が急増しており、一部のAI企業は「クローラー」と呼ばれるウェブスクレイピング用のボットを使ってデータを収集しています。オンライン百科事典・Wikipediaを運営するWikimedia財団が、ウィキメディア・コモンズ上のコンテンツに対するトラフィックが近年指数関数的に増加していると報告しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250403&amp;#45;wikipedia&amp;#45;ai&amp;#45;crawlers/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Apr 2025 10:53:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
