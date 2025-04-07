@@ -12598,5 +12598,23 @@
       <description>&lt;![CDATA[OpenAIとマサチューセッツ工科大学(MIT)メディアラボが、AIチャットボットが人々の感情や行動に与える影響について、2つの共同研究を発表しました。研究では、チャットボットの使用が孤独感や社会的交流、AIへの依存傾向などにどのような影響を及ぼすかが検討されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250405&amp;#45;ai&amp;#45;chatbot&amp;#45;lonely&amp;#45;people/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 05 Apr 2025 22:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Metaが次世代マルチモーダルAI「Llama 4」をリリース、MoEアーキテクチャ採用で競合モデルに匹敵する高性能を誇る</title>
+      <link>https://gigazine.net/news/20250407-meta-llama-4-released/</link>
+      <description>&lt;![CDATA[Metaが次世代AIモデル「Llama 4」シリーズを正式に発表しました。Llama 4シリーズは、性能や規模、応用範囲の異なる複数のモデルで構成されており、前世代から大幅な性能向上を実現し、競合する他社のAIモデルに比肩する性能を持っているとのこと。最大の特徴は、「Mixture of Experts(MoE)」と呼ばれる効率的なモデルアーキテクチャと、新しく開発された事前学習方法にあります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250407&amp;#45;meta&amp;#45;llama&amp;#45;4&amp;#45;released/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 07 Apr 2025 11:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>画像生成AI「Midjourney V7」のアルファテストが始まる、音声での指示に従って画像を爆速で生成可能なドラフトモードも搭載</title>
+      <link>https://gigazine.net/news/20250407-midjourney-v7-image-generation-ai/</link>
+      <description>&lt;![CDATA[画像生成AI「Midjourney」のバージョン7(Midjourney V7)のアルファテストが2025年4月4日に始まりました。Midjourney V7は前バージョンと比べて手や体などの描画品質が向上しているほか、音声での指示に高速応答できる「ドラフトモード」も搭載されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250407&amp;#45;midjourney&amp;#45;v7&amp;#45;image&amp;#45;generation&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 07 Apr 2025 11:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが話題の画像生成機能・4o Image Generationに「ウォーターマーク(透かし)」を導入するテストを実施中</title>
+      <link>https://gigazine.net/news/20250407-openai-4o-image-generation-water-mark/</link>
+      <description>&lt;![CDATA[2025年3月26日にOpenAIは、ChatGPTで利用可能な画像生成機能として「4o Image Generation」を実装しました。新たに、OpenAIが4o Image Generationで生成された画像にウォーターマーク(透かし)を入れるテストを行っていることが報じられています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250407&amp;#45;openai&amp;#45;4o&amp;#45;image&amp;#45;generation&amp;#45;water&amp;#45;mark/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 07 Apr 2025 10:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
