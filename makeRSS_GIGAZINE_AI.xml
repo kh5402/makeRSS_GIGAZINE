@@ -12754,5 +12754,11 @@
       <description>&lt;![CDATA[ユーザーの指示でレストランの予約をするなど、自律的にタスクをこなすことができる「AIエージェント」は数多く存在します。設計が全く異なるAIエージェント同士でも相互運用を可能にするプロトコル「Agent2Agent(A2A)」を、Googleが新たに発表しました。A2AはAI企業のAnthropicが開発したプロトコル「Model Context Protocol(MCP)」を補完するものという位置づけになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250410&amp;#45;google&amp;#45;agent2agent/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 10 Apr 2025 12:10:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleがワークフロー自動化のためのAIツール「Workspace Flows」のアルファ版をリリース、他にも山ほど新機能をGoogle Cloud Next 2025で発表</title>
+      <link>https://gigazine.net/news/20250410-google-cloud-next-2025-workspace-flows/</link>
+      <description>&lt;![CDATA[Googleが提供するクラウドベースの生産性向上グループウェアスイート・Google Workspaceに、コード不要でワークフローを自動化できるツール「Workspace Flows」が追加されることが、Google Cloudのイベント「Google Cloud Next 2025」で発表されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250410&amp;#45;google&amp;#45;cloud&amp;#45;next&amp;#45;2025&amp;#45;workspace&amp;#45;flows/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 10 Apr 2025 12:35:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
