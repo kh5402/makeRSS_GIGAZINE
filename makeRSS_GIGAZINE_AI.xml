@@ -12748,5 +12748,11 @@
       <description>&lt;![CDATA[Samsungが、開発中の家庭用ロボット「Ballie」に、Google Geminiを搭載することを発表しました。発売は2025年夏で、まずはアメリカと韓国から始まります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250410&amp;#45;samsung&amp;#45;ballie&amp;#45;with&amp;#45;google&amp;#45;gemini/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 10 Apr 2025 10:42:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GoogleがAIエージェント間のコラボを可能にする相互運用性プロトコル「Agent2Agent」を発表</title>
+      <link>https://gigazine.net/news/20250410-google-agent2agent/</link>
+      <description>&lt;![CDATA[ユーザーの指示でレストランの予約をするなど、自律的にタスクをこなすことができる「AIエージェント」は数多く存在します。設計が全く異なるAIエージェント同士でも相互運用を可能にするプロトコル「Agent2Agent(A2A)」を、Googleが新たに発表しました。A2AはAI企業のAnthropicが開発したプロトコル「Model Context Protocol(MCP)」を補完するものという位置づけになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250410&amp;#45;google&amp;#45;agent2agent/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 10 Apr 2025 12:10:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
