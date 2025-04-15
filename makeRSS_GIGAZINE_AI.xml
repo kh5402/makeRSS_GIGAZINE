@@ -12850,5 +12850,23 @@
       <description>&lt;![CDATA[AIによるコード生成の普及は、開発効率を大きく向上させる一方で、全く新しいリスクも生み出しています。大規模言語モデル(LLM)には幻覚として「存在しないパッケージ名」を生成するリスクがあり、攻撃者が同名で悪意あるパッケージを公開することで、AI支援でコードを書く開発者を騙す新手のソフトウェアサプライチェーン攻撃「スロップスクワッティング」の可能性が指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250415&amp;#45;slopsquatting&amp;#45;ai&amp;#45;hallucinated&amp;#45;code/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 15 Apr 2025 09:46:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAが純アメリカ製AIスパコンを開発すべくTSMCやFoxconnと連携して今後4年間で5000億ドルをアメリカに投資</title>
+      <link>https://gigazine.net/news/20250415-nvidia-manufacture-us-made-ai-supercomputers/</link>
+      <description>&lt;![CDATA[NVIDIAが、AIスーパーコンピューターをアメリカで製造する初の試みを行うことを発表しました。今後4年で最大5000億ドル(約72兆円)規模のAIインフラを構築する計画で、これはドナルド・トランプ大統領の「自国の製造業の力を強める」という狙いとも合致するものです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250415&amp;#45;nvidia&amp;#45;manufacture&amp;#45;us&amp;#45;made&amp;#45;ai&amp;#45;supercomputers/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 15 Apr 2025 11:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleがイルカと話せるAI「DolphinGemma」を開発、スマホを使った会話マシンもあり</title>
+      <link>https://gigazine.net/news/20250415-google-dolphin-communication-ai-dolphingemma/</link>
+      <description>&lt;![CDATA[Googleがイルカの会話音声を生成できるAI「DolphinGemma」を開発しました。DolphinGemmaはGoogle製スマートフォンのPixelシリーズ上で動作するように設計されており、イルカのコミュニケーションに関する研究で成果を上げることが期待されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250415&amp;#45;google&amp;#45;dolphin&amp;#45;communication&amp;#45;ai&amp;#45;dolphingemma/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 15 Apr 2025 11:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが「GPT 4.1」のAPIを公開、100万トークン対応と実用性能で飛躍的進化を遂げた次世代AIモデル</title>
+      <link>https://gigazine.net/news/20250415-openai-gpt-4-1-released/</link>
+      <description>&lt;![CDATA[OpenAIが「GPT-4.1」「GPT-4.1 mini」「GPT-4.1 nano」のAPIを2025年4月14日に発表しました。GPT-4.1シリーズは最大100万トークンの入力に対応したほか、コーディングと命令追跡能力がGPT-4oシリーズよりも大幅に改善され、低レイテンシーかつ高コストパフォーマンスなモデルになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250415&amp;#45;openai&amp;#45;gpt&amp;#45;4&amp;#45;1&amp;#45;released/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 15 Apr 2025 11:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
