@@ -12898,5 +12898,23 @@
       <description>&lt;![CDATA[Google製AIアシスタント「Gemini」の有料プランで動画生成AI「Veo 2」を用いた動画生成が可能になりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250416&amp;#45;gemini&amp;#45;advanced&amp;#45;veo&amp;#45;2&amp;#45;generating&amp;#45;video/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 16 Apr 2025 10:37:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAが「RTX 5060」と「RTX 5060 Ti」を発表、価格は5万5800円から</title>
+      <link>https://gigazine.net/news/20250416-nvidia-5060/</link>
+      <description>&lt;![CDATA[NVIDIAが、AIの処理に特化したアーキテクチャ「Blackwell」を備えるメインストリーム向けGPU「RTX 5060」および「RTX 5060 Ti」を発表しました。DLSSマルチフレーム生成やDLSSスーパー解像度、DLSSレイ再構成といったAI処理で実現するゲーミング性能を確保しつつ、価格を抑えたモデルとなっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250416&amp;#45;nvidia&amp;#45;5060/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Apr 2025 12:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAのAIチップ「H20」の中国への販売にアメリカ政府がライセンスを要求、NVIDIAは関連経費として55億ドルを計上</title>
+      <link>https://gigazine.net/news/20250416-nvidia-china-h20-export-license/</link>
+      <description>&lt;![CDATA[NVIDIAが中国向けに販売している「H20」について、アメリカ政府がNVIDIAに対して「ライセンスが必要である」とする通知を送付したことが明らかになりました。NVIDIAはライセンスに関連する費用として55億ドル(約7850億円)を計上しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250416&amp;#45;nvidia&amp;#45;china&amp;#45;h20&amp;#45;export&amp;#45;license/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Apr 2025 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Claudeに「Research」機能が追加される、ウェブ上のデータだけでなくGmailやGoogleカレンダーの内容も参照して推論可能</title>
+      <link>https://gigazine.net/news/20250416-claude-research/</link>
+      <description>&lt;![CDATA[AnthropicがチャットAI「Claude」に、ユーザーの指示に従って詳細な調査と分析を行う新機能「Research」を導入したことを発表しました。また、ClaudeがGmailやGoogleカレンダーを含むGoogle Workspaceと統合できるようになったことも発表されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250416&amp;#45;claude&amp;#45;research/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Apr 2025 12:07:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
