@@ -13066,5 +13066,17 @@
       <description>&lt;![CDATA[Metaが、Instagramを利用する未成年のアカウントをAIで検知するテストをアメリカで開始しました。未成年のアカウントにはいろいろと制限が課されており、それを回避するユーザーがいるため、Metaは監視を強化しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250422&amp;#45;instagram&amp;#45;ai&amp;#45;find&amp;#45;teen/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 22 Apr 2025 11:13:00 +0900</pubDate>
     </item>
+    <item>
+      <title>「AIの価値観」を調査した結果「支配性」や「非道徳性」が検出されたとAnthropicが報告</title>
+      <link>https://gigazine.net/news/20250422-anthropic-claude-dominance-amorality/</link>
+      <description>&lt;![CDATA[OpenAIの元メンバーによって設立されたAI企業のAnthropicが、同社の大規模言語モデルであるClaudeとユーザーの会話を分析した結果、倫理的なアプローチを特に重視して開発されたはずのClaudeでさえ、いくつかの反社会的な価値観を持つことが判明したと報告しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250422&amp;#45;anthropic&amp;#45;claude&amp;#45;dominance&amp;#45;amorality/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 22 Apr 2025 13:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Microsoftの「Recall」はファイルを暗号化するなど改良が加えられているがPINだけで実行できるため機密データ保護措置はまだ信頼できないとの指摘</title>
+      <link>https://gigazine.net/news/20250422-microsoft-recall-biometrics/</link>
+      <description>&lt;![CDATA[ユーザーのPC操作を細かく画面撮影し、光学式文字認識(OCR)で情報をスキャンして後からAIで検索できるようにするWindowsのAI機能「Recall(回顧)」が試験的に提供され始めたため、テクノロジー系メディア等がその仕様を確認してレビューしています。その中で、Recallを起動する際に求められる生体認証が話題となりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250422&amp;#45;microsoft&amp;#45;recall&amp;#45;biometrics/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 22 Apr 2025 13:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
