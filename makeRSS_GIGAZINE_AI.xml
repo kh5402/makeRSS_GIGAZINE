@@ -13114,5 +13114,11 @@
       <description>&lt;![CDATA[ChatGPTやClaude、Grokなどの大規模言語モデルを用いた生成AIは、まるで人間のようにユーザーの言葉に対して適切な返答をします。しかし、大規模言語モデルが言語を処理する方法と、人間が言語を処理する方法には大きな違いがあるとのこと。「Meaning Machine」というウェブサイトは、大規模言語モデルがどのように言語を処理しているのかについて、視覚的にわかりやすく示してくれるものとなっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250423&amp;#45;meaning&amp;#45;machine&amp;#45;language&amp;#45;models/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 23 Apr 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AMDプロセッサ向けに最適化された画像生成AIと動画生成AIを含むAIアート作成ツール「Amuse 3.0」がリリースされる、ローカルで画像＆動画を生成可能</title>
+      <link>https://gigazine.net/news/20250424-amd-image-video-generation-amuse/</link>
+      <description>&lt;![CDATA[AMDとAI開発企業「TensorStack.AI」が共同開発したAIアート作成ツール「Amuse 3.0」のベータ版がリリースされました。Amuse 3.0には画像生成AIの「Stable Diffusion 3.5」や「FLUX.1」、動画生成AIも含まれており、AMD製プロセッサを搭載したPCでローカル動作します。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250424&amp;#45;amd&amp;#45;image&amp;#45;video&amp;#45;generation&amp;#45;amuse/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 24 Apr 2025 11:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
