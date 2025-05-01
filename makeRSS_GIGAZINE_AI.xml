@@ -13270,5 +13270,11 @@
       <description>&lt;![CDATA[Xiaomiが、独自の推論モデル「MiMo」をオープンソースで公開しました。このモデルはOpenAIのクローズドソースのo1-miniモデルや、32Bパラメータを持つアリババのQwQ-Previewモデルなどに対抗するとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;xiaomi&amp;#45;ai&amp;#45;mimo/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 01 May 2025 12:49:00 +0900</pubDate>
     </item>
+    <item>
+      <title>物を拾い上げたり置いたりできるプログラム可能でオープンソースのロボットアーム「SO&amp;#45;101」をHugging Faceが発表</title>
+      <link>https://gigazine.net/news/20250501-hugging-face-robotic-arm/</link>
+      <description>&lt;![CDATA[「AI開発のGitHub」とも呼ばれるプラットフォームで知られるHugging Faceが、プログラムできる3Dプリント可能なロボットアーム「SO-101」を発表しました。SO-101は部品を購入したり公開されているデータから3Dプリントしたりして組み立てることで使用可能で、2024年10月に発売した前モデルと比べて改良されたモーターを搭載しているほか、強化学習を含むAI技術でトレーニングすることが可能になっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;hugging&amp;#45;face&amp;#45;robotic&amp;#45;arm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 13:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
