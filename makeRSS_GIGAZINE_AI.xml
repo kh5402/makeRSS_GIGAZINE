@@ -13240,5 +13240,29 @@
       <description>&lt;![CDATA[オーストラリアのソフトウェアエンジニアであるフィリップ・バクレスキ氏(Phiality)が、AIに何度も自問自答させることでより深く考えさせる手法「Chain of Recursive Thoughts(CoRT：再帰的思考の連鎖)」についてGitHubで発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;chain&amp;#45;of&amp;#45;recursive&amp;#45;thoughts/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 01 May 2025 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Wikipediaが技術的障壁を取り除きボランティアが作業しやすくする「人間第一」の新AI戦略を表明</title>
+      <link>https://gigazine.net/news/20250501-wikipedia-ai-strategy/</link>
+      <description>&lt;![CDATA[フリー百科事典「Wikipedia(ウィキペディア)」は誰でも編集できるのが特徴の1つです。Wikipediaを運営するウィキメディア財団が、Wikipediaを共同で作り上げているボランティアユーザーを「AIで取って代われないもの」と表現し、さらにボランティアを倍増させる新しいAI戦略を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;wikipedia&amp;#45;ai&amp;#45;strategy/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleのCEOが2025年末までにApple Intelligenceで「Gemini」がサポートされる予定と発言、AppleはGemini以外にも複数のAIモデルをサポートする計画</title>
+      <link>https://gigazine.net/news/20250501-google-confirms-close-to-gemini-support-iphone/</link>
+      <description>&lt;![CDATA[AppleのパーソナルAIである「Apple Intelligence」はOpenAIのChatGPTをサポートしていますが、GoogleのGeminiのサポートも計画していることが明らかになっていました。新たに、Googleのスンダー・ピチャイCEOが、2025年末までにApple IntelligenceでGeminiがサポートされる予定であることを認めています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;google&amp;#45;confirms&amp;#45;close&amp;#45;to&amp;#45;gemini&amp;#45;support&amp;#45;iphone/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 11:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepSeekが数学的推論に特化した「DeepSeek&amp;#45;Prover&amp;#45;V2」をひっそりとリリース、複雑な定理の形式証明に対応</title>
+      <link>https://gigazine.net/news/20250501-deepseek-prover-v2/</link>
+      <description>&lt;![CDATA[中国のAI企業・DeepSeekが、数学的推論に特化したAI・Proverの第2世代モデルである「DeepSeek-Prover-V2」を、Hugging FaceとGitHubに公開しました。同社の大規模言語モデル「DeepSeek-V3」のアーキテクチャを基盤としたMixture-of-Experts(MoE)モデルで、定理証明支援言語のLean 4を使って形式化した定理証明の生成を自動化するように設計されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;deepseek&amp;#45;prover&amp;#45;v2/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 11:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Microsoft製品のコードの30％程度はAIで書かれている</title>
+      <link>https://gigazine.net/news/20250501-microsoft-ceo-reveals-ai-writes-code/</link>
+      <description>&lt;![CDATA[Microsoftのサティア・ナデラCEOが、同社のソフトウェア製品のコードの20～30％は人工知能(AI)が記述していることを明かしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;microsoft&amp;#45;ceo&amp;#45;reveals&amp;#45;ai&amp;#45;writes&amp;#45;code/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 01 May 2025 11:04:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
