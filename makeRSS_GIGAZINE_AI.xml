@@ -13276,5 +13276,11 @@
       <description>&lt;![CDATA[「AI開発のGitHub」とも呼ばれるプラットフォームで知られるHugging Faceが、プログラムできる3Dプリント可能なロボットアーム「SO-101」を発表しました。SO-101は部品を購入したり公開されているデータから3Dプリントしたりして組み立てることで使用可能で、2024年10月に発売した前モデルと比べて改良されたモーターを搭載しているほか、強化学習を含むAI技術でトレーニングすることが可能になっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250501&amp;#45;hugging&amp;#45;face&amp;#45;robotic&amp;#45;arm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 01 May 2025 13:40:00 +0900</pubDate>
     </item>
+    <item>
+      <title>チャットAI「Claude」に別のアプリとの連携機能「Integrations」が実装される、MCPサーバーと接続して「Cloudflare」「PayPal」「Zapier」「Confluence」などと連携可能</title>
+      <link>https://gigazine.net/news/20250502-claude-integrations/</link>
+      <description>&lt;![CDATA[AI企業のAnthropicが自社製チャットAI「Claude」と他社製サービスを連携させる機能「Integrations」を発表しました。これによりウェブアプリ版のClaudeでもMCPサーバーに接続できるようになり、「Confluence上の情報を元に回答を出力する」「Zapierで自動化したワークフローをClaudeから実行する」といった操作が可能となります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250502&amp;#45;claude&amp;#45;integrations/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 02 May 2025 11:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
