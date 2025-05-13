@@ -13486,5 +13486,23 @@
       <description>&lt;![CDATA[AIモデルをローカルで実行できるオープンソースソフトウェア「llama.cpp」が画像の入力に対応しました。画像とテキストを同時に入力して「この画像には何が写っている？」といった質問に回答させられます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250512&amp;#45;llama&amp;#45;cpp&amp;#45;&amp;#45;multimodal&amp;#45;vision&amp;#45;support/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 12 May 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ソフトバンクとOpenAIによる70兆円超えの投資プロジェクト「Stargate」がトランプ関税の影響で貸し手との合意に至れず停滞中</title>
+      <link>https://gigazine.net/news/20250513-softbank-openai-stargate-project/</link>
+      <description>&lt;![CDATA[2025年1月22日に、ソフトバンクグループがOpenAIのAIインフラストラクチャー構築に4年間で5000億ドル(約74兆円)を投資するプロジェクト「Stargate Project(Stargate)」を発表しました。しかし、ドナルド・トランプ大統領が発表した関税政策などの影響を受けてプロジェクトが停滞していることが報じられています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250513&amp;#45;softbank&amp;#45;openai&amp;#45;stargate&amp;#45;project/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 13 May 2025 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>JPEG画像のデコードを50倍高速化できるAMDの「rocJPEG」はAI学習の高速化などに威力を発揮</title>
+      <link>https://gigazine.net/news/20250513-amd-rocjpeg/</link>
+      <description>&lt;![CDATA[データセットのサイズ増大や、画像キャプチャ技術の改善、ビジュアルデータから多くの情報を抽出する能力の向上、および入力データとして画像を含む大規模言語モデルへの移行などによって、ワークロードを適切に実行するためには効率的な画像変換と準備が不可欠になっています。AMDの「rocJPEG」はROCmプラットフォームとAMD Instinct GPUを使用して、4k画像のデコード速度が最大50倍高速になるとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250513&amp;#45;amd&amp;#45;rocjpeg/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 13 May 2025 12:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Edgeが登場、5.8mmの薄さ・200MPカメラ・GoogleのAI「Gemini」の最新機能利用可能</title>
+      <link>https://gigazine.net/news/20250513-galaxy-s25-edge-spec/</link>
+      <description>&lt;![CDATA[2025年5月13日、Samsungが「Galaxy S25 Edge」の全仕様を発表しました。5.8mmの薄さ、163gという軽さが特徴のスリムなスマートフォンです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250513&amp;#45;galaxy&amp;#45;s25&amp;#45;edge&amp;#45;spec/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 13 May 2025 12:17:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
