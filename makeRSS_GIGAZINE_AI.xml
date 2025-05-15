@@ -13570,5 +13570,11 @@
       <description>&lt;![CDATA[画像生成AI「Stable Diffusion」の開発で知られるAI開発企業のStability AIが、スマートフォンでローカル動作する音楽生成AI「Stable Audio Open Small」を公開しました。Stable Audio Open SmallはArmと協力して開発されており、ArmアーキテクチャのCPUを搭載したスマートフォンで最大11秒の音楽を8秒未満で生成できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250515&amp;#45;stable&amp;#45;audio&amp;#45;open&amp;#45;small/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 15 May 2025 12:57:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Metaが1億件以上の分子構造データを含む大規模量子化学データセット「OMol25」とAIモデル「Universal Model for Atoms(UMA)」をリリース</title>
+      <link>https://gigazine.net/news/20250515-meta-fair-omol25-uma/</link>
+      <description>&lt;![CDATA[MetaのFAIR(Fundamental AI Research)チームと複数の研究機関による共同研究チームが、非常に大規模かつ高精度な量子化学データセット「Open Molecules 2025(OMol25)」と、それを基に学習したAIモデル「Universal Model for Atoms(UMA)」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250515&amp;#45;meta&amp;#45;fair&amp;#45;omol25&amp;#45;uma/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 15 May 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
