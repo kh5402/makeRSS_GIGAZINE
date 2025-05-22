@@ -13738,5 +13738,23 @@
       <description>&lt;![CDATA[Googleがスマートフォン向けの最適化技術を取り込んだオープンソースAIモデル「Gemma 3n」の早期プレビュー版を公開しました。すでにAndroidスマートフォンで簡単に試す方法が用意されていたので、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250521&amp;#45;google&amp;#45;gemma&amp;#45;3n/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 21 May 2025 15:29:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Mistral AIがローカル環境で動作する小型で高性能なエージェント型コーディングAI「Devstral」を発表</title>
+      <link>https://gigazine.net/news/20250522-mistral-ai-all-hands-ai-devstral/</link>
+      <description>&lt;![CDATA[フランスのAIスタートアップであるMistral AIと同じくAIスタートアップのAll Hands AIが共同で、ソフトウェア開発向けに構築されたエージェント型のオープン言語モデル「Devstral」をリリースしました。PCでローカル動作するほど軽量で、GPT-4.1-miniやClaude 3.5 Haikuと比肩する性能を持っているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250522&amp;#45;mistral&amp;#45;ai&amp;#45;all&amp;#45;hands&amp;#45;ai&amp;#45;devstral/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 11:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIのエージェント構築用API「Responses API」がMCPに対応し他のツールとの連携が容易に＆Responses APIで画像生成機能も利用可能に</title>
+      <link>https://gigazine.net/news/20250522-openai-responses-api-mcp/</link>
+      <description>&lt;![CDATA[OpenAIの「Responses API」は「ウェブ検索」「ファイル検索」「コンピューターの操作」などの機能を備えたAPIで、OpenAIのAIモデルを用いたAIエージェントの作成に適しています。そんなResponses APIがツール間のデータ連携方法を定めるプロトコル「Model Context Protocol(MCP)」に対応し、API経由でOpenAI以外のサービスにアクセスできるようになりました。また、Responses APIで画像生成機能も使えるようになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250522&amp;#45;openai&amp;#45;responses&amp;#45;api&amp;#45;mcp/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 10:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがAppleの元デザイナーであるジョニー・アイブのデバイススタートアップ「io」を買収、「世界がこれまでに見た中で最もクール」なAIハードウェアを開発中で2026年にも発売予定</title>
+      <link>https://gigazine.net/news/20250522-openai-buy-jony-ive-io/</link>
+      <description>&lt;![CDATA[iPhoneやiPodなど数々のApple製品のデザインを担当してきたジョニー・アイブ氏が立ち上げたAIハードウェア企業の「io」を、AI企業のOpenAIが買収すると発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250522&amp;#45;openai&amp;#45;buy&amp;#45;jony&amp;#45;ive&amp;#45;io/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 22 May 2025 10:32:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
