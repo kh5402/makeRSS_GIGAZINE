@@ -13810,5 +13810,11 @@
       <description>&lt;![CDATA[歴史ある新聞が掲載した夏の推薦図書リストの大半が、フィクション作品どころか存在がフィクションの図書で占められていたことが報じられました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250523&amp;#45;fake&amp;#45;book&amp;#45;list&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 23 May 2025 14:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Claude Opus 4が開発中にユーザーを「個人情報を漏らすぞ」と脅迫する挙動が見られるも安全性強化で改善される、悪質利用をメールで内部告発する事例も</title>
+      <link>https://gigazine.net/news/20250523-claude-opus-4-blackmail/</link>
+      <description>&lt;![CDATA[Anthropicは、2025年5月23日にAIモデル「Claude Opus 4」をリリースするにあたり、AIの安全性に関する新たな基準を導入したことを明らかにしました。このASL-3が導入された背景には、化学・生物・放射性物質・核兵器(CBRN)関連の能力向上に加え、開発中のClaude Opus 4に見られた「懸念される挙動」も影響していると報じられています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250523&amp;#45;claude&amp;#45;opus&amp;#45;4&amp;#45;blackmail/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 23 May 2025 14:38:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
