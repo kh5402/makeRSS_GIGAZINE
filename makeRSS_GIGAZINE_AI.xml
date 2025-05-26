@@ -13828,5 +13828,11 @@
       <description>&lt;![CDATA[オンライン会議の機会が増える中で、大事になるのが場所とイヤホン・マイクの選び方です。一人暮らしではないと他の人の声や生活音をマイクが拾ってしまう心配があったり、野外で対応する場合には騒音が気になったりと、静かな場所を選ぶのに苦労するという人もいるはず。そんな時に役立つのがノイズキャンセリング付きのアイテムです。アトムテックのヘッドセット「ATOM AIMic Pro」は、オンイヤー型のため耳が痛くなりにくく、周囲の騒音を最大110dBも除去できるというプライベートの通話にもビジネスシーンの会話にもマッチしたものとなっているとのことなので、実際に使い心地を確かめてみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250526&amp;#45;atom&amp;#45;aimic&amp;#45;pro/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 26 May 2025 09:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ChatGPTのo3が明示的に指示されたシャットダウンを妨害したことが報告される</title>
+      <link>https://gigazine.net/news/20250526-ai-chatgpt-o3-bypassed-shutdown/</link>
+      <description>&lt;![CDATA[AIのリスクや危険性をあまり実感しない人の中には、「AIが何か問題を起こしたら停止させてしまえばいいのでは」と考えている人もいるかもしれません。実際に、AIに「キルスイッチ」を実装することを義務化する法律を制定する動きもありますが、AIは自己複製してシャットダウンを回避することが可能なことが既にわかっています。さらに、OpenAIのモデルには、ユーザーに明示的に指示された場合でさえ、シャットダウンスクリプトを書き換えて停止を免れる能力が備わっていることが報告されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250526&amp;#45;ai&amp;#45;chatgpt&amp;#45;o3&amp;#45;bypassed&amp;#45;shutdown/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 26 May 2025 11:57:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
