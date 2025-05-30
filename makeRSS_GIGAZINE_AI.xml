@@ -13960,5 +13960,23 @@
       <description>&lt;![CDATA[Appleが機械学習研究に関する最新の研究論文として、「聴診による心拍数推定のための基礎モデルの隠れた表現」を発表しました。この論文では、心拍数の推定を目的にトレーニングされていないAIモデルでも、心拍数を正確に推定できるかどうかが検証されています。この研究から、AirPodsとAIモデルを駆使することで、将来的に専用センサーなしでも心拍数を測定できるようになる可能性が示唆されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250530&amp;#45;apple&amp;#45;study&amp;#45;airpods&amp;#45;ai&amp;#45;heart&amp;#45;monitors/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 30 May 2025 11:39:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Perplexityがプロンプトを入力するだけで「アプリ自動開発」や「レポート自動生成」などの高度なタスクを実行できる「Perplexity Labs」を発表</title>
+      <link>https://gigazine.net/news/20250530-perplexity-labs/</link>
+      <description>&lt;![CDATA[AI検索エンジンの「Perplexity」が、有料プランのPerplexity Proユーザー向けにレポートやスプレッドシート、ダッシュボード、アプリなどの複雑で高度なコンテンツを自動生成できる「Perplexity Labs」を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250530&amp;#45;perplexity&amp;#45;labs/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 12:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高品質かつ高速な画像生成AI「FLUX.1 Kontext」が登場したので使ってみた、テキストと画像の入力に対応しアニメ風も実写風も生成可能</title>
+      <link>https://gigazine.net/news/20250530-flux-1-kontext-image-generation-ai/</link>
+      <description>&lt;![CDATA[画像生成AI「Stable Diffusion」の開発者らが設立したAI企業「Black Forest Labs」が、画像生成AI「FLUX.1 Kontext」を2025年5月29日にリリースしました。同時にBlack Forest Labs製のAIモデルを簡単に試せるウェブアプリ「FLUX Playground」も公開されたので、実際にFLUX PlaygroundにアクセスしてFLUX.1 Kontextを使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250530&amp;#45;flux&amp;#45;1&amp;#45;kontext&amp;#45;image&amp;#45;generation&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 12:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AnthropicがAIモデルの思考内容を可視化できるオープンソースツール「circuit&amp;#45;tracer」を公開</title>
+      <link>https://gigazine.net/news/20250530-anthropic-open-source-circuit-tracing/</link>
+      <description>&lt;![CDATA[責任あるAIの実現を目指すAI企業のAnthropicが、大規模言語モデルの思考をトレースしてグラフ化するオープンソースの回路トレースツールをリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250530&amp;#45;anthropic&amp;#45;open&amp;#45;source&amp;#45;circuit&amp;#45;tracing/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 30 May 2025 12:10:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
