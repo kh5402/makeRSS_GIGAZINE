@@ -14062,5 +14062,29 @@
       <description>&lt;![CDATA[ChatGPTやGeminiなど、ユーザーが気軽に使えるチャットボットはすべて「LLM(大規模言語モデル)」という技術に基づいて構築されています。とても滑らかで自然な文章を生成することができるLLMが実際にはどのように動いているのかについて、アニメーションを用いて難解なトピックをわかりやすく解説するYouTubeチャンネル「3Blue1Brown」が動画にしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250603&amp;#45;llm&amp;#45;explain/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 03 Jun 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国製高性能AIモデル「DeepSeek&amp;#45;R1&amp;#45;0528」はGoogleのAI「Gemini」を使用して蒸留した可能性ありとの臆測が飛び交う</title>
+      <link>https://gigazine.net/news/20250604-deepseek-r1-gemini-distillation/</link>
+      <description>&lt;![CDATA[AIモデルの開発現場では、大規模なモデルを用いて小規模なモデルをトレーニングする「蒸留」という手法が注目を集めています。この蒸留に関連して「中国企業のDeepSeekが2025年5月に発表したAIモデル『DeepSeek-R1-0528』がGoogleのGeminiで蒸留されている」という指摘が話題になっています。これは2025年1月に「DeepSeekはOpenAIのデータを蒸留している」という疑惑が浮上したことに続くものです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250604&amp;#45;deepseek&amp;#45;r1&amp;#45;gemini&amp;#45;distillation/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ついにAndroid版Photoshopのベータ版が登場、無料でAIによる画像生成やレイヤー編集を利用可能</title>
+      <link>https://gigazine.net/news/20250604-adobe-photoshop-android/</link>
+      <description>&lt;![CDATA[2025年6月3日(火)に、Adobeが画像編集アプリ「Photoshop」のAndroid版をリリースしました。記事作成時点ではべータ版の扱いで、無料でレイヤーを用いた画像編集機能やAIによる画像生成機能を利用できます。すでに日本でもダウンロード可能だったので実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250604&amp;#45;adobe&amp;#45;photoshop&amp;#45;android/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 11:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>破産したAI企業が提供していたコーディングAIが実は700人のエンジニアによる人力サービスだったと判明</title>
+      <link>https://gigazine.net/news/20250604-builder-ai-business/</link>
+      <description>&lt;![CDATA[Microsoftの支援を受けた革新的なAIスタートアップとしてもてはやされたAI企業のBuilder.aiは、ソースコードを書かずに開発できる「ノーコード開発プラットフォーム」を提供していましたが、このサービスが実はAIではなくインドのエンジニア700人による人海戦術で成り立っていたことが判明し、倒産に追い込まれたことが報道されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250604&amp;#45;builder&amp;#45;ai&amp;#45;business/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 10:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIモデル・Claudeが人間による監修の下で執筆したブログをAnthropicが公開中</title>
+      <link>https://gigazine.net/news/20250604-anthropic-claude-explains/</link>
+      <description>&lt;![CDATA[大規模言語モデルのClaudeを開発するAnthropicが、「Claude Explains」というページを公開していると報じられています。このページはClaudeによって生成されたもので、Claudeの様々なユースケースに関連する技術的なトピックをまとめたブログとなっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250604&amp;#45;anthropic&amp;#45;claude&amp;#45;explains/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 04 Jun 2025 10:48:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
