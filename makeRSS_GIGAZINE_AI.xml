@@ -14104,5 +14104,29 @@
       <description>&lt;![CDATA[GoogleのGeminiやChatGPTのOpenAI、OpenAIの元メンバーが設立したAnthropicのClaude、突如登場してAIの開発に対する業界の見方を大きく変えた中国のDeepSeekなど、さまざまなAIモデルが性能のアップデートを繰り返して覇権争いを続けています。Gemini、OpenAI、Claude、DeepSeekのどれが優れているのか、テクノロジー系メディアのTom's Guideが検証結果をまとめています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250605&amp;#45;ai&amp;#45;versions/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 05 Jun 2025 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIインフラのトレーニング性能を測定する「MLPerf Training v5.0」の結果が公開される、NVIDIAは前世代から2倍高速化＆AMDは一部のテストでNVIDIAを上回る</title>
+      <link>https://gigazine.net/news/20250605-mlperf-training-v5/</link>
+      <description>&lt;![CDATA[AIインフラの性能測定結果をまとめている業界団体のMLCommonsが、AIインフラストラクチャーのトレーニング性能を測定するベンチマーク「MLPerf Training v5.0」の測定結果を2025年6月4日(水)に公開しました。AIチップを開発するNVIDIAとAMDは自社製チップを搭載するAIインフラストラクチャーの優秀さをアピールしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250605&amp;#45;mlperf&amp;#45;training&amp;#45;v5/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI生成動画に「心臓の鼓動」が反映されるようになりディープフェイクの検出が一層困難に</title>
+      <link>https://gigazine.net/news/20250605-deepfake-ai-heartbeat/</link>
+      <description>&lt;![CDATA[Googleが人の声も付けられる動画生成AI「Veo 3」を発表するなど動画に関連するAI技術は日々進歩しており、人の目ではもはやAI製と見抜けられないほど精度の高い動画が出回り始めています。研究者らはAI製の動画を検出するために、動画に映った人物の「心臓の鼓動」を手がかりにしようとしましたが、AI製の動画にも心臓の鼓動が反映されていることがわかったそうです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250605&amp;#45;deepfake&amp;#45;ai&amp;#45;heartbeat/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが削除された会話を含むすべてのChatGPTログを保存するよう命じた裁判所命令を非難</title>
+      <link>https://gigazine.net/news/20250605-court-openai-chatgpt-logs/</link>
+      <description>&lt;![CDATA[OpenAIのChatGPTを活用しているユーザーの中には、プライベートな会話をした後に、そのチャットログを削除したことがある人もいるかもしれません。削除された会話を含め、ChatGPTのログをすべて保存するよう指示した裁判所命令に、OpenAIが異議を申し立てました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250605&amp;#45;court&amp;#45;openai&amp;#45;chatgpt&amp;#45;logs/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 11:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>RedditがAnthropicを提訴、ライセンス契約なしにサイトのデータをAIモデルの学習に使用したと主張</title>
+      <link>https://gigazine.net/news/20250605-reddit-sued-anthropic/</link>
+      <description>&lt;![CDATA[オンライン掲示板サイトのRedditが、適切なライセンス契約なしにサイトのデータをAIモデルの学習に使用したとして、Anthropicを提訴しました。RedditはAnthropicがサイトのデータを商業目的で無許可で使用したことは違法であり、Redditの利用規約に違反したと主張しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250605&amp;#45;reddit&amp;#45;sued&amp;#45;anthropic/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 05 Jun 2025 11:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
