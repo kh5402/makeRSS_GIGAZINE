@@ -14182,5 +14182,29 @@
       <description>&lt;![CDATA[イングランドおよびウェールズの高等法院が、弁護士が業務においてAIを悪用することを防ぐため、より強力な措置を講じる必要があると語りました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250608&amp;#45;lawyers&amp;#45;face&amp;#45;severe&amp;#45;penalties&amp;#45;fake&amp;#45;ai&amp;#45;generated&amp;#45;citations/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sun, 08 Jun 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>パブリックドメインおよびオープンライセンスのコンテンツのみで構成された約8TBの巨大データセット「Common Pile v0.1」をAI研究機関・EleutherAIがリリース</title>
+      <link>https://gigazine.net/news/20250609-eleutherai-common-pile-v-0-1/</link>
+      <description>&lt;![CDATA[非営利のAI研究組織であるEleutherAIがトロント大学やHugging Faceなどと共同で、パブリックドメインおよびオープンライセンスのコンテンツのみで構成されるデータセット「Common Pile v0.1」を公開しました。このCommon Pile v0.1でトレーニングされたAIモデル「Comma v0.1-1T」「Comma v0.1-2T」は、「著作権で保護された無許可のデータを使用して開発されたモデルと同等の性能を発揮した」とのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250609&amp;#45;eleutherai&amp;#45;common&amp;#45;pile&amp;#45;v&amp;#45;0&amp;#45;1/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>科学的に正しい分子設計が可能な化学特化AI推論モデル「ether0」登場、既存の言語モデルに強化学習を施して人間や既存AIを上回る性能を発揮</title>
+      <link>https://gigazine.net/news/20250609-ether0-scientific-reasoning-ai-model-chemistry/</link>
+      <description>&lt;![CDATA[科学技術向けのAIエージェントを開発する非営利団体のFutureHouseが、化学タスクに特化したAI推論モデル「ether0」を発表しました。ether0は「Mistral-Small-24B-Instruct-2501(Mistral Small 3)」をベースに強化学習を施したモデルで、分子に関する質問に高精度な応答を返すことができます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250609&amp;#45;ether0&amp;#45;scientific&amp;#45;reasoning&amp;#45;ai&amp;#45;model&amp;#45;chemistry/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MetaがAI企業「Scale AI」に1.4兆円規模の投資を行う方向で協議、Metaの社外AI投資では最大規模</title>
+      <link>https://gigazine.net/news/20250609-meta-scale-ai/</link>
+      <description>&lt;![CDATA[MetaとAI企業のScale AIが、投資についての協議を行っていると経済紙のブルームバーグが報じました。Metaの投資額は100億ドル(約1兆4400億円)規模で、Metaが外部のAI企業に投資する事例としては最大規模となる見込みです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250609&amp;#45;meta&amp;#45;scale&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 11:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Microsoftが「ASUS ROG Xbox Ally」で携帯型ゲーミングPCに参入、AMDの次世代モバイル向けSoC「Ryzen Z2」シリーズを搭載</title>
+      <link>https://gigazine.net/news/20250609-rog-xbox-ally-microsoft-asus/</link>
+      <description>&lt;![CDATA[MicrosoftとASUSが、Windows搭載の携帯型ゲーミングPC「ROG Xbox Ally」を発表しました。初代ASUS ROG Allyに対するフィードバックを基に、Xbox Oneコントローラーと融合した本体が特徴で、AMDの携帯型ゲーミングPC向けチップ「Ryzen AI Z2」を搭載しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250609&amp;#45;rog&amp;#45;xbox&amp;#45;ally&amp;#45;microsoft&amp;#45;asus/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 10:49:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
