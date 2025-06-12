@@ -14380,5 +14380,11 @@
       <description>&lt;![CDATA[Microsoft  365 CopilotなどのAIシステムを導入する企業が増えていますが、新たにセキュリティ企業のAim Securityが「ユーザーにメールを送りつけるだけでCopilotを操って機密情報を送信させる」というゼロクリック攻撃が可能なことを実証しました。Aim Securityは発見した攻撃手法を「Echoleak」と名付けており、MCPに対応したAIシステムなどにも同様のリスクがある可能性を指摘しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250612&amp;#45;echoleak&amp;#45;microsoft&amp;#45;copilot&amp;#45;zero&amp;#45;click&amp;#45;attack/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 12 Jun 2025 13:52:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AmazonがAI広告動画の自動生成機能を提供開始、商品が現実世界で使用される様子を描写する無料AIツール</title>
+      <link>https://gigazine.net/news/20250612-amazon-ads-video-generator/</link>
+      <description>&lt;![CDATA[Amazonの広告管理ツール「Amazon Ads」に実装されていた動画生成ツール「Video Generator」の機能が強化され、正式提供が始まりました。広告主は1枚の商品画像からさまざまなAI動画を生成することができます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250612&amp;#45;amazon&amp;#45;ads&amp;#45;video&amp;#45;generator/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 12 Jun 2025 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
