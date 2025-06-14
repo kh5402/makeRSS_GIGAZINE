@@ -14428,5 +14428,11 @@
       <description>&lt;![CDATA[生成AIのパフォーマンスは日々向上していますが、より優れたAIを動かすためには、より多くのVRAM(ビデオランダムアクセスメモリ)が必要になります。例えば画像生成AIのStable Diffusion 3.5のうち、80億のパラメータを持つ最も強力な「Large」を実行する場合、基本モデルは18GBのVRAMを使用します。このVRAM使用量を削減して、より効率的なパフォーマンスで実行できる技術をNVIDIAが公開しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250613&amp;#45;nvidia&amp;#45;tensorrt/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 13 Jun 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NBAファイナルで放送されたAI生成広告の制作費は約29万円で従来の動画広告から95％のコスト削減を実現</title>
+      <link>https://gigazine.net/news/20250614-ai-generated-nba-finals-cost-2000/</link>
+      <description>&lt;![CDATA[現地時間の2025年6月11日に開催されたNBAファイナルの第3戦で、AIを用いて生成された動画広告が流れました。NBAファイナルの視聴者に大きなインパクトを与えたこの動画ですが、制作費はわずか2000ドル(約28万8000円)と従来の動画広告と比べて95％もコスト削減を実現しており、制作時間もたったの2日であることが明らかになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250614&amp;#45;ai&amp;#45;generated&amp;#45;nba&amp;#45;finals&amp;#45;cost&amp;#45;2000/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 14 Jun 2025 12:30:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
