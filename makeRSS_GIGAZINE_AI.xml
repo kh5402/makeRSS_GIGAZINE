@@ -14596,5 +14596,11 @@
       <description>&lt;![CDATA[「Gemini」に動画ファイルを直接アップロードできるようになりました。無料版ユーザーでも利用可能で、AIに動画を分析してもらうなどの使い方ができます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;google&amp;#45;gemini&amp;#45;movie&amp;#45;file&amp;#45;upload/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Appleの新しい文字起こしAPI「SpeechAnalyzer」がスピードテストでOpenAIのWhisperを圧倒</title>
+      <link>https://gigazine.net/news/20250619-apple-speech-analyzer/</link>
+      <description>&lt;![CDATA[Appleの年次開発者カンファレンス「WWDC25」で発表されたiOS 26やmacOS Tahoeには、Appleの新しい音声テキスト変換API「SpeechAnalyzer」が導入されています。Apple関連のニュースサイト・MacStoriesの編集者であるフィン・ボーヒーズ氏がこのSpeechAnalyzerをテストした結果、OpenAIの文字起こしAI・Whisperと比較してより高速に文字起こしができることが判明しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;apple&amp;#45;speech&amp;#45;analyzer/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
