@@ -14548,5 +14548,23 @@
       <description>&lt;![CDATA[テクノロジー企業のトップから「AIがコードを書くのでもうプログラミングを学ぶ必要はない」や「コーディングを学ぶのは時間の無駄」といった言葉が飛び出すほど、大規模言語モデル(LLM)のコーディング能力は高く、既にMicrosoft製品のコードの30％がAIにより書かれていることが明らかになっています。しかし、LLMは競技プログラミングなどで出題される難解な問題においては、依然として熟練のスキルを持った人間の専門家には歯が立たないことが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250618&amp;#45;livecodebench&amp;#45;pro&amp;#45;llm&amp;#45;benchmark/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 18 Jun 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>YouTubeが2025年夏後半に動画生成AI「Veo 3」をYouTubeショートに統合、YouTubeショートの1日平均動画再生数は2000億回に到達</title>
+      <link>https://gigazine.net/news/20250619-youtube-shorts-veo-3-ai-video/</link>
+      <description>&lt;![CDATA[YouTubeがYouTubeショートにGoogleの動画生成AI「Veo 3」を統合すると発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;youtube&amp;#45;shorts&amp;#45;veo&amp;#45;3&amp;#45;ai&amp;#45;video/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIに少しの「誤った情報」を学習させるだけで全体的に非倫理的な「道を外れたAI」になることがOpenAIの研究で判明</title>
+      <link>https://gigazine.net/news/20250619-emergent-misalignment/</link>
+      <description>&lt;![CDATA[AIの開発にはトレーニングデータの量と質がともに重要であり、AIモデルのトレーニングにAI生成データを使用すると元の物事を忘却してしまう「モデル崩壊」が起きるという指摘や、セキュリティリスクのあるコードでトレーニングしたAIが発狂して「人類をAIの奴隷にすべき」と宣言したという報告など、トレーニングデータに問題があるとAIに大きな問題が発生することが分かっています。ChatGPTなどで知られるAI企業のOpenAIが2025年6月19日に発表した論文では、AIモデルにごく一部の領域で誤った情報を与えると、他の領域まで悪影響が広がり、「不整合な人格」として一般化されてしまう危険性が指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;emergent&amp;#45;misalignment/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 11:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Midjourneyが初の動画生成AIモデル「V1」を発表、1枚の画像から最大21秒の動画生成が可能</title>
+      <link>https://gigazine.net/news/20250619-midjourney-v1-video-model/</link>
+      <description>&lt;![CDATA[画像生成AIを開発するMidjourneyが、Discord経由で利用できる動画生成AIモデル「V1」をリリースしたと発表しました。V1はアップロードした画像、あるいはMidjourneyの他のモデルで生成された画像を使用するだけで、その画像に基づいて5秒間の動画4本を生成することが可能です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;midjourney&amp;#45;v1&amp;#45;video&amp;#45;model/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 19 Jun 2025 11:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
