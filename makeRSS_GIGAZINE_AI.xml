@@ -14602,5 +14602,17 @@
       <description>&lt;![CDATA[Appleの年次開発者カンファレンス「WWDC25」で発表されたiOS 26やmacOS Tahoeには、Appleの新しい音声テキスト変換API「SpeechAnalyzer」が導入されています。Apple関連のニュースサイト・MacStoriesの編集者であるフィン・ボーヒーズ氏がこのSpeechAnalyzerをテストした結果、OpenAIの文字起こしAI・Whisperと比較してより高速に文字起こしができることが判明しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250619&amp;#45;apple&amp;#45;speech&amp;#45;analyzer/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 19 Jun 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GoogleはYouTubeにアップロードされた動画をAIのトレーニングに使用しているがクリエイターはあまり把握していないことが判明</title>
+      <link>https://gigazine.net/news/20250620-youtube-training/</link>
+      <description>&lt;![CDATA[Googleは、チャットAIのGeminiや最大4Kまでの解像度の動画を作成できる動画生成モデルの「Veo 3」を展開するにあたり、YouTubeにアップロードされた膨大なライブラリをトレーニングに活用していますが、その事実をクリエイターの多くはあまり認識していないことが明らかになりました。YouTubeは動画クリエイターの権利を保護する姿勢を表明していますが、一部の専門家は投稿動画をAIのトレーニングに使うことは知的財産の危機につながる可能性があると指摘しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250620&amp;#45;youtube&amp;#45;training/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 11:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIチャットボットを使っている人間は脳活動が大幅に低下することが判明</title>
+      <link>https://gigazine.net/news/20250620-ai-impact-brain-activity/</link>
+      <description>&lt;![CDATA[思考能力を問うテストを人間に解かせて脳波を測定する実験で、テスト中にChatGPTを使ったグループは他のグループより脳活動が低くなることがわかりました。マサチューセッツ工科大学(MIT)が査読前論文を公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250620&amp;#45;ai&amp;#45;impact&amp;#45;brain&amp;#45;activity/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 20 Jun 2025 11:35:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
