@@ -14782,5 +14782,11 @@
       <description>&lt;![CDATA[「LM Studio」は、一般的な性能のPCでも気軽にLLMを動作させられるソフトウェアです。2025年6月25日にLM Studioのバージョン0.3.17が公開され、Model Context Protocol(MCP)がサポートされました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250626&amp;#45;lmstudio&amp;#45;mcp/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 26 Jun 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AndroidスマホでもiPhoneでもAIモデルをローカルで実行してチャットできる無料アプリ「Cactus Chat」レビュー</title>
+      <link>https://gigazine.net/news/20250626-cactus-chat-android-ios-ai-local/</link>
+      <description>&lt;![CDATA[ChatGPTやGeminiといった人気のチャットAIはサーバーで処理を実行していますが、「オフラインでもAIを使いたい」「自分のデータをサーバーにアップロードしたくない」といった需要に応えるべくPCやスマートフォンなどのデバイス上でチャットAIを動作させるための研究開発が進んでいます。「Cactus Chat」もスマートフォン上でチャットAIを動作させられるアプリの1つで、AndroidスマートフォンとiPhoneの両方に対応しています。どれくらいの速度でチャットAIを動作させられるのか気になったので、実際にPixel 9 ProとiPhone 16 Proで使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250626&amp;#45;cactus&amp;#45;chat&amp;#45;android&amp;#45;ios&amp;#45;ai&amp;#45;local/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 26 Jun 2025 20:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
