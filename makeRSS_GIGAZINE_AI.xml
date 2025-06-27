@@ -14794,5 +14794,29 @@
       <description>&lt;![CDATA[ボットによるオンラインサービスへのアクセスを防ぐための認証システムがCAPTCHAですが、高度なAIの登場により、ボットと人間を区別するためのCAPTCHAがAIに突破される事例が複数登場しています。そんなAIによるCAPTCHAの突破を防ぐための仕組みが登場しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250627&amp;#45;proof&amp;#45;of&amp;#45;human&amp;#45;ai&amp;#45;captcha/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 27 Jun 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIと会話するとちょっと前向きな思考になる</title>
+      <link>https://gigazine.net/news/20250627-ai-companionship/</link>
+      <description>&lt;![CDATA[責任あるAIの使用を企業理念としているAnthropicは、AIの安全や倫理についてさまざまな研究を公開しています。2025年6月27日にAnthropicが公開した調査結果では、AIが人々の感情体験や幸福感にどのような影響を与えるのかを分析しており、AIに感情的な相談やアドバイスを求める人の感情はAIとやりとりすることでポジティブになる傾向があると示されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250627&amp;#45;ai&amp;#45;companionship/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MetaがOpenAIの主要研究者を引き抜き、独自の推論モデル構築を加速</title>
+      <link>https://gigazine.net/news/20250627-meta-hire-key-openai-researcher/</link>
+      <description>&lt;![CDATA[FacebookやInstagramの運営元であるMetaは、独自のAIアプリ・Meta AIや大規模言語モデル(LLM)のLlamaなどを開発し、AI関連の開発に注力しています。そんなMetaが、競合のOpenAIから主要研究者を引き抜いていることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250627&amp;#45;meta&amp;#45;hire&amp;#45;key&amp;#45;openai&amp;#45;researcher/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 11:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高品質な画像編集AI「FLUX.1 Kontext [dev]」が登場、元の画像を保ったまま指示通りに加工できるオープンモデル</title>
+      <link>https://gigazine.net/news/20250627-flux-1-kontext-dev-image-edit-ai/</link>
+      <description>&lt;![CDATA[高品質な画像生成AIの開発企業として知られるBlack Forest Labsが、画像編集に特化したオープンウェイトモデル「FLUX.1 Kontext [dev]」を2025年6月26日(木)にリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250627&amp;#45;flux&amp;#45;1&amp;#45;kontext&amp;#45;dev&amp;#45;image&amp;#45;edit&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 10:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIの文字起こしAPIは音声データを2倍速か3倍速にすると安く使える</title>
+      <link>https://gigazine.net/news/20250627-openai-transcription-api/</link>
+      <description>&lt;![CDATA[OpenAIは多様なAI機能をAPIを介して展開しており、音声データを文字起こししてテキストデータとして出力するAPIも提供しています。この文字起こしAPIについて、ソフトウェアエンジニアのジョージ・マンディス氏が「音声データを2倍速か3倍速にすると、品質を損なうことなくコストを抑えられる」と報告しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250627&amp;#45;openai&amp;#45;transcription&amp;#45;api/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 27 Jun 2025 10:33:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
