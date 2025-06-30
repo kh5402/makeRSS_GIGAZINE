@@ -14866,5 +14866,41 @@
       <description>&lt;![CDATA[AIスタートアップのScale AIは、GoogleやMeta、OpenAI、xAIといった世界有数のテクノロジー企業を顧客に持ち、「AI時代のインフラ企業」として高く評価され、巨額の資金調達や戦略的パートナーシップを通じて急成長を遂げてきました。しかし2025年に入り、AI開発を支えるデータ提供企業として急成長してきたScale AIに、複数の深刻な問題が相次いで発覚し、同社の信用に大きな揺らぎが生じていると報じられています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;scale&amp;#45;ai&amp;#45;google&amp;#45;gemini&amp;#45;spam&amp;#45;problem/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 30 Jun 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>適切なライセンスを受けた素材でのみトレーニングされた動画生成AI「Marey」とは？</title>
+      <link>https://gigazine.net/news/20250630-asteria-marey/</link>
+      <description>&lt;![CDATA[生成AIによるコンテンツは、SNSや作品投稿サイトで見ない日がほとんどないほどあふれていますが、著作権の問題や従来のクリエイターの機会を奪う可能性など、商業作品に取り入れるには依然として多くの問題を抱えています。映画監督のブリン・ムーザー氏が立ち上げた製作会社「Asteria」は適切にライセンスされた素材のみで学習された「倫理的な生成AI」である「Marey」を構築しており、その特徴とそれでも存在している問題についてムーザー氏が語っています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;asteria&amp;#45;marey/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがChatGPTなどの推論処理にGoogleのTPUを使用開始したとの報道、NVIDIA以外のAI処理チップを使うのは初</title>
+      <link>https://gigazine.net/news/20250630-openai-google-tpu/</link>
+      <description>&lt;![CDATA[Googleが独自に開発した機械学習向けプロセッサ「TPU」を、OpenAIが使い始めているとロイターが報じました。Google Cloudを通じて利用し、推論のコスト削減を目指しているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;openai&amp;#45;google&amp;#45;tpu/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 11:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Baidu(百度)がマルチモーダルAIモデル「ERNIE 4.5」を予定通り2025年6月末でオープンソース化</title>
+      <link>https://gigazine.net/news/20250630-baidu-ernie-open-source/</link>
+      <description>&lt;![CDATA[中国のIT大手・Baidu(百度)がマルチモーダルAIモデルとして2025年3月に発表した「ERNIE 4.5」を、2025年6月30日(月)にオープンソース化します。オープンソース化は以前から予定されていたもので、AIの専門家からは「これは競争ではなく、価格に関する宣戦布告です」と、AI開発の形が変わっていく可能性が指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;baidu&amp;#45;ernie&amp;#45;open&amp;#45;source/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>デンマークがディープフェイク対策で国民に自身の身体・顔・声に対する権利を与えるよう著作権法を改正すると発表</title>
+      <link>https://gigazine.net/news/20250630-denmark-deepfakes-copyright/</link>
+      <description>&lt;![CDATA[2025年6月26日、デンマーク政府が著作権法を改正し、誰もが自分の身体・顔の特徴・声に対する権利を持てるようにすることで、AIなどを用いて生成された偽画像や偽映像を指すディープフェイクを取り締まる予定であると発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;denmark&amp;#45;deepfakes&amp;#45;copyright/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 11:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントに店舗経営を任せる実験結果をAnthropicが発表、はたしてAIに黒字経営は可能なのか？</title>
+      <link>https://gigazine.net/news/20250630-anthropic-claudius-project-vend/</link>
+      <description>&lt;![CDATA[AIチャットボットのClaudeを開発するAnthropicと、AIの安全性を専門とする企業であるAndon Labsが、Claude Sonnet 3.7のインスタンスにオフィスの自動販売機を約1カ月間経営させるという実験「Project Vend」を行った結果を公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;anthropic&amp;#45;claudius&amp;#45;project&amp;#45;vend/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 11:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Alibabaが画像生成AI「Qwen VLo」を発表、プログレッシブ生成手法を採用しテレビの走査線みたいに上から順に描画される</title>
+      <link>https://gigazine.net/news/20250630-alibaba-qwen-vlo-image-generation-ai-progressive/</link>
+      <description>&lt;![CDATA[AlibabaのAI開発チームであるQwenが画像生成AI「Qwen VLo」を2025年6月26日(木)に発表しました。Qwen VLoは画像内に含まれるコンテンツ理解力が高く、正確な画像編集が可能とのこと。また、プログレッシブ生成手法を採用しており、左上から順番に画像が生成されるのも大きな特徴です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250630&amp;#45;alibaba&amp;#45;qwen&amp;#45;vlo&amp;#45;image&amp;#45;generation&amp;#45;ai&amp;#45;progressive/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 30 Jun 2025 11:32:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
