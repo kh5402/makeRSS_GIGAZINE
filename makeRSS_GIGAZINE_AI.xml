@@ -14986,5 +14986,11 @@
       <description>&lt;![CDATA[OpenAIがGoogle製AIチップ「TPU」をAIの推論に採用するべく動き始めたことが2025年6月末に報じられましたが、新たにOpenAIが「現時点ではTPUを大規模に展開する計画はない」と表明しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250703&amp;#45;openai&amp;#45;google&amp;#45;tpu/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 03 Jul 2025 10:32:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI搭載イヤホンをハックしてDOOMを実行しOpenAI APIキーとチャット履歴を盗むことに成功したとの報告</title>
+      <link>https://gigazine.net/news/20250703-ikko-activebuds-vulnerability/</link>
+      <description>&lt;![CDATA[「世界初のAI搭載イヤホン」と宣伝されているIKKOの「Activebuds」を入手してハッキングしたところ、OpenAIのAPIキーと顧客データを盗み見れてしまったとの報告がありました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250703&amp;#45;ikko&amp;#45;activebuds&amp;#45;vulnerability/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
