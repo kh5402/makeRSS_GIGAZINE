@@ -14974,5 +14974,17 @@
       <description>&lt;![CDATA[Huaweiがパラメーター数720億の大規模言語モデル「Pangu Pro MoE 72B」を2025年6月30日(月)にリリースしました。Pangu Pro MoE 72BはHuaweiのAscendエコシステムを用いてトレーニングされており、パラメーター数1000億未満のモデルの中では最高峰の性能を備えているとのこと。また、HuaweiはAIモデルの開発に関係する複数の技術をオープンソース化しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250702&amp;#45;huawei&amp;#45;moge&amp;#45;pangu&amp;#45;pro&amp;#45;moe&amp;#45;72b/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 02 Jul 2025 23:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>VRAM容量の少ない安めのグラボでも画像生成AI「FLUX.1 Kontext [dev]」を動かせる省メモリ高速版をNVIDIAが開発、VRAM使用量を24GBから7GBまで削減し2.1倍高速動作</title>
+      <link>https://gigazine.net/news/20250703-nvidia-flux-1-kontext-vram-tensorrt/</link>
+      <description>&lt;![CDATA[「FLUX.1 Kontext [dev]」は自然言語で画像を編集可能な画像生成AIモデルで、2025年6月26日にリリースされました。このFLUX.1 Kontext [dev]にはNVIDIAと共同開発したNVIDIA製GPU最適化版が存在しており、基本モデルと比べてVRAM使用量を大幅に削減しつつ処理を高速化することに成功しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250703&amp;#45;nvidia&amp;#45;flux&amp;#45;1&amp;#45;kontext&amp;#45;vram&amp;#45;tensorrt/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが「Google製AIチップを採用する予定はまだない」と表明、初期段階のテストは実行中</title>
+      <link>https://gigazine.net/news/20250703-openai-google-tpu/</link>
+      <description>&lt;![CDATA[OpenAIがGoogle製AIチップ「TPU」をAIの推論に採用するべく動き始めたことが2025年6月末に報じられましたが、新たにOpenAIが「現時点ではTPUを大規模に展開する計画はない」と表明しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250703&amp;#45;openai&amp;#45;google&amp;#45;tpu/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 03 Jul 2025 10:32:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
