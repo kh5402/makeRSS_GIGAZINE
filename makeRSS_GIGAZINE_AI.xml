@@ -15004,5 +15004,23 @@
       <description>&lt;![CDATA[Googleの動画生成AIモデル「Veo 3」が、Googleの有料AIサービス「Google AI Pro」加入者向けにGeminiを通じてリリースされました。Veo 3の使用は1日あたり3本までで、最長8秒の音声付き動画を生成できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250704&amp;#45;google&amp;#45;veo&amp;#45;3&amp;#45;released&amp;#45;to&amp;#45;google&amp;#45;ai&amp;#45;pro/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 04 Jul 2025 10:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI搭載のヌード化アプリ「Clothoff」の知られざる詳細を内部告発者が暴露、運営は旧ソ連圏に関係している可能性</title>
+      <link>https://gigazine.net/news/20250704-clothoff-nudify/</link>
+      <description>&lt;![CDATA[実在の人物の画像から偽のヌード画像(フェイクヌード)を作ることができるアプリ「Clothoff」は、アメリカやスペインで男子生徒らが女子生徒のヌード画像を生成し共有するという事件が発生するなど、問題を引き起こしています。そんなClothoffの運営者はAIでCEOの顔を生成するなど匿名を守っていますが、社内情報にアクセスできたという元従業員が、Clothoffの体制やプロジェクトについて内部告発しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250704&amp;#45;clothoff&amp;#45;nudify/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIエージェントを余計なアプリのインストール不要でブラウザ上で直接実行可能にする「Wasm agents」をMozillaが公開、WebAssemblyを使ってブラウザ内でPythonベースのエージェントを高速実行</title>
+      <link>https://gigazine.net/news/20250704-wasm-agents/</link>
+      <description>&lt;![CDATA[ユーザーの指示に従ってコードを生成したりレストランの予約をしたりといったタスクを実行できる「AIエージェント」の利用が広がり始めていますが、AIエージェントをPCで使用するには複数のツールやフレームワークの依存関係を考慮する必要があります。こうした状況を改善してブラウザ単体でAIエージェントを実行できるようにする「Wasm agents」をMozillaが公開しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250704&amp;#45;wasm&amp;#45;agents/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>TIMEが「AI界で最も影響力のある人物」に挙げたダニエル・グロスがAIベンチャーのSafe SuperintelligenceからMetaへ移籍</title>
+      <link>https://gigazine.net/news/20250704-safe-superintelligence-ceo-daniel-gross-ilya-sutskever/</link>
+      <description>&lt;![CDATA[クラウドサービスを横断して検索できる検索エンジン「Greplin」(のち「Cue」)の創業者で、2024年6月に元OpenAIのイルヤ・サツキヴァー氏らとともにAIベンチャー「Safe Superintelligence(SSI)」を立ち上げたダニエル・グロス氏がMetaに移籍しました。これを受けて、サツキヴァー氏がSSIの新CEOに就任しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250704&amp;#45;safe&amp;#45;superintelligence&amp;#45;ceo&amp;#45;daniel&amp;#45;gross&amp;#45;ilya&amp;#45;sutskever/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:15:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
