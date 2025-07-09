@@ -15118,5 +15118,11 @@
       <description>&lt;![CDATA[AIのモデルやデータを共有するオープンソースプラットフォームのHugging Faceは、言語モデルの「Smol」の最新バージョンである「SmolLM3」を2025年7月8日に発表しました。SmolLM3は6言語の多言語対応および最大12万8000トークンの長文にも対応しており、ハイコンテキスト対応モデルとしては大幅に少ないパラメータ数で最先端レベルのパフォーマンスを実現しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250709&amp;#45;smollm3/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 09 Jul 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIのプロトコル「MCP」経由でSQLデータベース全体を漏洩させる可能性がある手法が発見される</title>
+      <link>https://gigazine.net/news/20250709-mcp-sql-leak/</link>
+      <description>&lt;![CDATA[生成AIモデルと他のツールをつなぐためのプロトコル「モデル・コンテキスト・プロトコル(MCP)」に脆弱(ぜいじゃく)性があり、アクセストークンなど機密性の高い情報が漏れてしまう可能性があることがわかりました。これは、モデルが悪意のある指示とそうでない指示を見分けられないために起こります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250709&amp;#45;mcp&amp;#45;sql&amp;#45;leak/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 09 Jul 2025 20:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
