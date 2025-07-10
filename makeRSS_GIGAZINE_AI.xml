@@ -15142,5 +15142,11 @@
       <description>&lt;![CDATA[AI検索サービスを展開するPerplexityがAI搭載ウェブブラウザ「Comet」を2025年7月10日(木)にリリースしました。ユーザーはCometにテキストや音声で指示して「メールを送信する」「コードを書く」といった作業を実行可能。PerplexityはCometを「Browse at the speed of thought(思考の速度でブラウジング)」というキャッチフレーズでアピールしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250710&amp;#45;perplexity&amp;#45;comet&amp;#45;web&amp;#45;browser/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 10 Jul 2025 10:37:00 +0900</pubDate>
     </item>
+    <item>
+      <title>論文の海賊版ライブラリ「Anna&amp;#8217;s Archive」の収録文献データをAIに入力できるMCPサーバー「Anna&amp;#8217;s Archive MCP Server」</title>
+      <link>https://gigazine.net/news/20250711-annas-archive-mcp-server/</link>
+      <description>&lt;![CDATA[論文の海賊版ライブラリサイトとして知られる「Sci-Hub」や「Library Genesis」の内容をミラーリングしていて「完全オープンな図書館」を名乗る「Anna's Archive」で、ドキュメントの検索やダウンロードを行うMCPサーバーおよびCLIツールを、セキュリティエンジニアのゲオルグ＝アンドレイ・ヨシフ氏が公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250711&amp;#45;annas&amp;#45;archive&amp;#45;mcp&amp;#45;server/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 11 Jul 2025 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
