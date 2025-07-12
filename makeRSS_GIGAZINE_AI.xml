@@ -15184,5 +15184,11 @@
       <description>&lt;![CDATA[生成AIの進化により人間の仕事がAIに置き換えられる事例が増えています。大手テクノロジー企業のMicrosoftでさえ、ソフトウェア製品のコードの30％がAIにより記述されていることを明かしています。しかし、すべてがいい方向に作用しているわけではないようで、2025年春に実施されたMETRの実験により、AIコーディングツールは人間の生産性を低下させていることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250711&amp;#45;ai&amp;#45;coding&amp;#45;tools&amp;#45;reduce&amp;#45;productivity/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 11 Jul 2025 22:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>スマホのAI処理性能を測定できるベンチマークアプリ「MLPerf Mobile」をMLCommonsがリリースしたので使ってみた</title>
+      <link>https://gigazine.net/news/20250712-mlperf-mobile/</link>
+      <description>&lt;![CDATA[AIインフラストラクチャーのベンチマーク結果を収集している業界団体のMLCommonsがAndroidスマートフォン向けのベンチマークアプリ「MLPerf Mobile」をGoogle Playで公開しました。これまでAPKファイルでしか配布されていなかったベンチマークアプリが簡単に入手できるようになったとのことなので、実際にインストールしてベンチマークを実行してみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250712&amp;#45;mlperf&amp;#45;mobile/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 12 Jul 2025 10:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
