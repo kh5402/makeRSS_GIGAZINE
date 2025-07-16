@@ -15334,5 +15334,11 @@
       <description>&lt;![CDATA[アメリカ政府は2022年に中国へのAIチップ輸出規制を命じており、大手半導体メーカーのNVIDIAは規制を回避して中国専用に処理能力を落とした新しいAIチップ「H20」を開発するなどの対応を迫られました。2025年4月にはH20の販売にもライセンスを要求され規制の手が伸びていましたが、NVIDIAのCEOがトランプ大統領やアメリカの政策立案者らと会談した結果、NVIDIAやAMDの中国向けチップがライセンス承認されたことを各社は発表しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;trump&amp;#45;chip&amp;#45;china/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 16 Jul 2025 12:35:00 +0900</pubDate>
     </item>
+    <item>
+      <title>DOGE職員がGitHubにxAI内部での使用を目的としたプライベートAPIキーを投稿、誰でもxAIのAIモデルに直接アクセスできるようになっていたことが発覚</title>
+      <link>https://gigazine.net/news/20250716-doge-denizen-marko-elez-leak-api-key-xai/</link>
+      <description>&lt;![CDATA[イーロン・マスク氏により主導された政府効率化省(DOGE)に務めている25歳のマルコ・エレズ氏は、社会保障局や財務省、司法省、国土安全保障省の機密データベースへのアクセスを許可されています。そんなエレズ氏が、マスク氏のAI企業であるxAIが開発した40以上の大規模言語モデル(LLM)に誰でも直接アクセスできるようになる秘密鍵をうっかり公開したことが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;doge&amp;#45;denizen&amp;#45;marko&amp;#45;elez&amp;#45;leak&amp;#45;api&amp;#45;key&amp;#45;xai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 14:39:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
