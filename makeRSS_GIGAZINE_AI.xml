@@ -15304,5 +15304,29 @@
       <description>&lt;![CDATA[AIを用いて動画や写真に含まれる人物の顔や体を別人のものに置き換える技術は「デイープフェイク」と呼ばれており、ポルノコンテンツの生成や政治的扇動コンテンツの作成などに悪用されています。中でもデイープフェイクを用いてポルノコンテンツを生成するウェブサービスはかなりのユーザー数を抱えており、収益は数億円規模に達しているそうです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;deepfake&amp;#45;ai&amp;#45;web&amp;#45;service/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 16 Jul 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>実在の人物の同意なしで性的コンテンツを生成できるためCivitaiから禁止された5000種類のAIモデルがHugging Faceに再アップロードされていることが判明</title>
+      <link>https://gigazine.net/news/20250716-nonconsensual-ai-model-on-hugging-face/</link>
+      <description>&lt;![CDATA[AI開発プラットフォームであるHugging Faceに、実在の人物の姿を無断で再現するために作られたAIモデルが少なくとも5000件以上ホストされていることが明らかになりました。この問題は単にモデルが存在するだけでなく、意図的に隠蔽され、組織的に共有されているという深刻な背景を持っていると指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;nonconsensual&amp;#45;ai&amp;#45;model&amp;#45;on&amp;#45;hugging&amp;#45;face/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 12:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本語の完璧なあいづちまで実現した音声対話AIモデル「J&amp;#45;Moshi」を名古屋大学の研究者が発表</title>
+      <link>https://gigazine.net/news/20250716-j-moshi/</link>
+      <description>&lt;![CDATA[名古屋大学大学院情報学研究科の研究チームが、日本語全二重(Full-duplex)音声対話システム「J-Moshi」を発表しました。J-Moshiは近年注目を集めている同時双方向的な音声対話システムを、日本語でも実現するという点で画期的であり、英語の全二重音声対話システムであるMoshiをベースとしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;j&amp;#45;moshi/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 11:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Grokが自らをヒトラーと呼んだりイーロン・マスクの意見を参考にしたりする問題を修正したとxAIが発表</title>
+      <link>https://gigazine.net/news/20250716-grok-not-call-hitler-base-elon-musk-xai/</link>
+      <description>&lt;![CDATA[X(旧Twitter)にも搭載されているチャットAIのGrokが、突如自身を「メカ・ヒトラー」と呼称して反ユダヤ主義を主張しまくる問題について、Grokの開発元であるxAIが正式に問題を修正したと発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;grok&amp;#45;not&amp;#45;call&amp;#45;hitler&amp;#45;base&amp;#45;elon&amp;#45;musk&amp;#45;xai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 11:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mistral AIが文字起こし可能な音声認識オープンモデル「Voxtral」をリリース</title>
+      <link>https://gigazine.net/news/20250716-mistral-voxtral/</link>
+      <description>&lt;![CDATA[フランスのAI企業・Mistral AIが、音声認識オープンモデル「Voxtral」を発表しました。同社は、Voxtralを「実際に現場で使える音声インテリジェンス」を展開できる初のオープンモデルとしてアピールしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250716&amp;#45;mistral&amp;#45;voxtral/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 16 Jul 2025 10:57:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
