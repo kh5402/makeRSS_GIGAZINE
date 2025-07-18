@@ -15418,5 +15418,11 @@
       <description>&lt;![CDATA[「Amazing Hand project」は、AI開発プラットフォームで知られるHugging Faceが2025年4月に買収したヒューマノイドロボットのスタートアップ企業であるPollen Roboticsによるオープンソースのロボットハンドに関するプロジェクトで、従来のものより価格を大きく抑えつつ、人間の手らしい動きの再現が可能です。Amazing HandについてHugging Faceで詳細が解説されているほか、GitHubでソースコードが公開されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250718&amp;#45;amazing&amp;#45;hand/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 18 Jul 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AnthropicがClaude Codeの使用制限をユーザーに通知なしで勝手に厳しくしたと騒ぎに</title>
+      <link>https://gigazine.net/news/20250718-anthropic-claude-code-limits/</link>
+      <description>&lt;![CDATA[ターミナルで動作するAnthropicの対話型AIコーディングツール「Claude Code」で、使用制限が事前の通知なく厳しくなっているという報告が上がっています。この問題は2025年7月14日(月)頃から起こっており、月額100ドル(約1万5000円)以上のサブスクリプションプランである「Claude Max」ユーザーに集中しているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250718&amp;#45;anthropic&amp;#45;claude&amp;#45;code&amp;#45;limits/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 18 Jul 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
