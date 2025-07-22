@@ -15448,5 +15448,23 @@
       <description>&lt;![CDATA[オフラインで動作するmacOS向けの音楽プレーヤー「Petrichor」が、MITライセンスの下でオープンソースソフトとして開発され、GitHubで公開されています。PetrichorはMP3、M4A、WAV、AAC、AIFF、FLACなどのファイル形式をサポートし、音楽フォルダをマッピングしてライブラリを参照できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250721&amp;#45;petrichor/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 21 Jul 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ChatGPTは毎日25億件以上の入力を処理していることが判明</title>
+      <link>https://gigazine.net/news/20250722-chatgpt-prompts/</link>
+      <description>&lt;![CDATA[OpenAIのAIチャットサービス「ChatGPT」のユーザー数は増加し続けており、サービス開始から約1年後の2023年2月には月間アクティブユーザーが1億人に到達、2024年8月には週間アクティブユーザーが2億人を突破、2025年2月には週間アクティブユーザー数が4億人を超えたと報道されました。一方で、どれだけの会話がChatGPTで行われているかという最新のデータは公開されていませんでしたが、ビックテックとのつながりが強いメディアのAxiosがOpenAIから得たという情報で、ChatGPTが1日当たり25億件以上の入力を処理していることが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250722&amp;#45;chatgpt&amp;#45;prompts/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 11:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleの強化版Geminiが数学オリンピックで金メダルを取る性能に到達、自然言語で動作し人間と同じ制限時間で解答を導き出す</title>
+      <link>https://gigazine.net/news/20250722-google-gemini-mathematical-olympiad-gold-medal/</link>
+      <description>&lt;![CDATA[Googleが「Gemini Deep Think」の強化版で国際数学オリンピックに挑戦し、金メダル相当のスコアを達成したことを日本時間の2025年7月22日に発表しました。当該AIはテスターによるテスト期間を経てGoogle AI Ultraの加入者向けに提供される予定です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250722&amp;#45;google&amp;#45;gemini&amp;#45;mathematical&amp;#45;olympiad&amp;#45;gold&amp;#45;medal/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 11:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIの「実験的推論モデル」が数学オリンピックで金メダル相当のスコアを達成、GPT&amp;#45;5は近日中にリリース予定で「実験的推論モデル」はまだ先</title>
+      <link>https://gigazine.net/news/20250722-openai-mathematical-olympiad-gold-medal/</link>
+      <description>&lt;![CDATA[OpenAIが自社の開発する「実験的推論モデル(experimental reasoning LLM)」を用いて国際数学オリンピックに挑戦し、金メダル相当のスコアを達成したことを発表しました。同時に、GPT-5を近日中にリリース予定であることも明言されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250722&amp;#45;openai&amp;#45;mathematical&amp;#45;olympiad&amp;#45;gold&amp;#45;medal/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 22 Jul 2025 11:03:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
