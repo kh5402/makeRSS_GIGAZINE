@@ -15526,5 +15526,11 @@
       <description>&lt;![CDATA[近年はAIを科学研究に応用しようとする試みが進行しており、Googleが科学者向けAIアシスタント「AI co-scientist」を発表したり、科学研究を自動化するエージェントシステム「Robin」によって新しい科学的知見を得ることに成功したりしています。物理学の分野でもAIが強力なツールになりつつあるとして、どのようにAIが活用されているのかを科学系ニュースサイトのQuanta Magazineがまとめています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250724&amp;#45;ai&amp;#45;physics&amp;#45;experiments&amp;#45;work/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 24 Jul 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>月締めの会計業務をAIモデルにやらせてみるベンチマーク「AccountingBench」の結果とは？</title>
+      <link>https://gigazine.net/news/20250724-accountingbench/</link>
+      <description>&lt;![CDATA[会計ソフトウェア開発企業であるPenroseの「AccountingBench」は、大規模言語モデルが実際のビジネス環境で「月次決算」という長期間にわたる複雑なタスクをどの程度正確に処理できるかを評価するために設計されたベンチマークです。このベンチマークの最大の特徴は、従来の一問一答形式のテストとは異なり、一つのアクションが後続のタスクに永続的な影響を与え、誤差が時間と共に蓄積していく現実の業務を再現している点にあります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250724&amp;#45;accountingbench/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 08:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
