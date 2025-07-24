@@ -15556,5 +15556,11 @@
       <description>&lt;![CDATA[GoogleのAIアシスタント「Gemini」に動画生成AI「Veo 2」を利用した動画生成機能が追加されたのに続いて、YouTubeとGoogleフォトにも「Veo 2」を利用した「写真から動画への変換機能」が搭載されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250724&amp;#45;google&amp;#45;photos&amp;#45;photo&amp;#45;to&amp;#45;video&amp;#45;remix/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 24 Jul 2025 12:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Appleが精度と効率の両方を高水準でこなす独自の視覚言語モデル「FastVLM」を発表、オンデバイスでのリアルタイムビジュアルクエリ処理に最適</title>
+      <link>https://gigazine.net/news/20250724-apple-fastvlm-efficient-vision-language-models/</link>
+      <description>&lt;![CDATA[Appleが独自の視覚言語モデル(VLM)となる「FastVLM」を発表しました。従来のVLMは精度が高くなると効率性が低下するという問題を抱えていたのですが、FastVLMは高い精度を保ちながら効率の面でも優れた性能を発揮しており、オンデバイスでのリアルタイムビジュアルクエリ処理に適したAIモデルになっているとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250724&amp;#45;apple&amp;#45;fastvlm&amp;#45;efficient&amp;#45;vision&amp;#45;language&amp;#45;models/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 24 Jul 2025 14:42:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
