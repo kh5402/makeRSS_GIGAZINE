@@ -15616,5 +15616,23 @@
       <description>&lt;![CDATA[AIモデルを実行するには十分な容量のVRAMを備えたグラフィックボードやAI処理チップなどが必要です。無料で使えるウェブアプリ「LLM Inference: VRAM ＆ Performance Calculator」には各種デバイスのVRAM容量やAIモデルのVRAM使用量が登録されており、「自分の環境でAIを動かせるか」や「任意のAIモデルを実行するにはどんな環境を用意すればいいのか」をサクッと計算できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250728&amp;#45;ai&amp;#45;vram&amp;#45;calculator/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 28 Jul 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>RTX 5090をAI処理向けに魔改造する中国業者の存在が明るみに、禁輸品のはずのRTX 5090を大量入手しGPUを取り出して専用ボードに移植</title>
+      <link>https://gigazine.net/news/20250728-nvidia-geforce-rtx-5090-ai-makeover-china/</link>
+      <description>&lt;![CDATA[アメリカの輸出規制によって中国ではAI向けの高性能半導体が入手困難になっています。そんな中国にNVIDIAの一般向けフラッグシップグラフィックボード「GeForce RTX 5090」をAI向けに魔改造している業者が存在することが明らかになりました。動画サイトのBilibiliに投稿された映像には、輸出規制対象であるはずのGeForce RTX 5090からGPUダイを取り出してカスタム基板に取り付けるまでの一部始終が映っています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250728&amp;#45;nvidia&amp;#45;geforce&amp;#45;rtx&amp;#45;5090&amp;#45;ai&amp;#45;makeover&amp;#45;china/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 12:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>激安87万円のAI搭載ヒト型ロボット「Unitree R1」を中国企業が発表、側転も逆立ち歩きも回し蹴りも可能</title>
+      <link>https://gigazine.net/news/20250728-unitree-r1-humanoid-robot/</link>
+      <description>&lt;![CDATA[中国のロボット企業であるUnitree Roboticsが5900ドル(約87万円)の激安ロボット「Unitree R1」を発表しました。Unitree R1は25kgの軽量ボディに各種センサーやモーターを詰め込んでおり、歩いたり側転したりといった人間っぽい動作が可能です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250728&amp;#45;unitree&amp;#45;r1&amp;#45;humanoid&amp;#45;robot/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 12:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>オープンソースのAIモデル「Qwen3&amp;#45;235B&amp;#45;A22B&amp;#45;Thinking&amp;#45;2507」が公開され主要ベンチマークでOpenAIやGoogleのAIモデルを上回るパフォーマンスを叩き出す</title>
+      <link>https://gigazine.net/news/20250728-qwen3-235b-a22b-thinking-2507/</link>
+      <description>&lt;![CDATA[中国のAlibabaが開発する大規模言語モデル(LLM)の「Qwen3」ファミリーに、パラメーターサイズ2350億、アクティブパラメーター数220億の「Qwen3-235B-A22B-Thinking-2507」が追加されました。「Qwen3-235B-A22B-Thinking-2507」は「Qwen3-235B-A22B」の推論能力の質と深さの両方を向上させた、最も先進的な推論モデルです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250728&amp;#45;qwen3&amp;#45;235b&amp;#45;a22b&amp;#45;thinking&amp;#45;2507/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 28 Jul 2025 11:53:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
