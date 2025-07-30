@@ -15682,5 +15682,35 @@
       <description>&lt;![CDATA[2022年から開催されている動画生成AIのRunwayによるAI生成コンテンツの映画祭「AI Film Festival(AIFF)」の受賞作品のIMAX劇場での上映イベントが、2025年8月17日から20日に開催されることが決定しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250729&amp;#45;imax&amp;#45;runway&amp;#45;aiff/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 29 Jul 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>NVIDIAが中国製AIの出力を元に追加学習した高性能AIモデル「Llama Nemotron Super 49B v1.5」をリリース、比較的小規模ながら高い性能を発揮</title>
+      <link>https://gigazine.net/news/20250730-nvidia-llama-nemotron-super-v1-5/</link>
+      <description>&lt;![CDATA[NVIDIAが自社でトレーニングした推論モデル「Llama Nemotron Super 49B v1.5」を公開しました。Llama Nemotron Super 49B v1.5は中国製AIモデルの「Qwen3 235B」と「DeepSeek R1 671B 0528」の出力をもとに追加学習が行われており、49B(490億)という少ない比較的少ないパラメーター数ながら高い性能を備えていることを特徴としています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250730&amp;#45;nvidia&amp;#45;llama&amp;#45;nemotron&amp;#45;super&amp;#45;v1&amp;#45;5/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 12:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Photoshopに生成AIを使った新しい画像編集機能が追加、最大8メガピクセルまで高画質化する「生成アップスケール」機能や数クリックで自然な合成を可能にする「調和」機能など</title>
+      <link>https://gigazine.net/news/20250730-adobe-photoshop-ai-powered-features/</link>
+      <description>&lt;![CDATA[Adobeが画像編集ソフト・Photoshopの7月期アップデートを発表し、生成AIを使って画像を最大8メガピクセルまで高画質化できる「生成アップスケール」機能や画像オブジェクトを分析して自動調整する「調和」機能などの新機能を導入したと発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250730&amp;#45;adobe&amp;#45;photoshop&amp;#45;ai&amp;#45;powered&amp;#45;features/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 12:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>数学の問題文に猫の豆知識を混ぜるとAIのエラーが300％増加する</title>
+      <link>https://gigazine.net/news/20250730-cat-confuse-reasoning-llm/</link>
+      <description>&lt;![CDATA[近年の大規模言語モデル(LLM)は、複雑な問題を段階的に解き明かす「推論モデル」の登場により、数学やコーディングの分野で目覚ましい性能向上を遂げています。しかし、その頑健性、つまり予期せぬ入力への耐性については、まだ十分に解明されていません。スタンフォード大学やCollinear AIなどの研究者チームが、「数学の問題に全く無関係な猫の情報を挿入することでLLMが混乱する」という研究結果を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250730&amp;#45;cat&amp;#45;confuse&amp;#45;reasoning&amp;#45;llm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Google検索のAIモードが「画像やPDFファイルの内容に応じた検索」などに対応し超絶強化</title>
+      <link>https://gigazine.net/news/20250730-google-ai-mode-updates/</link>
+      <description>&lt;![CDATA[Googleが2025年2月からテストを開始している検索ページの「AIモード」について、新機能を追加したことを発表しています。アップデートは「新学期シーズンに合わせた」ものとのことで、画像やPDFについて質問したり、学習計画を立てたりすることが可能です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250730&amp;#45;google&amp;#45;ai&amp;#45;mode&amp;#45;updates/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 11:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChatGPTに宿題の手伝いや学習の補助が可能な「学習モード」が追加されたので使ってみた、答えをすぐ言わずにユーザーの成長を手助けしてくれる</title>
+      <link>https://gigazine.net/news/20250730-chatgpt-study-mode/</link>
+      <description>&lt;![CDATA[ChatGPTに「学習モード」が追加されました。学習モードは質問の答えを即座に提示するのではなく、答えを導くまでの手順を少しずつ提示してユーザーの成長を手助けしてくれるとのこと。無料プランでも使用可能だったので、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250730&amp;#45;chatgpt&amp;#45;study&amp;#45;mode/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 30 Jul 2025 10:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
