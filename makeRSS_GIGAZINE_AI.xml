@@ -15772,5 +15772,29 @@
       <description>&lt;![CDATA[記事作成時点では生成AIテクノロジーの発達により、テキストや画像を元に滑らかな動画を生成することも可能となっています。そんなAIツールのみを使って動画を制作し、オンライン上の総再生回数が1億回を突破したという動画制作スタジオ「Dor Brothers」について、大手日刊紙のニューヨーク・タイムズが報じています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250731&amp;#45;dor&amp;#45;video&amp;#45;studio&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 31 Jul 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国当局が「NVIDIAのGPUにバックドアが仕込まれている」と主張</title>
+      <link>https://gigazine.net/news/20250801-china-questions-nvidia-h20/</link>
+      <description>&lt;![CDATA[中国のサイバーセキュリティ規制当局がNVIDIAに対し、同社のAIチップに関するセキュリティ上の懸念を理由に説明を求めました。当局は、NVIDIAの中国市場向けチップ「H20」に、位置追跡や遠隔でのシャットダウンが可能な「バックドア」が存在し、「深刻なセキュリティ問題」があるとしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250801&amp;#45;china&amp;#45;questions&amp;#45;nvidia&amp;#45;h20/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 12:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChatGPTの会話内容をGoogleなどの検索エンジンでインデックス化する機能がテストされるも短期間で削除される</title>
+      <link>https://gigazine.net/news/20250801-chatgpt-queries/</link>
+      <description>&lt;![CDATA[ChatGPTではチャット内容をそのまま共有できる「Shared Links」という機能があります。Shared Linksのオプションとして、ユーザーが自ら設定したときのみチャット内容をGoogleなどの検索エンジンで検索可能にする機能をテストしていましたが、OpenAIは「ユーザーが意図しない情報を誤って共有する機会をあまりにも多く生み出した」として機能を削除したことを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250801&amp;#45;chatgpt&amp;#45;queries/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 12:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AppleはAI投資を「大幅に」拡大する計画だとティム・クックCEOが語る、Appleの2025年第3四半期売上高は14兆円超で前年同期比10％増</title>
+      <link>https://gigazine.net/news/20250801-apple-earning-2025q2/</link>
+      <description>&lt;![CDATA[Appleが2025年第3四半期(4～6月)の決算報告を2025年7月31日(木)に公開しました。それによると、売上高は940億ドル(約14兆円)で、前年から10％増加となりました。また、ティム・クックCEOは投資家への電話会議の中で、今後AppleはAIへの投資を大幅に拡大すると宣言しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250801&amp;#45;apple&amp;#45;earning&amp;#45;2025q2/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 11:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIっぽさから脱却した実写のような美麗画像をテキストから生成できる画像生成AI「FLUX.1 Krea [dev]」が登場</title>
+      <link>https://gigazine.net/news/20250801-flux-1-krea-dev/</link>
+      <description>&lt;![CDATA[画像生成AI「Stable Diffusion」のオリジナル開発陣が立ち上げたAI企業「Black Forest Labs」が、写真のようなリアルな画像をテキストから生成できる最先端のオープンウェイトモデル「FLUX.1 Krea [dev]」をリリースしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250801&amp;#45;flux&amp;#45;1&amp;#45;krea&amp;#45;dev/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 01 Aug 2025 10:59:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
