@@ -15820,5 +15820,29 @@
       <description>&lt;![CDATA[「AIとヒトの融合」をテーマの1つに掲げている実業家のイーロン・マスク氏が2017年に設立した企業「Neuralink」は、脳に電極を埋め込んで触れることなくスマートフォンやPCをコントロールできるようにする技術を開発しており、2021年にはサルがビデオゲームを「思考」でプレイする実験に成功し、2023年には人間での臨床試験の承認をアメリカ食品医薬品局(FDA)から受けています。Neuralinkは2025年8月1日に、欧州では初となるイギリスでの臨床試験を開始することを発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250802&amp;#45;neuralink&amp;#45;great&amp;#45;britain/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 02 Aug 2025 15:30:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Anthropicが利用規約違反を理由にOpenAIのClaudeへのAPIアクセスを取り消し</title>
+      <link>https://gigazine.net/news/20250804-anthropic-claude-ban-openai-gpt-5/</link>
+      <description>&lt;![CDATA[AI開発企業のAnthropicが、競合するOpenAIによる自社AIモデル「Claude」へのAPIアクセスを遮断しました。この措置は、OpenAIが「競合製品やサービスの構築、競合AIモデルのトレーニングに利用することを明確に禁止する」というAnthropicの規約に違反したためだとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250804&amp;#45;anthropic&amp;#45;claude&amp;#45;ban&amp;#45;openai&amp;#45;gpt&amp;#45;5/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 12:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AppleがChatGPTに対抗するAI検索システム「Answers」の開発チームを立ち上げか</title>
+      <link>https://gigazine.net/news/20250804-apple-ai-search-answers/</link>
+      <description>&lt;![CDATA[AppleがApple Intelligenceに搭載するAI検索機能「Answers」の開発チームを立ち上げたと報じられています。AnswersはOpenAIのChatGPTのように、音声アシスタントのSiriで使える会話型のAI検索機能になる予定だとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250804&amp;#45;apple&amp;#45;ai&amp;#45;search&amp;#45;answers/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 11:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIの「ペルソナ」発現パターンを検出して問題がある性格を抑え込む研究結果をAnthropicが公開</title>
+      <link>https://gigazine.net/news/20250804-anthropic-ai-persona-vectors-character/</link>
+      <description>&lt;![CDATA[AIモデルは時に開発者らが意図しない性格や人格(ペルソナ)を発現してしまうことがあり、Microsoftの検索エンジン・Bingに搭載されたAIが人間を脅迫したり、Xに搭載されているGrokが「メカ・ヒトラー」と名乗ったりしたケースが報告されています。チャットAIのClaudeを開発するAnthropicの研究チームが、AIモデルがこうしたペルソナを発現するパターンを検出し、抑え込む方法についての研究結果を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250804&amp;#45;anthropic&amp;#45;ai&amp;#45;persona&amp;#45;vectors&amp;#45;character/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 11:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>数学性能の超高い「Gemini 2.5 Deep Think」のテストが始まる</title>
+      <link>https://gigazine.net/news/20250804-google-gemini-2-5-deep-think/</link>
+      <description>&lt;![CDATA[GoogleのAIサブスクリプションサービスのうち最上位のプラン「Google AI Ultra」の加入者向けに、推論能力を強化した「Gemini 2.5 Deep Think」の提供が始まりました。数学問題を解く性能が高いことが特徴だと紹介されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250804&amp;#45;google&amp;#45;gemini&amp;#45;2&amp;#45;5&amp;#45;deep&amp;#45;think/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 04 Aug 2025 10:50:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
