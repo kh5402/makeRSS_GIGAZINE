@@ -15952,5 +15952,29 @@
       <description>&lt;![CDATA[2025年8月5日、OpenAIが重み(ウェイト)を公開したモデルの「gpt-oss」を発表しました。このモデルは誰でも無料でダウンロード可能な上、比較的軽量なので個人のPCでもローカル実行することが可能な点が特徴です。実際にgpt-ossをPCに導入してみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250806&amp;#45;gpt&amp;#45;oss&amp;#45;ollama/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 06 Aug 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>人間の支援なしでAIが悪意のあるソフトウェアを自律的にリバースエンジニアリングして識別できる「Project Ire」をMicrosoftが発表</title>
+      <link>https://gigazine.net/news/20250807-microsoft-project-ire/</link>
+      <description>&lt;![CDATA[専門ツールをAIが自律的に使用してソフトウェアをリバースエンジニアリングするシステム「Project Ire」をMicrosoftが発表しました。人間の支援なしに、ソフトウェアの動作とその危険性を可視化できるとされています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250807&amp;#45;microsoft&amp;#45;project&amp;#45;ire/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 12:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Google検索責任者が「AI機能の導入後も検索クリックの総量は安定している」と主張するも具体的なデータはなし</title>
+      <link>https://gigazine.net/news/20250807-google-denies-ai-killing-website-traffic/</link>
+      <description>&lt;![CDATA[Google検索には2024年5月から、ユーザーの入力内容に応じてウェブ上の情報をまとめた「AIによる概要」が表示されています。こうしたAI機能がウェブサイトへのトラフィックを減少させているという批判の声に対し、Googleの検索責任者であるリズ・リード氏が反論を行っています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250807&amp;#45;google&amp;#45;denies&amp;#45;ai&amp;#45;killing&amp;#45;website&amp;#45;traffic/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 12:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GoogleがコーディングアシスタントAIの「Jules」を正式リリース、無料プランは1日あたり15タスク</title>
+      <link>https://gigazine.net/news/20250807-ai-coding-agent-jules-public/</link>
+      <description>&lt;![CDATA[Googleが2024年12月に発表し、2025年5月にパブリックベータ版が公開されたコーディングアシスタントAIの「Jules」が、ついに一般公開されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250807&amp;#45;ai&amp;#45;coding&amp;#45;agent&amp;#45;jules&amp;#45;public/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 11:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleが日本の大学生に月額2900円の「Google AI Pro」を1年間無料で提供、さらにGeminiをカンニングではなく学習のお供にするべく「ガイド付き学習」モードを追加</title>
+      <link>https://gigazine.net/news/20250807-google-gemini-ai-for-students/</link>
+      <description>&lt;![CDATA[現地時間の2025年8月6日、Googleがアメリカ・日本・インドネシア・韓国・ブラジルの学生が学習にAIを最大限利用することができるように、「Google AI Pro」を1年間分無料で提供すると発表しました。これに合わせて、Googleは学生がAIを学習に利用する際に便利な機能を追加しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250807&amp;#45;google&amp;#45;gemini&amp;#45;ai&amp;#45;for&amp;#45;students/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 07 Aug 2025 10:42:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
