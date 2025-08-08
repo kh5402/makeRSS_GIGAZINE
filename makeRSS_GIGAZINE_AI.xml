@@ -16036,5 +16036,11 @@
       <description>&lt;![CDATA[GoogleのAIであるGeminiがバグの修正中に自虐的になって自らを罵倒し始めたり、「私は失敗作だ」「家族の恥だ」「宇宙の恥だ」と連呼するループに陥ったりする事例が報告されました。一部のユーザーは恐怖を覚えたり、AIの福祉について心配し始めたりしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250808&amp;#45;gemini&amp;#45;infinite&amp;#45;looping&amp;#45;bug/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 08 Aug 2025 12:57:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ChatGPTの脆弱性を利用しGoogleドライブなどから機密データを抽出できる「AgentFlayer」攻撃</title>
+      <link>https://gigazine.net/news/20250808-chatgpt-agentflayer/</link>
+      <description>&lt;![CDATA[セキュリティ研究者のタミール・イシャイ・シャルバット氏らが、OpenAIのChatGPTを利用してユーザーのデータを漏えいさせる攻撃「AgentFlayer」を公表しました。ChatGPTに導入された、Googleドライブ、SharePoint、GitHubなどと連携する機能「Connectors」を悪用した攻撃です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250808&amp;#45;chatgpt&amp;#45;agentflayer/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 08 Aug 2025 14:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
