@@ -16126,5 +16126,17 @@
       <description>&lt;![CDATA[近年はAIを用いたツールがさまざまな分野に導入されており、中でもがん腫瘍などの検出に用いられる医療用AIツールは、患者と医師の双方に利益をもたらすと有望視されています。ところが、医学誌のThe Lancet Gastroenterology and Hepatologyに掲載された新たな論文では、内視鏡検査に医療用AIツールを導入することで、経験豊富な医師のスキルがたった数カ月で低下してしまう可能性があると報告されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250813&amp;#45;ai&amp;#45;eroded&amp;#45;doctors&amp;#45;skills&amp;#45;colonoscopy/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 13 Aug 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>FFmpegに「OpenAIのWhisperを用いた文字起こし機能」が追加される予定</title>
+      <link>https://gigazine.net/news/20250814-ffmpeg-whisper-transcription/</link>
+      <description>&lt;![CDATA[マルチメディアツールの「FFmpeg」にOpenAIの文字起こしAI「Whisper」を用いた文字起こし機能が追加されることが明らかになりました。記事作成時点ではFFmpeg 8.0のリリースが準備中の段階で、文字起こし機能もFFmpeg 8.0に含まれる予定です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250814&amp;#45;ffmpeg&amp;#45;whisper&amp;#45;transcription/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 11:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イーロン・マスクとxAIを共同創業したエンジニアリングチームリーダーが退社</title>
+      <link>https://gigazine.net/news/20250814-co-founder-elon-musk-xai-departs/</link>
+      <description>&lt;![CDATA[xAIの共同創業者であるイゴール・バブシュキン氏が、同社を退社すると発表しました。バブシュキン氏はxAIのエンジニアリングチームを率い、創業からわずか数年で同社をシリコンバレー有数のAI企業に成長させることに貢献してきました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250814&amp;#45;co&amp;#45;founder&amp;#45;elon&amp;#45;musk&amp;#45;xai&amp;#45;departs/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 14 Aug 2025 11:07:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
