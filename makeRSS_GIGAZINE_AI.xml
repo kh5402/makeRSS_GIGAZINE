@@ -16156,5 +16156,23 @@
       <description>&lt;![CDATA[SNSには自分と同じ意見ばかりが目に付きやすくなるフィルターバブルや、同じ意見を持つ人同士で集まって思想が増幅されるエコーチェンバー現象などの問題があると指摘されています。こういった問題を解決するためにさまざまな介入戦略が提案されていますが、AIを用いてこれらの戦略をシミュレーションした新たな研究では、SNSのフィルターバブルやエコーチェンバー現象は修正不可能である可能性が示唆されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250815&amp;#45;social&amp;#45;media&amp;#45;cant&amp;#45;be&amp;#45;fixed/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 15 Aug 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Metaの「子どもとAIのちょっとエッチなチャット」を許可するかどうかを規定した文書が流出しMetaはポリシーを撤回</title>
+      <link>https://gigazine.net/news/20250815-meta-ai-chatbot-rules/</link>
+      <description>&lt;![CDATA[Metaから流出した内部文書に、子どもがAIを使う際の注意事項について詳細な具体例が記載されていたことが分かりました。AIが子どもに対して不適切だと思われる回答をした場合の記述が含まれていたことを指摘されたMetaは、ポリシーを見直したことを明らかにしました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250815&amp;#45;meta&amp;#45;ai&amp;#45;chatbot&amp;#45;rules/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Metaが視覚言語モデル「DINOv3」を発表、ラベルなし画像から自己教師学習してさまざまなタスクで高いパフォーマンスを発揮可能</title>
+      <link>https://gigazine.net/news/20250815-dinov3-model/</link>
+      <description>&lt;![CDATA[画像生成AIや画像を分析するためのAIをトレーニングするためには、ネコの画像に「ネコ」「歩いている」「しま模様」というようなラベルを手作業で大量につけたデータが必要です。しかし、Metaが発表した「DINOv3」というモデルは、ラベルなしの画像17億枚を使ってトレーニングされており、ラベルに縛られないさまざまなタスクを人間の介入なしに専門のモデル以上の性能でこなすことができます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250815&amp;#45;dinov3&amp;#45;model/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Googleがスマホなどの低スペックデバイスでも実行可能な小型高性能AIモデル「Gemma 3 270M」をリリース、省電力性能に優れ特定分野に特化したAIの基盤モデルとしても使える</title>
+      <link>https://gigazine.net/news/20250815-google-gemma-3-270m/</link>
+      <description>&lt;![CDATA[Googleがオープンモデル「Gemma 3 270M」を2025年8月14日(木)にリリースしました。Gemma 3 270Mは2億7000万パラメーターという比較的小型なモデルながら高い性能を備えています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250815&amp;#45;google&amp;#45;gemma&amp;#45;3&amp;#45;270m/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 15 Aug 2025 10:30:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
