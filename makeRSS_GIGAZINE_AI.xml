@@ -16222,5 +16222,11 @@
       <description>&lt;![CDATA[生成AIのパフォーマンスが急速に成長する中で、「いつの日か人間のクリエイターはAIに置き換えられてしまうのではないか」という懸念も強まっています。ファンタジー小説家でありAI分野の研究者でもあったマーク・ローレンス氏が、OpenAIの「GPT-5」で生成した超短編小説と経験豊富なプロ作家が書いた超短編小説を合計8編用意し、ブログの読者に「どれがAI生成だと思うか」を投票してもらうというテストの結果を発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250818&amp;#45;ai&amp;#45;vs&amp;#45;authors&amp;#45;short&amp;#45;stories/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 18 Aug 2025 21:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIでBlenderの3Dアセットを作成・編集するPythonコードを生成できる「LL3M」</title>
+      <link>https://gigazine.net/news/20250818-ll3m/</link>
+      <description>&lt;![CDATA[大規模言語モデル(LLM)を用い、3DCGソフトウェアのBlenderで3Dアセットを作成・編集することができるPythonコードを生成する「LL3M」が登場しました。LL3Mは「Large Language 3D Modelers(大規模言語3Dモデラ―)」の略です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250818&amp;#45;ll3m/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 18 Aug 2025 22:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
