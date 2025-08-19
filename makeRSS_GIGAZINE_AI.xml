@@ -16270,5 +16270,11 @@
       <description>&lt;![CDATA[動画の字幕をAIで自動文字起こしして作成し、そのまま編集したり翻訳したりすることも可能なオープンソースの字幕エディター「Subtitle Edit」が無料で公開されているので、実際に使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250819&amp;#45;subtitle&amp;#45;edit/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 19 Aug 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIコーディングアシスタントGitHub Copilotの開発者による書籍「LLMのプロンプトエンジニアリング」に登場するプロンプトエンジニアリングの図解がわかりやすい</title>
+      <link>https://gigazine.net/news/20250819-prompt-engineering-for-llms/</link>
+      <description>&lt;![CDATA[GitHubが提供しているAIコーディングアシスタントのGitHub Copilotを開発したジョン・ベリーマン氏が記した、大規模言語モデル(LLM)のポテンシャルを最大限活かすためのテクニックをまとめた書籍が「LLMのプロンプトエンジニアリング」です。この書籍に登場するプロンプトエンジニアリングの図解が非常にわかりやすいと、機械学習エンジニアのアレックス・ストリック・ファン・リンスホーテン氏が解説しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250819&amp;#45;prompt&amp;#45;engineering&amp;#45;for&amp;#45;llms/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 19 Aug 2025 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
