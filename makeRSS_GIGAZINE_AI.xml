@@ -16300,5 +16300,11 @@
       <description>&lt;![CDATA[Microsoftのチャットボット「Copilot」を使用したソフトウェアエンジニアが、「Copilotで監査ログを残さずファイルにアクセスすることに成功した」と報告しました。これは重大な問題だとしてエンジニアはMicrosoftに報告しましたが、Microsoftはこっそりと修正しただけで、ユーザーに通知すらしなかったと伝えられています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250820&amp;#45;microsoft&amp;#45;copilot&amp;#45;audit&amp;#45;log/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 20 Aug 2025 16:18:00 +0900</pubDate>
     </item>
+    <item>
+      <title>無料でローカル音声文字入力・リアルタイム文字起こし・音声ファイルからの文字起こしをAIモデルで可能にする「Whispering」</title>
+      <link>https://gigazine.net/news/20250820-whispering/</link>
+      <description>&lt;![CDATA[キーボードショートカットを押して話すだけで音声を文字起こしするオープンソースソフトウェアが「Whispering」です。ローカルで実行可能＆ローカルにデータが保存される点、文字起こしした文章がクリップボードにコピーされてすぐ貼り付けられるようになる点が特徴です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250820&amp;#45;whispering/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 20 Aug 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
