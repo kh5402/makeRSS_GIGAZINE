@@ -16402,5 +16402,17 @@
       <description>&lt;![CDATA[画像に一見しただけではわからない「隠された文字列」を埋め込み、被害者がこの画像を大規模言語モデルに読み込ませることで、AIエージェントに対するプロンプトインジェクション攻撃が発動するという攻撃手法が発見されました。この攻撃手法を作成して確認するためのツールも、GitHubで公開されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250825&amp;#45;weaponizing&amp;#45;image&amp;#45;scaling&amp;#45;ai&amp;#45;systems/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 25 Aug 2025 08:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>MetaがMidjourneyとパートナーシップを締結、画像・動画生成AIモデルを開発か</title>
+      <link>https://gigazine.net/news/20250825-meta-midjourney-partnership/</link>
+      <description>&lt;![CDATA[大規模言語モデルのLlamaなどを開発するMetaが、画像生成AIを開発・運営するMidjourneyと提携し、画像や動画を生成するAI技術のライセンス供与を受けることを発表しました。Metaの最高AI責任者であるアレクサンダー・ワン氏によると、Metaの研究チームはMidjourneyと協力し、同社の技術を将来のAIモデルや製品に活用していくとのことです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250825&amp;#45;meta&amp;#45;midjourney&amp;#45;partnership/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 11:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AppleはリニューアルされるSiriの基盤としてGoogleのGeminiを利用することを検討中</title>
+      <link>https://gigazine.net/news/20250825-apple-explores-google-gemini-revamped-siri/</link>
+      <description>&lt;![CDATA[Appleは独自の音声アシスタント「Siri」を刷新するため、GoogleのAIアシスタントであるGeminiを活用する方向で初期段階の協議を行っていることがBloombergの報道により明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250825&amp;#45;apple&amp;#45;explores&amp;#45;google&amp;#45;gemini&amp;#45;revamped&amp;#45;siri/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 10:57:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
