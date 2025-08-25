@@ -16420,5 +16420,11 @@
       <description>&lt;![CDATA[芸術作品は時間が経つにつれて劣化するため、作品を後世に残すためには、修復作業が必要です。しかし、芸術作品の修復失敗事件は多数発生しており、「素人修復家にアート修復を任せるべきではない」と訴えられることもあります。そんな中で、マサチューセッツ工科大学(MIT)で機械工学を専攻する大学院研究員が、芸術分野では素人にもかかわらず、AIを利用して絵画を修復する新しい方法を提案して美術界に衝撃を与えました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250825&amp;#45;art&amp;#45;restoration&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Mon, 25 Aug 2025 13:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>FFmpeg 8.0「Huffman」リリース、文字起こしAI「Whisper」やVulkanベースのコーデックへの正式対応など過去最大級のメジャーアップデート</title>
+      <link>https://gigazine.net/news/20250825-ffmpeg-8-0-huffman/</link>
+      <description>&lt;![CDATA[マルチメディアフレームワークであるFFmpegのバージョン8.0「Huffman」が2025年8月22日にリリースされました。このバージョンではオープンソースのAI音声認識モデルであるWhisperフィルターが新たに追加され、FFmpeg単体で自動音声認識が可能になり、ライブ字幕の生成や文字起こしといった機能が利用できるようになります。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250825&amp;#45;ffmpeg&amp;#45;8&amp;#45;0&amp;#45;huffman/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 25 Aug 2025 14:10:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
