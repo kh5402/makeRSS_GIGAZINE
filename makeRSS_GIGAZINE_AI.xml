@@ -16570,5 +16570,11 @@
       <description>&lt;![CDATA[AIは便利な一方で、あらゆる物事で頼り過ぎてしまったり、人間の重要な活動を奪ってしまったりと言った懸念から、規制が求められることがあります。一方で、規制よりも「どのように使いどのように評価するか」を学生教育に取り入れる試みや、禁止ではなく使い方を教えるべきと言う指摘など、AIの使い方を正しく学ぶことが重要だという意見もあります。データエンジニアのサイモン・スペーティ氏が、「AIをいつ使うべきかのガイダンス」と題して見識をまとめています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250830&amp;#45;guidance&amp;#45;use&amp;#45;ai/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 30 Aug 2025 17:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI生成か実写かわかる「C2PA」が自動的に撮影した写真へ埋め込まれるPixel 10でいろいろ確認してみたレビュー、どんな情報が残るのか＆どうすれば消えるのか</title>
+      <link>https://gigazine.net/news/20250830-google-pixel-10-c2pa/</link>
+      <description>&lt;![CDATA[画像生成AIの技術向上に伴って、実写と区別が付かないほどリアルなフェイク画像が作られるようになりました。「C2PA」は画像にコンテンツ認証情報を埋め込む技術で、「どのカメラで撮影されて、どのアプリで編集されたか」ということを証明することで実写画像かフェイク画像かを見分けられるようにします。2025年8月28日に登場したPixel 10シリーズもC2PAに対応しており、撮影した写真や編集した写真にコンテンツ認証情報を埋め込むことが可能。文章の説明だけだとよく分からないので、実際にコンテンツ認証情報を見る方法や効果をまとめてみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250830&amp;#45;google&amp;#45;pixel&amp;#45;10&amp;#45;c2pa/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 30 Aug 2025 17:24:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
