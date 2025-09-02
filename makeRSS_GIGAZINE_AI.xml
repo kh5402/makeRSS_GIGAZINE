@@ -16624,5 +16624,17 @@
       <description>&lt;![CDATA[顧客管理ソフトウェア等を販売するSalesforceのマーク・ベニオフCEOが、「AIのおかげで4000人の人員削減が可能になった」と発言しました。自律型のAIエージェントを導入したためにカスタマーサポート部門の仕事が大きく減り、人員を営業部門へ回せるようになったそうです。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250902&amp;#45;salesforce&amp;#45;ai&amp;#45;rebalance/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 02 Sep 2025 11:37:00 +0900</pubDate>
     </item>
+    <item>
+      <title>33言語の相互翻訳が可能な70億パラメータの軽量翻訳モデル「Hunyuan&amp;#45;MT&amp;#45;7B」と「Hunyuan&amp;#45;MT&amp;#45;Chimera&amp;#45;7B」をテンセントがオープンソース化、ベンチマークで既存のモデルに勝ったと主張</title>
+      <link>https://gigazine.net/news/20250902-tencent-hunyuan-mt-7b/</link>
+      <description>&lt;![CDATA[テンセントの大規模言語モデル「Hunyuan(混元)」開発チームが、文章を外国語に翻訳するのに特化したAI「Hunyuan-MT-7B」「Hunyuan-MT-Chimera-7B」をオープンモデルで公開しました。Hunyuanは、Hunyuan-MT-7Bが軽量な7Bモデルでありながら、ベンチマークではGPT-4.1のようなクローズドソースモデルに匹敵するパフォーマンスを示したとアピールしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250902&amp;#45;tencent&amp;#45;hunyuan&amp;#45;mt&amp;#45;7b/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 12:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>各種AIボットによるウェブサイトへのアクセス数をCloudflareが集計してグラフ化、最も活動量の多いAIボットは何なのか？</title>
+      <link>https://gigazine.net/news/20250902-cloudflare-ai-bot-radar/</link>
+      <description>&lt;![CDATA[AI企業はAIの学習データを収集するためにボットを用いてインターネット上のウェブサイトの情報を収集しています。また、各種チャットAIがユーザーの質問に答えるためにウェブサイトにアクセスすることもあります。こうしたAIに関連するトラフィックについての分析結果をCloudflareが公開しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250902&amp;#45;cloudflare&amp;#45;ai&amp;#45;bot&amp;#45;radar/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 02 Sep 2025 12:35:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
