@@ -16756,5 +16756,11 @@
       <description>&lt;![CDATA[チャットAI「Claude」の開発元であるAnthropicが著作権侵害で作家グループから訴えられた件で、同社は和解のために15億ドル(約2200億円)を支払うことが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250906&amp;#45;ai&amp;#45;settlement&amp;#45;anthropic&amp;#45;pay&amp;#45;1&amp;#45;5&amp;#45;billion/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 06 Sep 2025 15:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>GPT&amp;#45;5のような大規模言語モデルがなぜ幻覚を起こしてしまうのかをOpenAIの研究チームが論文で発表</title>
+      <link>https://gigazine.net/news/20250908-openai-gpt-5-hallucination/</link>
+      <description>&lt;![CDATA[大規模言語モデルはまるで人間が書いたような自然な文章を生成できるAIですが、事実に基づかない情報やもっともらしいウソをまるで本当のことのように述べる「幻覚(ハルシネーション)」という現象を起こすことがあります。ChatGPTを開発したOpenAIの研究者が、言語モデルがハルシネーションを起こす原因について分析した論文を新たに発表しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250908&amp;#45;openai&amp;#45;gpt&amp;#45;5&amp;#45;hallucination/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Mon, 08 Sep 2025 11:21:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
