@@ -16840,5 +16840,17 @@
       <description>&lt;![CDATA[Microsoft製統合開発環境(IDE)「Visual Studio」のプレビュー版にあたる「Visual Studio 2026 Insiders」が2025年9月10日に公開されました。Visual Studio 2026 InsidersはAIアシスタントの統合に重点を置いて開発されているほか、外観の更新も含まれています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250911&amp;#45;visual&amp;#45;studio&amp;#45;2026&amp;#45;insiders&amp;#45;ide/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 11 Sep 2025 18:27:00 +0900</pubDate>
     </item>
+    <item>
+      <title>MicrosoftとOpenAIが提携関係の見直しへ、非営利団体OpenAI Incは引き続き非営利団体であり続けることも表明</title>
+      <link>https://gigazine.net/news/20250912-microsoft-openai-revise-partnership/</link>
+      <description>&lt;![CDATA[MicrosoftとOpenAIが、提携関係の内容を見直す、拘束力のない覚書(MOU)に署名したと共同声明を発表しました。これまで、複雑な組織構造を持つOpenAIのIPO実現のため、両社は協議を重ねており、落とし所が見つかったものとみられます。共同声明に合わせて、OpenAIのブレット・テイラー会長は、営利目的子会社の「OpenAI Global, LLC」を所有・管理する非営利団体「OpenAI Inc.」が引き続き非営利団体であり続けることも明らかにしています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250912&amp;#45;microsoft&amp;#45;openai&amp;#45;revise&amp;#45;partnership/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 11:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コスパの高いAIモデル「Qwen3&amp;#45;Next」登場、従来より10倍高速で同等以上の性能を実現</title>
+      <link>https://gigazine.net/news/20250912-qwen3-next/</link>
+      <description>&lt;![CDATA[中国の大手テクノロジー企業「Alibaba」のAI研究チームが低コストかつ高性能なAIモデル「Qwen3-Next」を開発して無料公開しました。Qwen3-Nextは従来モデルと比べて10分の1以下のコストでトレーニングされており、入力トークンが多い状況では10倍以上高速な推論処理が可能。それでいて、性能は従来モデルと同等以上で、一部のテストではGoogleのGemini-2.5-Flash-Thinkingを上回っているとアピールされています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250912&amp;#45;qwen3&amp;#45;next/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 12 Sep 2025 11:10:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
