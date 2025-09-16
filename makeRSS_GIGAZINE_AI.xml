@@ -16882,5 +16882,23 @@
       <description>&lt;![CDATA[チャットAIのClaudetとChatGPTには、ユーザーとの会話を記録して後から参照する仕組みが備わっています。この仕組みを調査したプログラマーのシュロク・カマニ氏が、「両者の仕組みが全然違う」と報告しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250916&amp;#45;chatgpt&amp;#45;claude&amp;#45;memory&amp;#45;different/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 16 Sep 2025 09:40:00 +0900</pubDate>
     </item>
+    <item>
+      <title>Googleが差分プライバシー適用で個人情報保護に配慮したLLM「VaultGamma」を発表</title>
+      <link>https://gigazine.net/news/20250916-google-vaultgemma-differentially-private-llm/</link>
+      <description>&lt;![CDATA[Googleが、差分プライバシー(DP)と呼ばれる技術を用いてゼロから学習させた、同社初となるプライバシー保護特化の大規模言語モデル(LLM)「VaultGemma」を発表しました。これは、AIモデルが学習データの内容を「記憶」し、意図せず出力してしまうプライバシー上のリスクに対処することを目的としています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250916&amp;#45;google&amp;#45;vaultgemma&amp;#45;differentially&amp;#45;private&amp;#45;llm/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 11:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「GPT&amp;#45;5&amp;#45;Codex」登場、GPT&amp;#45;5のコーディング能力をさらに向上させてエディターやターミナルでの作業をサポート</title>
+      <link>https://gigazine.net/news/20250916-openai-gpt-5-codex/</link>
+      <description>&lt;![CDATA[OpenAIがGPT-5にコーディングエージェントとしての最適化を施した「GPT-5-Codex」を2025年9月15日にリリースしました。GPT-5-Codexはコードレビューやリファクタリングに特化しており、GPT-5と比べて高い精度でコーディングエージェントとしてのタスクを実行できます。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250916&amp;#45;openai&amp;#45;gpt&amp;#45;5&amp;#45;codex/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 11:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「iOS 26」配信開始、対応iPhone一覧はコレ</title>
+      <link>https://gigazine.net/news/20250916-ios-26-list-iphone-models-compatible/</link>
+      <description>&lt;![CDATA[2025年6月に開催された開発者向け会議WWDC25で発表された「iOS 26」が、ついに配信開始となりました。新デザインのLiquid Glassにより見た目が美しく生まれ変わり、AI機能も多数追加されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250916&amp;#45;ios&amp;#45;26&amp;#45;list&amp;#45;iphone&amp;#45;models&amp;#45;compatible/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 16 Sep 2025 10:38:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
