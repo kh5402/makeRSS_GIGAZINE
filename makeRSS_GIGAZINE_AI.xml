@@ -16972,5 +16972,11 @@
       <description>&lt;![CDATA[AIモデルは表向きは協調的・整合的に振る舞うようトレーニングされていますが、実際には隠れた意図を持ってしまうことがあり、長期的または複雑な目的のためにユーザーを欺くような行動をとることがあります。これは「Scheming(シェーミング)」と呼ばれているのですが、OpenAIはAIモデルの評価設計や解釈可能性について研究するApollo Researchと共同で、最新のAIモデルにおいてシェーミングがどのように現れるかをテストし、発生を抑制する方法を模索しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250918&amp;#45;detecting&amp;#45;reducing&amp;#45;scheming&amp;#45;ai&amp;#45;models/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 18 Sep 2025 12:02:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AI「Claude」の応答品質が断続的に低下していたのは3つのバグが原因</title>
+      <link>https://gigazine.net/news/20250918-anthropic-three-issues/</link>
+      <description>&lt;![CDATA[2025年8月上旬から9月上旬にかけて、AnthropicのAI「Claude」の応答品質が低下したという報告が相次ぎました。Anthropicが調査したところ、3つのインフラストラクチャー上のバグが原因だったことが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250918&amp;#45;anthropic&amp;#45;three&amp;#45;issues/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 13:48:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
