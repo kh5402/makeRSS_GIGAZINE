@@ -16978,5 +16978,11 @@
       <description>&lt;![CDATA[2025年8月上旬から9月上旬にかけて、AnthropicのAI「Claude」の応答品質が低下したという報告が相次ぎました。Anthropicが調査したところ、3つのインフラストラクチャー上のバグが原因だったことが明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250918&amp;#45;anthropic&amp;#45;three&amp;#45;issues/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Thu, 18 Sep 2025 13:48:00 +0900</pubDate>
     </item>
+    <item>
+      <title>中国製AI「DeepSeek」は中国政府の好まない相手向けにわざと低品質な回答を出力している可能性あり</title>
+      <link>https://gigazine.net/news/20250918-deepseek-misinformation-for-china-disfavors/</link>
+      <description>&lt;![CDATA[中国のAI企業「DeepSeek」が発表している一連のAIモデルは、ChatGPTを提供しているOpenAIのAIモデルと遜色ないか場合によっては上回る性能を発揮するとされています。一方で、中国に関するデリケートな話題については回答を拒否するケースがあり、中国政府の影響下にあるという指摘があるのですが、新たな研究によって、ユーザーが中国政府の好まない相手の場合、意図的に低品質な答えを返している可能性が指摘されています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250918&amp;#45;deepseek&amp;#45;misinformation&amp;#45;for&amp;#45;china&amp;#45;disfavors/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Thu, 18 Sep 2025 15:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
