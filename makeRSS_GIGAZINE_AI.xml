@@ -17152,5 +17152,11 @@
       <description>&lt;![CDATA[中国に拠点を置くAI企業のDeepSeekが、長大な入力に最適化したAIモデル「DeepSeek-V3.2-Exp」を発表しました。DeepSeek-V3.2-Expは同等のベンチマークスコアを記録する他のモデルと比べて大きな入力を与えられた際の計算効率がはるかに向上しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250930&amp;#45;deepseek&amp;#45;v3&amp;#45;2&amp;#45;exp/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 30 Sep 2025 13:10:00 +0900</pubDate>
     </item>
+    <item>
+      <title>iOS 26で登場したAppleのローカルAIモデルをサードパーティー開発者も利用できる「Foundation Models」の活用事例、ストーリー生成・支出分析・F1レース概要など</title>
+      <link>https://gigazine.net/news/20250930-how-developer-use-apple-local-ai-ios-26/</link>
+      <description>&lt;![CDATA[Appleが2025年9月にリリースした「iOS 26」では、iPhone上で動作する大規模言語モデル(LLM)へのアクセスをサードパーティー開発者に提供するFoundation Modelsというフレームワークがリリースされています。サードパーティー開発者は、このFoundation Modelsをアプリケーションでどのように活用しているのかを、テクノロジーメディアのTechCrunchがまとめました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20250930&amp;#45;how&amp;#45;developer&amp;#45;use&amp;#45;apple&amp;#45;local&amp;#45;ai&amp;#45;ios&amp;#45;26/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 20:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
