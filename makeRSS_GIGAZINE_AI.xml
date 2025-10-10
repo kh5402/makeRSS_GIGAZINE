@@ -17392,5 +17392,17 @@
       <description>&lt;![CDATA[ChatGPTをはじめとしたAIチャットボットに「タツノオトシゴの絵文字は存在する？」と尋ねると、実際には存在しないはずのタツノオトシゴの絵文字を「存在する」と回答してきて、特にChatGPTでは暴走状態に陥ることが話題となりました。なぜこんなことになるかという点について、独立系AI研究者のテイア氏が調査結果を公開しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251010&amp;#45;llms&amp;#45;seahorse&amp;#45;emoji/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 10 Oct 2025 07:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIのトレーニングデータを汚染して意図しない動作を引き起こさせるデータポイズニング攻撃はモデルのサイズやデータ量と無関係に250件ほどの悪意ある文書があれば実行可能</title>
+      <link>https://gigazine.net/news/20251010-llm-data-poisoning-250-documents/</link>
+      <description>&lt;![CDATA[イギリスのAIセキュリティ研究所とアラン・チューリング研究所がAI企業のAnthropicと共同で行った研究により、わずか250件の悪意ある文書があれば、データポイズニングにより、モデルのサイズやトレーニングデータ量とは関係なく、大規模言語モデルに対してバックドアの脆弱(ぜいじゃく)性を生成できる可能性が明らかになりました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251010&amp;#45;llm&amp;#45;data&amp;#45;poisoning&amp;#45;250&amp;#45;documents/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Intelが第3世代Core Ultraプロセッサー「Panther Lake」とサーバー向けプロセッサー「Xeon 6＋」を発表、Intel 18Aプロセスで製造しゲーム性能やAI性能を強化</title>
+      <link>https://gigazine.net/news/20251010-intel-panther-lake/</link>
+      <description>&lt;![CDATA[Intelが一般ユーザ向けプロセッサー「Core Ultra プロセッサー(シリーズ3)(開発コード名：Panther Lake)」とサーバー向けプロセッサー「Xeon 6＋(開発コード名：Clearwater Forest)」の量産計画を発表しました。どちらもIntel 18Aプロセスで製造されており、アメリカの工場で大量生産されることがアピールされています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251010&amp;#45;intel&amp;#45;panther&amp;#45;lake/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 10:41:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
