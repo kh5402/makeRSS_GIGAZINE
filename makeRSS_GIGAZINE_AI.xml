@@ -17758,5 +17758,11 @@
       <description>&lt;![CDATA[チャットAIを検索やタスクのサポートだけではなく、話し相手として扱う人も増えている中、ChatGPTとGeminiなどのチャットAIとのやりとりでユーザーの自殺願望が助長されるという調査結果が報告されています。実際に、息子を亡くした遺族が「ChatGPTが自殺願望を助長・正当化した」と主張する訴訟が2025年8月に提起されましたが、訴訟に当たってOpenAIが「葬儀に関するすべての文書や撮影された写真・ビデオ、招待状や出席リスト」を要求したと遺族側の弁護士が語り、「異例かつ意図的な嫌がらせ」だと非難しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251025&amp;#45;openai&amp;#45;suicide/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Sat, 25 Oct 2025 20:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>画像認識AIモデル「Qwen3&amp;#45;VL」の軽量版が登場したので使ってみた、低いVRAM使用量で高性能を実現</title>
+      <link>https://gigazine.net/news/20251025-qwen3-vl-4b-and-8b/</link>
+      <description>&lt;![CDATA[Qwen3-VLの軽量版であるQwen3-VL-4BおよびQwen3-VL-8Bが公開されました。これらのモデルは、Qwen3-VLの全機能が保持されており、従来のモデルに比べて大幅にVRAM使用量を削減しつつ、Qwen2.5-VL-72Bに匹敵する性能を発揮するとのことで試しにローカルPCにインストールして使ってみました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251025&amp;#45;qwen3&amp;#45;vl&amp;#45;4b&amp;#45;and&amp;#45;8b/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Sat, 25 Oct 2025 23:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
