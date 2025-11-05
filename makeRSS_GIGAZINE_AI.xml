@@ -18016,5 +18016,11 @@
       <description>&lt;![CDATA[Amazon Web Services(AWS)は2025年11月4日に、アメリカとアイルランドを結ぶ大西洋横断海底光ファイバーケーブルシステム「Fastnet」を発表しました。Fastnetは耐障害性を持つ独自の設計によりグローバルな接続性向上や高まるAI需要に対応することを目的としており、2028年に運用が開始される予定です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251105&amp;#45;amazon&amp;#45;fastnet/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 05 Nov 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIなどのAI学習元アーカイブを構築してきた非営利団体「Common Crawl」の実態、有料ページを含む数十億のウェブページを2013年以来スクレイピングし続けている</title>
+      <link>https://gigazine.net/news/20251105-common-crawl-web-scraping/</link>
+      <description>&lt;![CDATA[非営利団体Common Crawlは、10年以上にわたりインターネットの広範なアーカイブを構築してきました。このペタバイト規模のデータベースは研究用に無料で公開されていますが、近年、OpenAI、Google、Meta、AmazonといったAI企業が大規模言語モデル(LLM)の訓練に利用していることが物議を醸していると、アメリカの月刊雑誌・The Atlanticが指摘しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251105&amp;#45;common&amp;#45;crawl&amp;#45;web&amp;#45;scraping/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 05 Nov 2025 21:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
