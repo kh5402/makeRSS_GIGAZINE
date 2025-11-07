@@ -18088,5 +18088,11 @@
       <description>&lt;![CDATA[MicrosoftのAI開発研究所であるMicrosoft AI(MAI)が、ヒューマニスト・スーパーインテリジェンス(HSI)の実現に向けてMAIスーパーインテリジェンスチームの結成を発表しました。これによりMicrosoftはAI開発におけるOpenAI依存から脱却し、独自のAI開発を進める予定です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251107&amp;#45;microsoft&amp;#45;ai&amp;#45;humanist&amp;#45;superintelligence/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Fri, 07 Nov 2025 12:08:00 +0900</pubDate>
     </item>
+    <item>
+      <title>ソニーがAIモデルの公平性を評価するためのデータセット「Fair Human&amp;#45;Centric Image Benchmark(FHIBE)」を公開</title>
+      <link>https://gigazine.net/news/20251107-sony-ai-dataset-fhibe/</link>
+      <description>&lt;![CDATA[コンピュータービジョンは自動運転車やスマートフォンなどさまざまな分野に活用されていますが、多くのデータセットは依然としてバイアスや多様性の欠如、倫理的に責任のある方法で収集されていない、つまりは被写体の同意なしに写真がAIトレーニングに利用されているなどの問題を抱えています。人間中心のコンピュータービジョンタスクにおける公平性を評価するために特別に構築された、多様性に富んだ、被写体の同意に基づいた初めての公開データセットが「Fair Human-Centric Image Benchmark(FHIBE)」です。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251107&amp;#45;sony&amp;#45;ai&amp;#45;dataset&amp;#45;fhibe/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 19:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
