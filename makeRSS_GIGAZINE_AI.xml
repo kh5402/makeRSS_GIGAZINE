@@ -18172,5 +18172,17 @@
       <description>&lt;![CDATA[Metaが文字起こしAI「Omnilingual ASR」をリリースしました。Omnilingual ASRは日本語を含む1600以上の言語の文字起こしに対応しており、対応言語を簡単に追加できることも特徴としています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251111&amp;#45;meta&amp;#45;omnilingual&amp;#45;asr/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Tue, 11 Nov 2025 11:08:00 +0900</pubDate>
     </item>
+    <item>
+      <title>AIが作ったカントリーソングがビルボードチャートでトップに</title>
+      <link>https://gigazine.net/news/20251111-ai-generated-song-billboard/</link>
+      <description>&lt;![CDATA[音楽チャート「ビルボード」のカントリーソング部門で、AIで生成された音楽が首位を獲得したことが分かりました。こうしたAI生成音楽の配信者は、人間の配信者以上にファンを獲得していることも明らかになっています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251111&amp;#45;ai&amp;#45;generated&amp;#45;song&amp;#45;billboard/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 11 Nov 2025 12:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Microsoftの研究者がAIチャットボットとの会話内容を通信パケットと送信タイミングから特定する攻撃「Whisper Leak」を報告</title>
+      <link>https://gigazine.net/news/20251111-whisper-leak/</link>
+      <description>&lt;![CDATA[Microsoftの研究者らが、ChatGPTやGoogle GeminiなどのAIチャットボットを支える大規模言語モデル(LLM)に、暗号化された通信からでも会話のトピックを推測することを可能にする脆弱(ぜいじゃく)性「Whisper Leak」を報告しています。このWhisper Leakは、テストされた28種類のLLMの多くに影響を及ぼすことが確認されました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251111&amp;#45;whisper&amp;#45;leak/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Tue, 11 Nov 2025 12:40:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
