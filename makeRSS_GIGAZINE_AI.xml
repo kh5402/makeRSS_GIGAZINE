@@ -18220,5 +18220,11 @@
       <description>&lt;![CDATA[GoogleはAIを用いてセキュリティの脆弱(ぜいじゃく)性を見つけるシステム「Big Sleep」の運用で、これまでに様々な脆弱性やバグを見つけてきました。しかし、多くの報告が送られてくることから、オープンソースプロジェクトでは大きな負担となっています。有能な開発者が「他の作業ができない」として離脱する事態も発生していることから、マルチメディアフレームワークのFFmpegが「高給取りのエンジニアを抱える企業がボランティアに仕事を押し付けている」「本当にリスクを防ぎたいならGoogleがパッチを書いて送ってくるべき」「本気でバグをつぶしたいわけではなく検出＆報告の実績を作りたいだけ」と苦言を呈しています。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251112&amp;#45;ffmpeg&amp;#45;google/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
       <pubDate>Wed, 12 Nov 2025 19:00:00 +0900</pubDate>
     </item>
+    <item>
+      <title>OpenAIとGoogleの画像生成AIを大量のサンプルで比較した結果をカメラアプリ開発者が公開</title>
+      <link>https://gigazine.net/news/20251112-gpt-image-nano-banana-seedream/</link>
+      <description>&lt;![CDATA[カメラアプリ「Photon Camera」や画像編集アプリ「Photon Enhance」を開発するLateNiteSoftが、複数のサンプル写真を用いて各種画像編集AIの性能を比較した結果を公開しました。&lt;p&gt;&lt;b&gt;&lt;a href="https://gigazine.net/news/20251112&amp;#45;gpt&amp;#45;image&amp;#45;nano&amp;#45;banana&amp;#45;seedream/"&gt;続きを読む...&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 20:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
